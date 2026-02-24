@@ -5,604 +5,869 @@
   <channel id="GH.CAM1"><display-name>Cámara 1</display-name></channel>
   <channel id="GH.CAM2"><display-name>Cámara 2</display-name></channel>
   <channel id="GH.CAM3"><display-name>Cámara 3</display-name></channel>
+  <channel id="Simpson"><display-name>Los Simpson</display-name></channel>
   <programme start="20260224000000 +0000" stop="20260224030000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224030000 +0000" stop="20260224060000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224060000 +0000" stop="20260224090000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224090000 +0000" stop="20260224120000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224120000 +0000" stop="20260224150000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224150000 +0000" stop="20260224180000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224180000 +0000" stop="20260224210000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224210000 +0000" stop="20260225000000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225000000 +0000" stop="20260225030000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225030000 +0000" stop="20260225060000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225060000 +0000" stop="20260225090000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225090000 +0000" stop="20260225120000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225120000 +0000" stop="20260225150000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225150000 +0000" stop="20260225180000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225180000 +0000" stop="20260225210000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225210000 +0000" stop="20260226000000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226000000 +0000" stop="20260226030000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226030000 +0000" stop="20260226060000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226060000 +0000" stop="20260226090000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226090000 +0000" stop="20260226120000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226120000 +0000" stop="20260226150000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226150000 +0000" stop="20260226180000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226180000 +0000" stop="20260226210000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226210000 +0000" stop="20260227000000 +0000" channel="GH.MULTI">
     <title lang="es">GH - Experiencia Multicámara</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224000000 +0000" stop="20260224030000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224030000 +0000" stop="20260224060000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224060000 +0000" stop="20260224090000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224090000 +0000" stop="20260224120000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224120000 +0000" stop="20260224150000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224150000 +0000" stop="20260224180000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224180000 +0000" stop="20260224210000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224210000 +0000" stop="20260225000000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225000000 +0000" stop="20260225030000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225030000 +0000" stop="20260225060000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225060000 +0000" stop="20260225090000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225090000 +0000" stop="20260225120000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225120000 +0000" stop="20260225150000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225150000 +0000" stop="20260225180000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225180000 +0000" stop="20260225210000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225210000 +0000" stop="20260226000000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226000000 +0000" stop="20260226030000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226030000 +0000" stop="20260226060000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226060000 +0000" stop="20260226090000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226090000 +0000" stop="20260226120000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226120000 +0000" stop="20260226150000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226150000 +0000" stop="20260226180000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226180000 +0000" stop="20260226210000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226210000 +0000" stop="20260227000000 +0000" channel="GH.24HS">
     <title lang="es">Gran Hermano 24 hs.</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224000000 +0000" stop="20260224030000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224030000 +0000" stop="20260224060000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224060000 +0000" stop="20260224090000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224090000 +0000" stop="20260224120000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224120000 +0000" stop="20260224150000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224150000 +0000" stop="20260224180000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224180000 +0000" stop="20260224210000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224210000 +0000" stop="20260225000000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225000000 +0000" stop="20260225030000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225030000 +0000" stop="20260225060000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225060000 +0000" stop="20260225090000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225090000 +0000" stop="20260225120000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225120000 +0000" stop="20260225150000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225150000 +0000" stop="20260225180000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225180000 +0000" stop="20260225210000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225210000 +0000" stop="20260226000000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226000000 +0000" stop="20260226030000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226030000 +0000" stop="20260226060000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226060000 +0000" stop="20260226090000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226090000 +0000" stop="20260226120000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226120000 +0000" stop="20260226150000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226150000 +0000" stop="20260226180000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226180000 +0000" stop="20260226210000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226210000 +0000" stop="20260227000000 +0000" channel="GH.CAM1">
     <title lang="es">Gran Hermano - Cámara 1</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224000000 +0000" stop="20260224030000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224030000 +0000" stop="20260224060000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224060000 +0000" stop="20260224090000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224090000 +0000" stop="20260224120000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224120000 +0000" stop="20260224150000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224150000 +0000" stop="20260224180000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224180000 +0000" stop="20260224210000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224210000 +0000" stop="20260225000000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225000000 +0000" stop="20260225030000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225030000 +0000" stop="20260225060000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225060000 +0000" stop="20260225090000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225090000 +0000" stop="20260225120000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225120000 +0000" stop="20260225150000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225150000 +0000" stop="20260225180000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225180000 +0000" stop="20260225210000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225210000 +0000" stop="20260226000000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226000000 +0000" stop="20260226030000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226030000 +0000" stop="20260226060000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226060000 +0000" stop="20260226090000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226090000 +0000" stop="20260226120000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226120000 +0000" stop="20260226150000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226150000 +0000" stop="20260226180000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226180000 +0000" stop="20260226210000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226210000 +0000" stop="20260227000000 +0000" channel="GH.CAM2">
     <title lang="es">Gran Hermano - Cámara 2</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224000000 +0000" stop="20260224030000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224030000 +0000" stop="20260224060000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224060000 +0000" stop="20260224090000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224090000 +0000" stop="20260224120000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224120000 +0000" stop="20260224150000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224150000 +0000" stop="20260224180000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224180000 +0000" stop="20260224210000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260224210000 +0000" stop="20260225000000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225000000 +0000" stop="20260225030000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225030000 +0000" stop="20260225060000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225060000 +0000" stop="20260225090000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225090000 +0000" stop="20260225120000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225120000 +0000" stop="20260225150000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225150000 +0000" stop="20260225180000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225180000 +0000" stop="20260225210000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260225210000 +0000" stop="20260226000000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226000000 +0000" stop="20260226030000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226030000 +0000" stop="20260226060000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226060000 +0000" stop="20260226090000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226090000 +0000" stop="20260226120000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226120000 +0000" stop="20260226150000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226150000 +0000" stop="20260226180000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226180000 +0000" stop="20260226210000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </programme>
   <programme start="20260226210000 +0000" stop="20260227000000 +0000" channel="GH.CAM3">
     <title lang="es">Gran Hermano - Cámara 3</title>
-    <desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+<desc lang="es">La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia.</desc>
+    <category>Reality</category>
+<icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
+  </programme>
+  <programme start="20260224000000 +0000" stop="20260224030000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260224030000 +0000" stop="20260224060000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260224060000 +0000" stop="20260224090000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260224090000 +0000" stop="20260224120000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260224120000 +0000" stop="20260224150000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260224150000 +0000" stop="20260224180000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260224180000 +0000" stop="20260224210000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260224210000 +0000" stop="20260225000000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260225030000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260225030000 +0000" stop="20260225060000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260225060000 +0000" stop="20260225090000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260225090000 +0000" stop="20260225120000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260225120000 +0000" stop="20260225150000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260225150000 +0000" stop="20260225180000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260225180000 +0000" stop="20260225210000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260225210000 +0000" stop="20260226000000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260226030000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260226030000 +0000" stop="20260226060000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260226060000 +0000" stop="20260226090000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260226090000 +0000" stop="20260226120000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260226120000 +0000" stop="20260226150000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260226150000 +0000" stop="20260226180000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260226180000 +0000" stop="20260226210000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
+  </programme>
+  <programme start="20260226210000 +0000" stop="20260227000000 +0000" channel="Simpson">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield. Elenco: Julie Kavner, Yeardley Smith, Hank Azaria. Director: Jim Reardon.</desc>
+    <category>Comedia, Animación</category>
+    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
   </programme>
 </tv>
