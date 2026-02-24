@@ -1,6 +1,7 @@
+import requests
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 
-# Lista única de todos los canales
 canales = [
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "g": "Reality", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada."},
     {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "g": "Reality", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada."},
@@ -78,29 +79,30 @@ canales = [
 def generar():
     now = datetime.now()
     inicio = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    xml = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n'
-    
-    # Declaración de canales
-    for c in canales:
-        xml += f'  <channel id="{c["id"]}"><display-name>{c["n"]}</display-name></channel>\n'
+    tv_root = ET.Element("tv")
 
-    # Generación de programas (bloques de 3hs para todos, 2 días)
     for c in canales:
+        chan_el = ET.SubElement(tv_root, "channel", {"tvg-id": c["id"]})
+        ET.SubElement(chan_el, "display-name").text = c["n"]
+        
         for d in range(2):
             for h in range(0, 24, 3):
                 s = (inicio + timedelta(days=d, hours=h)).strftime("%Y%m%d%H%M%S +0000")
                 e = (inicio + timedelta(days=d, hours=h+3)).strftime("%Y%m%d%H%M%S +0000")
-                xml += f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">\n'
-                xml += f'    <title lang="es">{c["t"]}</title>\n'
-                xml += f'    <desc lang="es">{c["d"]}</desc>\n'
-                xml += f'    <category>{c["g"]}</category>\n'
-                if c.get("i"): 
-                    xml += f'    <icon src="{c["i"]}" />\n'
-                xml += f'  </programme>\n'
+                prog = ET.SubElement(tv_root, "programme", {
+                    "start": s, 
+                    "stop": e, 
+                    "tvg-id": c["id"]
+                })
+                ET.SubElement(prog, "title", lang="es").text = c["t"]
+                ET.SubElement(prog, "desc", lang="es").text = c["d"]
+                ET.SubElement(prog, "category").text = c["g"]
+                if c.get("i"):
+                    ET.SubElement(prog, "icon", src=c["i"])
 
-    xml += '</tv>'
-    with open("data_v9.xml", "w", encoding="utf-8") as f:
-        f.write(xml)
+    tree = ET.ElementTree(tv_root)
+    ET.indent(tree, space="  ", level=0)
+    tree.write("data_v9.xml", encoding="utf-8", xml_declaration=True)
 
 if __name__ == "__main__":
     generar()
