@@ -1,11 +1,11 @@
 from datetime import datetime, timedelta
 
 canales = [
-    {"id": "GH.Multicamara", "nombre": "Multicámara", "titulo": "GH - Experiencia Multicámara"},
-    {"id": "GH.24hs", "nombre": "Gran Hermano 24 hs.", "titulo": "Gran Hermano 24 hs."},
-    {"id": "GH.Camara1", "nombre": "Cámara 1", "titulo": "Gran Hermano - Cámara 1"},
-    {"id": "GH.Camara2", "nombre": "Cámara 2", "titulo": "Gran Hermano - Cámara 2"},
-    {"id": "GH.Camara3", "nombre": "Cámara 3", "titulo": "Gran Hermano - Cámara 3"},
+    {"id": "GH.MULTI", "nombre": "Multicámara", "titulo": "GH - Experiencia Multicámara"},
+    {"id": "GH.24HS", "nombre": "Gran Hermano 24 hs.", "titulo": "Gran Hermano 24 hs."},
+    {"id": "GH.CAM1", "nombre": "Cámara 1", "titulo": "Gran Hermano - Cámara 1"},
+    {"id": "GH.CAM2", "nombre": "Cámara 2", "titulo": "Gran Hermano - Cámara 2"},
+    {"id": "GH.CAM3", "nombre": "Cámara 3", "titulo": "Gran Hermano - Cámara 3"},
 ]
 
 desc = "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio."
