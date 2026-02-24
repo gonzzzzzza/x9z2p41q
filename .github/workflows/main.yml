@@ -1,17 +1,21 @@
 name: Update
 on:
   schedule:
-    - cron: '0 4 * * *' # Se ejecuta a las 4 AM UTC (aprox medianoche Arg)
+    - cron: '0 4 * * *'
   workflow_dispatch:
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - setup-python: actions/setup-python@v4
-        with: {python-version: '3.9'}
-      - run: python generar_epg.py
-      - run: |
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Run Script
+        run: python generar_epg.py
+      - name: Push Changes
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Bot"
           git add data_v9.xml
