@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 
-# IDs actualizados según tu pedido
+# Diccionario de canales con sus IDs finales
 canales = [
     {"id": "GH.MULTI", "nombre": "Multicámara", "titulo": "GH - Experiencia Multicámara"},
     {"id": "GH.24HS", "nombre": "Gran Hermano 24 hs.", "titulo": "Gran Hermano 24 hs."},
@@ -14,24 +14,24 @@ img = "https://i.postimg.cc/hjxWkfMf/image.png"
 
 def generar():
     now = datetime.now()
-    # Iniciamos desde el comienzo del día actual
-    inicio = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    # Forzamos el inicio al principio del día de hoy
+    inicio_dia = now.replace(hour=0, minute=0, second=0, microsecond=0)
     
-    xml = '<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="D-SYS">\n'
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    xml += '<tv generator-info-name="D-SYS">\n'
     
-    # 1. Definir TODOS los canales en la cabecera
+    # Declaración de canales
     for c in canales:
-        xml += f'  <channel id="{c["id"]}"><display-name>{c["nombre"]}</display-name></channel>\n'
+        xml += f'  <channel id="{c["id"]}">\n    <display-name>{c["nombre"]}</display-name>\n  </channel>\n'
     
-    # 2. Generar programas para cada uno de los 5 canales
-    for d in range(3): # 3 días de cobertura
-        for h in range(0, 24, 3): # Bloques de 3 horas
-            s = (inicio + timedelta(days=d, hours=h)).strftime("%Y%m%d%H%M%S +0000")
-            e = (inicio + timedelta(days=d, hours=h+3)).strftime("%Y%m%d%H%M%S +0000")
-            
-            # ESTA PARTE ES CLAVE: debe iterar por cada canal del array
-            for c in canales:
-                xml += f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">\n'
+    # Generación de programas (Iteramos CADA canal y CADA bloque)
+    for c in canales:
+        for d in range(3):  # Generamos 3 días (hoy, mañana y pasado)
+            for h in range(0, 24, 3):
+                start_time = (inicio_dia + timedelta(days=d, hours=h)).strftime("%Y%m%d%H%M%S +0000")
+                stop_time = (inicio_dia + timedelta(days=d, hours=h+3)).strftime("%Y%m%d%H%M%S +0000")
+                
+                xml += f'  <programme start="{start_time}" stop="{stop_time}" channel="{c["id"]}">\n'
                 xml += f'    <title>{c["titulo"]}</title>\n'
                 xml += f'    <desc>{desc}</desc>\n'
                 xml += f'    <category>Reality</category>\n'
@@ -40,6 +40,7 @@ def generar():
                 xml += f'  </programme>\n'
                 
     xml += '</tv>'
+    
     with open("data_v9.xml", "w", encoding="utf-8") as f:
         f.write(xml)
 
