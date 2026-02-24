@@ -1,5 +1,6 @@
 from datetime import datetime, timedelta
 
+# LISTA COMPLETA DE 71 CANALES
 canales = [
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "g": "Reality", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada."},
     {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "g": "Reality", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada."},
@@ -64,7 +65,7 @@ canales = [
     {"id": "Radio.La.Red", "n": "Radio La Red", "t": "Radio La Red", "g": "Radios", "i": "", "d": "Actualidad, debate y noticias con opinión."},
     {"id": "Radio.Latina", "n": "Radio Latina", "t": "Radio Latina", "g": "Radios", "i": "", "d": "Éxitos en español y ritmos latinos para disfrutar."},
     {"id": "Radio.Los.40", "n": "Radio Los 40", "t": "Radio Los 40", "g": "Radios", "i": "", "d": "Los hits del momento y artistas que marcan tendencia pop."},
-    {"id": "Radio.Mega", "n": "Radio Mega", "t": "Radio Mega", "g": "Radios", "i": "", "d": "Música, entretenimiento y diversión para todos los gustos."},
+    {"id": "Radio.Mega", "n": "Radio Mega", "t": "Radio Mega", "g": "Radios", "i": "", "d": "Música, entertainment y diversión para todos los gustos."},
     {"id": "Radio.Nacional.Clasica", "n": "Radio Nacional Clásica", "t": "Nacional Clásica", "g": "Radios", "i": "", "d": "La música clásica y la cultura sonora a tu alcance."},
     {"id": "Radio.Nacional.Folclorica", "n": "Radio Nacional Folclórica", "t": "Nacional Folclórica", "g": "Radios", "i": "", "d": "Tradición, cultura y folclore argentino en cada nota."},
     {"id": "Radio.Nacional.Rock", "n": "Radio Nacional Rock", "t": "Nacional Rock", "g": "Radios", "i": "", "d": "Rock nacional e internacional las 24 horas."},
@@ -75,26 +76,34 @@ canales = [
 ]
 
 def generar():
-    now = datetime.now()
+    now = datetime.utcnow()
     inicio = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    xml = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n'
     
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    xml += '<tv generator-info="Gemini v9.5 • Generación automática de EPG">\n'
+    
+    # Declaración de canales usando id=""
     for c in canales:
-        # Inyectamos tvg-id directamente para Sparkle
-        xml += f'  <channel tvg-id="{c["id"]}"><display-name>{c["n"]}</display-name></channel>\n'
+        xml += f'  <channel id="{c["id"]}">\n'
+        xml += f'    <display-name>{c["n"]}</display-name>\n'
+        if c.get("i"):
+            xml += f'    <icon src="{c["i"]}" />\n'
+        xml += f'  </channel>\n'
 
+    # Programación
     for c in canales:
         for d in range(2):
             for h in range(0, 24, 3):
-                s = (inicio + timedelta(days=d, hours=h)).strftime("%Y%m%d%H%M%S +0000")
-                e = (inicio + timedelta(days=d, hours=h+3)).strftime("%Y%m%d%H%M%S +0000")
-                # Inyectamos tvg-id también en programme
-                xml += f'  <programme start="{s}" stop="{e}" tvg-id="{c["id"]}">\n'
+                s_date = inicio + timedelta(days=d, hours=h)
+                e_date = inicio + timedelta(days=d, hours=h+3)
+                s = s_date.strftime("%Y%m%d%H%M%S +0000")
+                e = e_date.strftime("%Y%m%d%H%M%S +0000")
+                
+                # Aquí también cambiamos tvg-id por channel=""
+                xml += f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">\n'
                 xml += f'    <title lang="es">{c["t"]}</title>\n'
                 xml += f'    <desc lang="es">{c["d"]}</desc>\n'
-                xml += f'    <category>{c["g"]}</category>\n'
-                if c.get("i"): 
-                    xml += f'    <icon src="{c["i"]}" />\n'
+                xml += f'    <category lang="es">{c["g"]}</category>\n'
                 xml += f'  </programme>\n'
 
     xml += '</tv>'
