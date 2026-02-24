@@ -1,5 +1,3 @@
-import requests
-import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 
 canales = [
@@ -61,7 +59,7 @@ canales = [
     {"id": "VTV.URUGUAY", "n": "VTV", "t": "VTV Uruguay", "g": "Interés general", "i": "https://i.postimg.cc/Y0Sncxc9/vtv.jpg", "d": "Noticias, actualidad y cobertura completa de Uruguay y el mundo."},
     {"id": "Noticias.Caracol", "n": "Noticias Caracol", "t": "Noticias Caracol", "g": "Noticias", "i": "https://i.postimg.cc/HxLYNfLz/image.png", "d": "La información que necesitás con análisis y reportajes importantes."},
     {"id": "Radio.Cosquin.Rock", "n": "Radio Cosquín Rock", "t": "Cosquín Rock", "g": "Radios", "i": "https://static.mytuner.mobi/media/tvos_radios/053/cosquin-rock-fm.71fd78e3.png", "d": "El rock argentino suena fuerte. Conciertos y clásicos."},
-    {"id": "Radio.Del.Plata", "n": "Radio Del Plata", "t": "Radio Del Plata", "g": "Radios", "i": "", "d": "Variedad musical, noticias y entretenimiento."},
+    {"id": "Radio.Del.Plata", "n": "Radio Del Plata", "t": "Radio Del Plata", "g": "Radios", "i": "", "d": "Variedad musical, noticias y entertainment."},
     {"id": "Radio.Disney", "n": "Radio Disney", "t": "Radio Disney", "g": "Radios", "i": "", "d": "Los hits que todos aman y contenido para toda la familia."},
     {"id": "Radio.La.Red", "n": "Radio La Red", "t": "Radio La Red", "g": "Radios", "i": "", "d": "Actualidad, debate y noticias con opinión."},
     {"id": "Radio.Latina", "n": "Radio Latina", "t": "Radio Latina", "g": "Radios", "i": "", "d": "Éxitos en español y ritmos latinos para disfrutar."},
@@ -79,30 +77,29 @@ canales = [
 def generar():
     now = datetime.now()
     inicio = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    tv_root = ET.Element("tv")
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n'
+    
+    for c in canales:
+        # Inyectamos tvg-id directamente para Sparkle
+        xml += f'  <channel tvg-id="{c["id"]}"><display-name>{c["n"]}</display-name></channel>\n'
 
     for c in canales:
-        chan_el = ET.SubElement(tv_root, "channel", {"tvg-id": c["id"]})
-        ET.SubElement(chan_el, "display-name").text = c["n"]
-        
         for d in range(2):
             for h in range(0, 24, 3):
                 s = (inicio + timedelta(days=d, hours=h)).strftime("%Y%m%d%H%M%S +0000")
                 e = (inicio + timedelta(days=d, hours=h+3)).strftime("%Y%m%d%H%M%S +0000")
-                prog = ET.SubElement(tv_root, "programme", {
-                    "start": s, 
-                    "stop": e, 
-                    "tvg-id": c["id"]
-                })
-                ET.SubElement(prog, "title", lang="es").text = c["t"]
-                ET.SubElement(prog, "desc", lang="es").text = c["d"]
-                ET.SubElement(prog, "category").text = c["g"]
-                if c.get("i"):
-                    ET.SubElement(prog, "icon", src=c["i"])
+                # Inyectamos tvg-id también en programme
+                xml += f'  <programme start="{s}" stop="{e}" tvg-id="{c["id"]}">\n'
+                xml += f'    <title lang="es">{c["t"]}</title>\n'
+                xml += f'    <desc lang="es">{c["d"]}</desc>\n'
+                xml += f'    <category>{c["g"]}</category>\n'
+                if c.get("i"): 
+                    xml += f'    <icon src="{c["i"]}" />\n'
+                xml += f'  </programme>\n'
 
-    tree = ET.ElementTree(tv_root)
-    ET.indent(tree, space="  ", level=0)
-    tree.write("data_v9.xml", encoding="utf-8", xml_declaration=True)
+    xml += '</tv>'
+    with open("data_v9.xml", "w", encoding="utf-8") as f:
+        f.write(xml)
 
 if __name__ == "__main__":
     generar()
