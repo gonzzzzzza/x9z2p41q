@@ -76,47 +76,44 @@ canales = [
 
 def generar_xml():
     now = datetime.datetime.utcnow()
-    # Inicia desde ayer para que Sparkle siempre encuentre programas pasados/actuales
     inicio_guia = now.replace(hour=0, minute=0, second=0, microsecond=0) - datetime.timedelta(days=1)
-    
+
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPGCL">')
-    
-    # CANALES (Con lang="es" para display-name)
+
+    # CANALES (SIN ICONOS)
     for c in canales:
         lines.append(f'  <channel id="{c["id"]}">')
-        lines.append(f'    <display-name lang="es">{c["n"]}</display-name>')
-        if c.get("i"):
-            lines.append(f'    <icon src="{c["i"]}" />')
+        lines.append(f'    <display-name>{c["n"]}</display-name>')
         lines.append('  </channel>')
 
-    # PROGRAMAS (Orden start-stop-channel y lang="es")
+    # PROGRAMAS (3 HORAS)
     for c in canales:
-        for d in range(5): # Generamos 5 días para estar seguros
-            for h in range(0, 24, 4): # Bloques de 4 horas
+        for d in range(5):
+            for h in range(0, 24, 3):
                 start_dt = inicio_guia + datetime.timedelta(days=d, hours=h)
-                stop_dt = start_dt + datetime.timedelta(hours=4)
-                
-                # Formato de tiempo compatible con tus archivos exitosos (-0300)
+                stop_dt = start_dt + datetime.timedelta(hours=3)
+
                 s = start_dt.strftime("%Y%m%d%H%M%S -0300")
                 e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
-                
+
                 lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
-                lines.append(f'    <title lang="es">{c["t"]}</title>')
-                lines.append(f'    <desc lang="es">{c["d"]}</desc>')
-                lines.append(f'    <category lang="es">{c["g"]}</category>')
+                lines.append(f'    <title>{c["t"]}</title>')
+                lines.append(f'    <desc>{c["d"]}</desc>')
+                lines.append(f'    <category>{c["g"]}</category>')
                 if c.get("i"):
                     lines.append(f'    <icon src="{c["i"]}" />')
                 lines.append('  </programme>')
 
     lines.append('</tv>')
-    
+
     final_xml = "\r\n".join(lines)
-    
-    with open("data_v9.xml", "wb") as f:
+
+    with open("data.xml", "wb") as f:
         f.write(final_xml.encode("utf-8"))
-    print("¡Listo! Archivo data_v9.xml generado con éxito.")
+
+    print("Listo: data.xml generado correctamente.")
 
 if __name__ == "__main__":
     generar_xml()
