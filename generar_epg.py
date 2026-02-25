@@ -3,12 +3,12 @@ import datetime
 # CONFIGURACIÓN DE LOS 71 CANALES
 # 'i' es el logo del canal, 'm' es la miniatura del programa
 canales = [
-    {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "d": "La casa más famosa del país vuelve a abrir sus puertas.", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
-    {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "d": "La casa más famosa del país en vivo.", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
-    {"id": "GH.CAM1", "n": "Cámara 1", "t": "Gran Hermano - Cámara 1", "d": "Cámara exclusiva de la casa.", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
-    {"id": "GH.CAM2", "n": "Cámara 2", "t": "Gran Hermano - Cámara 2", "d": "Cámara exclusiva de la casa.", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
-    {"id": "GH.CAM3", "n": "Cámara 3", "t": "Gran Hermano - Cámara 3", "d": "Cámara exclusiva de la casa.", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
-    {"id": "Simpson", "n": "Los Simpson", "t": "Los Simpson", "d": "Narra las vivencias de una peculiar familia norteamericana.", "i": "https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg", "m": ""},
+    {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "d": "La casa más famosa del país vuelve a abrir sus puertas.", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
+    {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "d": "La casa más famosa del país en vivo.", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
+    {"id": "GH.CAM1", "n": "Cámara 1", "t": "Gran Hermano - Cámara 1", "d": "Cámara exclusiva de la casa.", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
+    {"id": "GH.CAM2", "n": "Cámara 2", "t": "Gran Hermano - Cámara 2", "d": "Cámara exclusiva de la casa.", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
+    {"id": "GH.CAM3", "n": "Cámara 3", "t": "Gran Hermano - Cámara 3", "d": "Cámara exclusiva de la casa.", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
+    {"id": "Simpson", "n": "Los Simpson", "t": "Los Simpson", "d": "Narra las vivencias de una peculiar familia norteamericana.", "m": "https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg"},
     {"id": "TRACE.UK", "n": "TRACE UK", "t": "TRACE UK", "d": "The best of national and international artists.", "i": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/07/02103920/Trace-UK.jpg", "m": ""},
     {"id": "INFO.FLOW", "n": "FLOW", "t": "Comenzá a usar FLOW", "d": "TV en vivo, películas, series y más.", "i": "https://www.personal.com.py/img/logos/files/flow-color/flow-color.jpg", "m": ""},
     {"id": "Diputados.TV.ARG", "n": "Diputados TV", "t": "Diputados TV", "d": "Información de los Diputados de la Nación.", "i": "https://static.flow.com.ar/images/10109930827/BROWSE/600/600/0/0/10109930827.jpg", "m": ""},
@@ -84,11 +84,10 @@ def generar_xml():
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPGCL">')
     
-    # SECCIÓN CHANNEL (Logo siempre incluido)
+    # SECCIÓN CHANNEL
     for c in canales:
         lines.append(f'  <channel id="{c["id"]}">')
         lines.append(f'    <display-name>{c["n"]}</display-name>')
-        lines.append(f'    <icon src="{c.get("i", "")}" />')
         lines.append('  </channel>')
 
     # SECCIÓN PROGRAMME (Miniatura siempre incluida)
@@ -106,7 +105,7 @@ def generar_xml():
                 lines.append(f'    <title>{c["t"]}</title>')
                 lines.append(f'    <desc>{c["d"]}</desc>')
                 # FORZADO: La línea de icon siempre se escribe
-                lines.append(f'    <icon src="{c.get("m", "")}" />')
+                lines.append(f'    <icon src="{c.get("m")}" />')
                 lines.append('  </programme>')
 
     lines.append('</tv>')
