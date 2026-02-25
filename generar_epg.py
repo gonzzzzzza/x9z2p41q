@@ -99,14 +99,15 @@ def generar_xml():
                 lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
                 lines.append(f'    <title>{c["t"]}</title>')
                 lines.append(f'    <desc>{c["d"]}</desc>')
-                lines.append(f'    <icon src="{c.get("i")} "/>')
-		lines.append(f'    <category>{c["g"]}</category>
-                lines.append(f'    </programme>')
+                lines.append(f'    <icon src="{c.get("i")}"/>')
+                lines.append(f'    <category>{c["g"]}</category>')
+                lines.append(f'  </programme>')
 
     lines.append('</tv>')
     
-    with open("data_v9.xml", "wb") as f:
-        f.write("\r\n".join(lines).encode("utf-8"))
+    # Escribir el archivo con codificación utf-8 y saltos de línea correctos
+    with open("data_v9.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
     
     print("Archivo data_v9.xml generado correctamente.")
 
