@@ -3,23 +3,33 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 4 * * *'
+
 jobs:
   run:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
+
       - name: Run Script
         run: python generar_epg.py
+
       - name: Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Bot"
           git add data_v9.xml
-          git commit -m "upd" || exit 0
-          git push
+          # Verifica si hay cambios reales antes de hacer commit
+          if git diff --staged --quiet; then
+            echo "No hay cambios para subir"
+          else
+            git commit -m "upd $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
