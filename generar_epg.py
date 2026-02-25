@@ -48,7 +48,7 @@ canales = [
     {"id": "Music.Box.Hits", "n": "Music Box Hits", "t": "Music Box Hits", "g": "Música", "i": "https://www.digitalfernsehen.de/wp-content/uploads/2025/12/Music-Box-Hits.jpg", "d": "Los temas más escuchados del momento. Hits internacionales y nacionales."},
     {"id": "Music.Box.Sexy", "n": "Music Box Sexy", "t": "Music Box Sexy", "g": "Música", "i": "https://www.parabola.cz/img_magazin/2025/music-box-sexy.jpg", "d": "Vibras sensuales y sofisticadas. Música lounge, R&B y ritmos seductores."},
     {"id": "Musictop", "n": "Musictop", "t": "Musictop", "g": "Música", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Top charts y éxitos globales. Videos, rankings y artistas dominantes."},
-    {"id": "Vorterix", "n": "Vorterix", "t": "Vorterix", "g": "Música", "i": "https://static.flow.com.ar/images/10114219640/BROWSE/600/600/0/0/10114219640.jpg", "d": "Pionero como medio de streaming sumado a la frecuencia FM."},
+    {"id": "Vorterix", "n": "Vorterix", "t": "Vorterix", "g": "Música", "i": "https://static.flow.com.ar/images/10114219640/BROWSE/600/600/0/0/10114219640.jpg", "d": "Pionero como medio de streaming sumarse a la frecuencia FM."},
     {"id": "Radio.Maria", "n": "Radio María", "t": "Radio María", "g": "Religión", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Espiritualidad, oración y música religiosa para acompañar tu fe."},
     {"id": "Santa.Maria", "n": "Santa María", "t": "Santa María", "g": "Religión", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Contenido religioso y formación espiritual con reflexiones para el hogar."},
     {"id": "Solidaria.TV", "n": "Solidaria TV", "t": "Solidaria TV", "g": "Religión", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Historias de ayuda, solidaridad y compromiso social inspirador."},
@@ -58,7 +58,6 @@ canales = [
     {"id": "BBB.CAM2", "n": "Big Brother Brasil - Câmera 2", "t": "BBB Câmera 2", "g": "Reality", "i": "https://dominiopop.com.br/wp-content/uploads/2025/12/logo-bbb.jpg", "d": "Acompanhe cada momento como se você estivesse dentro da casa em tempo real."},
     {"id": "VTV.URUGUAY", "n": "VTV", "t": "VTV", "g": "Interés general", "i": "https://i.postimg.cc/Y0Sncxc9/vtv.jpg", "d": "Noticias, actualidad y cobertura completa de Uruguay y el mundo."},
     {"id": "Noticias.Caracol", "n": "Noticias Caracol", "t": "Noticias Caracol", "g": "Noticias", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "La información que necesitás con análisis y reportajes importantes."},
-    # Radios
     {"id": "Radio.Cosquin.Rock", "n": "Radio Cosquín Rock", "t": "Radio Cosquín Rock", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "El rock argentino suena fuerte. Conciertos y clásicos."},
     {"id": "Radio.Del.Plata", "n": "Radio Del Plata", "t": "Radio Del Plata", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Variedad musical, noticias y entretenimiento."},
     {"id": "Radio.Disney", "n": "Radio Disney", "t": "Radio Disney", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Los hits que todos aman y contenido para chicos y adolescentes."},
@@ -76,7 +75,8 @@ canales = [
 ]
 
 def generar_xml():
-    inicio_fijo = datetime.datetime(2026, 2, 23, 0, 0, 0)
+    # Usar fecha actual como inicio
+    inicio_fijo = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
@@ -93,8 +93,9 @@ def generar_xml():
                 start_dt = inicio_fijo + datetime.timedelta(days=d, hours=h)
                 stop_dt = start_dt + datetime.timedelta(hours=4)
                 
-                s = start_dt.strftime("%Y%m%d%H%M%S -0300")
-                e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
+                # Formato correcto sin espacio antes de la zona horaria
+                s = start_dt.strftime("%Y%m%d%H%M%S") + "-0300"
+                e = stop_dt.strftime("%Y%m%d%H%M%S") + "-0300"
                 
                 lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
                 lines.append(f'    <title>{c["t"]}</title>')
