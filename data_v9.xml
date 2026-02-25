@@ -42,6 +42,9 @@
   <channel id="Sky.Sports.Mexico">
     <display-name>Sky Sports</display-name>
   </channel>
+  <channel id="FOX.ONE">
+    <display-name>FOX One</display-name>
+  </channel>
   <channel id="DSports.Uruguay">
     <display-name>DSports Uruguay</display-name>
   </channel>
@@ -3250,6 +3253,222 @@
     <title>Sky Sports</title>
     <desc>¡Vive tu pasión por los deportes con Sky Sports! Las mejores ligas del mundo, fútbol europeo de primer nivel y grandes competencias internacionales con cobertura especializada.</desc>
     <icon src="https://i.postimg.cc/Y2hZk9kp/Sky-Sports.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260223040000 -0300" stop="20260223080000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260223080000 -0300" stop="20260223120000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260223120000 -0300" stop="20260223160000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260223160000 -0300" stop="20260223200000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260223200000 -0300" stop="20260224000000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260224000000 -0300" stop="20260224040000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260224040000 -0300" stop="20260224080000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260224080000 -0300" stop="20260224120000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260224120000 -0300" stop="20260224160000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260224160000 -0300" stop="20260224200000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260224200000 -0300" stop="20260225000000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260225000000 -0300" stop="20260225040000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260225040000 -0300" stop="20260225080000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260225080000 -0300" stop="20260225120000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260225120000 -0300" stop="20260225160000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260225160000 -0300" stop="20260225200000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260225200000 -0300" stop="20260226000000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260226000000 -0300" stop="20260226040000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260226040000 -0300" stop="20260226080000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260226080000 -0300" stop="20260226120000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260226120000 -0300" stop="20260226160000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260226160000 -0300" stop="20260226200000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260226200000 -0300" stop="20260227000000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260227000000 -0300" stop="20260227040000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260227040000 -0300" stop="20260227080000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260227080000 -0300" stop="20260227120000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260227120000 -0300" stop="20260227160000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260227160000 -0300" stop="20260227200000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260227200000 -0300" stop="20260228000000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260228000000 -0300" stop="20260228040000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260228040000 -0300" stop="20260228080000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260228080000 -0300" stop="20260228120000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260228120000 -0300" stop="20260228160000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260228160000 -0300" stop="20260228200000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260228200000 -0300" stop="20260301000000 -0300" channel="FOX.ONE">
+    <title>FOX One</title>
+    <desc>Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional. Partidos en vivo, análisis experto y toda la adrenalina del fútbol de élite, en un solo lugar.</desc>
+    <icon src="https://i.postimg.cc/kGNRbC8x/FOX-One.jpg"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="DSports.Uruguay">
