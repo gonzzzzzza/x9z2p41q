@@ -72,17 +72,19 @@ canales = [
     {"id": "Radio.La.Popu", "n": "Radio La Popu", "t": "La Popu", "g": "Radios", "i": "", "d": "Música popular."},
     {"id": "Radio.Rivadavia", "n": "Radio Rivadavia", "t": "Radio Rivadavia", "g": "Radios", "i": "", "d": "Noticias y opinión."},
     {"id": "Radio.Rock.and.Pop", "n": "Radio Rock & Pop", "t": "Rock & Pop", "g": "Radios", "i": "", "d": "Todo el rock y pop."},
-    {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida", "g": "Radios", "i": "", "d": "Música variada."},
+    {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida", "g": "Radios", "i": "", "d": "Música variada todo el día."},
 ]
 
 def generar():
     now = datetime.datetime.utcnow()
+    # Generamos desde ayer hasta dentro de 3 días para asegurar cobertura
     inicio_guia = now.replace(hour=0, minute=0, second=0, microsecond=0) - datetime.timedelta(days=1)
     
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPGCL">')
     
+    # Seccion CANALES (Restaurada con display-name)
     for c in canales:
         lines.append(f'  <channel id="{c["id"]}">')
         lines.append(f'    <display-name>{c["n"]}</display-name>')
@@ -90,16 +92,18 @@ def generar():
             lines.append(f'    <icon src="{c["i"]}" />')
         lines.append('  </channel>')
 
+    # Seccion PROGRAMAS (Con el orden start-stop-channel solicitado)
     for c in canales:
         for d in range(4): 
             for h in range(0, 24, 4):
                 start_dt = inicio_guia + datetime.timedelta(days=d, hours=h)
                 stop_dt = start_dt + datetime.timedelta(hours=4)
+                
                 s = start_dt.strftime("%Y%m%d%H%M%S -0300")
                 e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
                 
-                # CRÍTICO: Atributo 'channel' ANTES que el tiempo, igual que el archivo que funciona
-                lines.append(f'  <programme channel="{c["id"]}" start="{s}" stop="{e}">')
+                # Formato exacto solicitado
+                lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
                 lines.append(f'    <title>{c["t"]}</title>')
                 lines.append(f'    <desc>{c["d"]}</desc>')
                 lines.append(f'    <category>{c["g"]}</category>')
@@ -109,6 +113,7 @@ def generar():
 
     lines.append('</tv>')
     
+    # Unimos con saltos de línea Windows para compatibilidad total
     content = "\r\n".join(lines)
     
     with open("data_v9.xml", "wb") as f:
