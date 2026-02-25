@@ -76,37 +76,43 @@ canales = [
 ]
 
 def generar():
+    # Usar hora UTC para evitar que Sparkle ignore programas por zona horaria
     now = datetime.utcnow()
     inicio = now.replace(hour=0, minute=0, second=0, microsecond=0)
     
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    xml += '<tv generator-info="Gemini v9.5 • Generación automática de EPG">\n'
+    xml += '<tv generator-info="EPG Personalizada • Gemini v9.7">\n'
     
-    # Declaración de canales usando id=""
+    # SECCIÓN CANALES: id="" es el estándar que Sparkle lee del M3U
     for c in canales:
         xml += f'  <channel id="{c["id"]}">\n'
         xml += f'    <display-name>{c["n"]}</display-name>\n'
+        # El logo que aparece al lado del nombre del canal
         if c.get("i"):
             xml += f'    <icon src="{c["i"]}" />\n'
         xml += f'  </channel>\n'
 
-    # Programación
+    # SECCIÓN PROGRAMAS: channel="" debe coincidir con el id anterior
     for c in canales:
-        for d in range(2):
-            for h in range(0, 24, 3):
+        for d in range(2): # Genera 2 días de guía
+            for h in range(0, 24, 3): # Bloques de 3 horas
                 s_date = inicio + timedelta(days=d, hours=h)
                 e_date = inicio + timedelta(days=d, hours=h+3)
+                
                 s = s_date.strftime("%Y%m%d%H%M%S +0000")
                 e = e_date.strftime("%Y%m%d%H%M%S +0000")
                 
-                # Aquí también cambiamos tvg-id por channel=""
                 xml += f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">\n'
                 xml += f'    <title lang="es">{c["t"]}</title>\n'
                 xml += f'    <desc lang="es">{c["d"]}</desc>\n'
                 xml += f'    <category lang="es">{c["g"]}</category>\n'
+                # Miniatura que se ve arriba al seleccionar el programa
+                if c.get("i"):
+                    xml += f'    <icon src="{c["i"]}" />\n'
                 xml += f'  </programme>\n'
 
     xml += '</tv>'
+    
     with open("data_v9.xml", "w", encoding="utf-8") as f:
         f.write(xml)
 
