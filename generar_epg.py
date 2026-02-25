@@ -70,7 +70,7 @@ canales = [
     {"id": "Radio.Nacional.Rock", "n": "Radio Nacional Rock", "t": "Radio Nacional Rock", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Rock nacional e internacional las 24 horas."},
     {"id": "Radio.La.Popu", "n": "Radio La Popu", "t": "Radio La Popu", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "La música popular que mueve a la gente."},
     {"id": "Radio.Rivadavia", "n": "Radio Rivadavia", "t": "Radio Rivadavia", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Noticias, actualidad y opinión regional."},
-    {"id": "Radio.Rock.and.Pop", "n": "Radio Rock & Pop", "t": "Radio Rock & Pop", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Todo el rock, pop y música alternativa."},
+    {"id": "Radio.Rock.and.Pop", "n": "Radio Rock and Pop", "t": "Radio Rock and Pop", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Todo el rock, pop y música alternativa."},
     {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida", "g": "Radios", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Música variada todo el día con los hits del momento."},
 ]
 
