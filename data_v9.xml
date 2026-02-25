@@ -208,7 +208,7 @@
     <display-name>Radio Rivadavia</display-name>
   </channel>
   <channel id="Radio.Rock.and.Pop">
-    <display-name>Radio Rock & Pop</display-name>
+    <display-name>Radio Rock and Pop</display-name>
   </channel>
   <channel id="Radio.Vida">
     <display-name>Radio Vida</display-name>
@@ -15118,217 +15118,217 @@
     <category>Radios</category>
   </programme>
   <programme start="20260225000000-0300" stop="20260225040000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260225040000-0300" stop="20260225080000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260225080000-0300" stop="20260225120000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260225120000-0300" stop="20260225160000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260225160000-0300" stop="20260225200000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260225200000-0300" stop="20260226000000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260226000000-0300" stop="20260226040000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260226040000-0300" stop="20260226080000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260226080000-0300" stop="20260226120000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260226120000-0300" stop="20260226160000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260226160000-0300" stop="20260226200000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260226200000-0300" stop="20260227000000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260227000000-0300" stop="20260227040000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260227040000-0300" stop="20260227080000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260227080000-0300" stop="20260227120000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260227120000-0300" stop="20260227160000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260227160000-0300" stop="20260227200000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260227200000-0300" stop="20260228000000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260228000000-0300" stop="20260228040000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260228040000-0300" stop="20260228080000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260228080000-0300" stop="20260228120000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260228120000-0300" stop="20260228160000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260228160000-0300" stop="20260228200000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260228200000-0300" stop="20260301000000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260301000000-0300" stop="20260301040000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260301040000-0300" stop="20260301080000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260301080000-0300" stop="20260301120000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260301120000-0300" stop="20260301160000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260301160000-0300" stop="20260301200000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260301200000-0300" stop="20260302000000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260302000000-0300" stop="20260302040000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260302040000-0300" stop="20260302080000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260302080000-0300" stop="20260302120000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260302120000-0300" stop="20260302160000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260302160000-0300" stop="20260302200000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
   </programme>
   <programme start="20260302200000-0300" stop="20260303000000-0300" channel="Radio.Rock.and.Pop">
-    <title>Radio Rock & Pop</title>
+    <title>Radio Rock and Pop</title>
     <desc>Todo el rock, pop y música alternativa.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
     <category>Radios</category>
