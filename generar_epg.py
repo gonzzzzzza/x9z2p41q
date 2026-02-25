@@ -76,24 +76,27 @@ canales = [
 ]
 
 def generar():
-    # FECHA FIJA: 23 de Febrero de 2026
+    # FECHA FIJA DE INICIO: 23 de Febrero de 2026
     inicio_fijo = datetime.datetime(2026, 2, 23, 0, 0, 0)
     
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPGCL">')
     
-    # SECCION CHANNELS (Igual a epg.xml)
+    # SECCION CHANNELS
+    # Se incluye el logo SOLO si el canal lo tiene definido
     for c in canales:
         lines.append(f'  <channel id="{c["id"]}">')
         lines.append(f'    <display-name>{c["n"]}</display-name>')
-        if c.get("i"):
+        if c.get("i") and c["i"] != "":
             lines.append(f'    <icon src="{c["i"]}" />')
         lines.append('  </channel>')
 
-    # SECCION PROGRAMME (Copiando EXACTAMENTE el orden de epg.xml)
+    # SECCION PROGRAMME
+    # Siguiendo el orden exacto de epg.xml: start, stop y luego channel
+    # SIN ETIQUETA ICON para evitar la miniatura en los programas
     for c in canales:
-        for d in range(5): # 5 días desde el 23
+        for d in range(6): # Generamos casi una semana desde el 23
             for h in range(0, 24, 4): # Bloques de 4 horas
                 start_dt = inicio_fijo + datetime.timedelta(days=d, hours=h)
                 stop_dt = start_dt + datetime.timedelta(hours=4)
@@ -101,9 +104,7 @@ def generar():
                 s = start_dt.strftime("%Y%m%d%H%M%S -0300")
                 e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
                 
-                # ELIMINADO EL ICONO DE AQUÍ (Para que no aparezca miniatura en el logo)
-                # ORDEN: channel -> start -> stop (Igual que epg.xml)
-                lines.append(f'  <programme channel="{c["id"]}" start="{s}" stop="{e}">')
+                lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
                 lines.append(f'    <title>{c["t"]}</title>')
                 lines.append(f'    <desc>{c["d"]}</desc>')
                 lines.append('  </programme>')
@@ -113,6 +114,7 @@ def generar():
     content = "\r\n".join(lines)
     with open("data_v9.xml", "wb") as f:
         f.write(content.encode("utf-8"))
+    print("data_v9.xml generado con éxito.")
 
 if __name__ == "__main__":
     generar()
