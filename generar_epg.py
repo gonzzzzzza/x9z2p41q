@@ -1,7 +1,7 @@
 import datetime
 
 # CONFIGURACIÓN DE LOS 71 CANALES
-# Si el canal no tiene icono (i) o miniatura (m), se generará la etiqueta vacía.
+# 'i' es el logo del canal, 'm' es la miniatura del programa
 canales = [
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "d": "La casa más famosa del país vuelve a abrir sus puertas.", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
     {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "d": "La casa más famosa del país en vivo.", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "m": "https://i.postimg.cc/hjxWkfMf/image.png"},
@@ -77,28 +77,25 @@ canales = [
 ]
 
 def generar_xml():
-    # FECHA DE INICIO: 23 de Febrero de 2026
+    # INICIO: 23 DE FEBRERO
     inicio_fijo = datetime.datetime(2026, 2, 23, 0, 0, 0)
     
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPGCL">')
     
-    # --- SECCIÓN CANALES ---
+    # SECCIÓN CHANNEL (Logo siempre incluido)
     for c in canales:
         lines.append(f'  <channel id="{c["id"]}">')
         lines.append(f'    <display-name>{c["n"]}</display-name>')
-        # Siempre se incluye icon src, esté vacío o no
         lines.append(f'    <icon src="{c.get("i", "")}" />')
         lines.append('  </channel>')
 
-    # --- SECCIÓN PROGRAMAS ---
-    # Orden: start -> stop -> channel
+    # SECCIÓN PROGRAMME (Miniatura siempre incluida)
+    # Orden exacto: start -> stop -> channel
     for c in canales:
-        # Generar 6 días de programación
-        for d in range(6):
-            # Bloques de 4 horas
-            for h in range(0, 24, 4):
+        for d in range(6): # 6 días
+            for h in range(0, 24, 4): # Bloques de 4 horas
                 start_dt = inicio_fijo + datetime.timedelta(days=d, hours=h)
                 stop_dt = start_dt + datetime.timedelta(hours=4)
                 
@@ -108,17 +105,17 @@ def generar_xml():
                 lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
                 lines.append(f'    <title>{c["t"]}</title>')
                 lines.append(f'    <desc>{c["d"]}</desc>')
-                # Siempre se incluye icon src en programa
+                # FORZADO: La línea de icon siempre se escribe
                 lines.append(f'    <icon src="{c.get("m", "")}" />')
                 lines.append('  </programme>')
 
     lines.append('</tv>')
     
-    # Guardar archivo con codificación utf-8
-    with open("data_v9.xml", "wb") as f:
+    # Escribir el archivo
+    with open("data_v10.xml", "wb") as f:
         f.write("\r\n".join(lines).encode("utf-8"))
     
-    print("¡Archivo data_v9.xml generado desde cero con éxito!")
+    print("Archivo data_v10.xml generado correctamente con miniaturas forzadas.")
 
 if __name__ == "__main__":
     generar_xml()
