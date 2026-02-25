@@ -1,5 +1,6 @@
 import datetime
 
+# LISTA COMPLETA DE 71 CANALES
 canales = [
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "g": "Reality", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada."},
     {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "g": "Reality", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada."},
@@ -7,28 +8,28 @@ canales = [
     {"id": "GH.CAM2", "n": "Cámara 2", "t": "Gran Hermano - Cámara 2", "g": "Reality", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada."},
     {"id": "GH.CAM3", "n": "Cámara 3", "t": "Gran Hermano - Cámara 3", "g": "Reality", "i": "https://i.postimg.cc/hjxWkfMf/image.png", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada."},
     {"id": "Simpson", "n": "Los Simpson", "t": "Los Simpson", "g": "Comedia, Animación", "i": "https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg", "d": "Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson."},
-    {"id": "TRACE.UK", "n": "TRACE UK", "t": "TRACE UK", "g": "Música", "i": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/07/02103920/Trace-UK.jpg", "d": "TRACE UK brings viewers the very best of national and international artists, playing the hottest music videos."},
-    {"id": "INFO.FLOW", "n": "FLOW", "t": "Comenzá a usar FLOW", "g": "Interés general", "i": "https://www.personal.com.py/img/logos/files/flow-color/flow-color.jpg", "d": "En Flow podés disfrutar de TV en vivo, películas, series, deportes, música y mucho más."},
-    {"id": "Diputados.TV.ARG", "n": "Diputados TV", "t": "Diputados TV", "g": "Periodístico", "i": "https://static.flow.com.ar/images/10109930827/BROWSE/600/600/0/0/10109930827.jpg", "d": "Toda la información que concierte al trabajo de los Diputados de la Nación."},
-    {"id": "Mix.TV", "n": "Mix TV", "t": "Mix TV", "g": "Interés general", "i": "", "d": "Entretenimiento sin pausa con realities, espectáculos, actualidad y contenidos que marcan tendencia."},
-    {"id": "Lapacho.TV", "n": "Lapacho TV", "t": "Lapacho TV", "g": "Interés general", "i": "", "d": "La pantalla que refleja la identidad formoseña. Información local, cultura y actualidad."},
-    {"id": "Telesol.San.Juan", "n": "Telesol", "t": "Telesol", "g": "Interés general", "i": "https://i.ytimg.cc/vi/BbJo6A888a4/maxresdefault.jpg", "d": "Toda la actualidad sanjuanina en un solo lugar. Noticias y producción local."},
+    {"id": "TRACE.UK", "n": "TRACE UK", "t": "TRACE UK", "g": "Música", "i": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/07/02103920/Trace-UK.jpg", "d": "TRACE UK brings viewers the very best of national and international artists."},
+    {"id": "INFO.FLOW", "n": "FLOW", "t": "Comenzá a usar FLOW", "g": "Interés general", "i": "https://www.personal.com.py/img/logos/files/flow-color/flow-color.jpg", "d": "En Flow podés disfrutar de TV en vivo, películas, series y más."},
+    {"id": "Diputados.TV.ARG", "n": "Diputados TV", "t": "Diputados TV", "g": "Periodístico", "i": "https://static.flow.com.ar/images/10109930827/BROWSE/600/600/0/0/10109930827.jpg", "d": "Toda la información de los Diputados de la Nación."},
+    {"id": "Mix.TV", "n": "Mix TV", "t": "Mix TV", "g": "Interés general", "i": "", "d": "Entretenimiento sin pausa con realities y actualidad."},
+    {"id": "Lapacho.TV", "n": "Lapacho TV", "t": "Lapacho TV", "g": "Interés general", "i": "", "d": "La pantalla que refleja la identidad formoseña."},
+    {"id": "Telesol.San.Juan", "n": "Telesol", "t": "Telesol", "g": "Interés general", "i": "https://i.ytimg.cc/vi/BbJo6A888a4/maxresdefault.jpg", "d": "Toda la actualidad sanjuanina en un solo lugar."},
     {"id": "Claro.Sports.2", "n": "Claro Sports 2", "t": "Claro Sports 2", "g": "Deportes", "i": "https://cdn.amxinfra.com/clarosports/images/2024/08/paralimpicos-cs2-133315.jpg", "d": "Más acción, más competencia y más deporte en vivo."},
-    {"id": "HBO.Boxing", "n": "HBO Boxing", "t": "HBO Boxing by WBTV", "g": "Boxeo", "i": "https://canvas-lb.tubitv.com/opts/lweaVPhEK4ZaUw==/c68711a9-7ca5-4153-a288-00b76afc4372/CPwDEJ0COgUxLjEuOA==", "d": "The home of elite boxing. World-class fighters."},
+    {"id": "HBO.Boxing", "n": "HBO Boxing", "t": "HBO Boxing by WBTV", "g": "Boxeo", "i": "https://canvas-lb.tubitv.com/opts/lweaVPhEK4ZaUw==/c68711a9-7ca5-4153-a288-00b76afc4372/CPwDEJ0COgUxLjEuOA==", "d": "The home of elite boxing."},
     {"id": "Cazé.TV", "n": "Cazé TV", "t": "Cazé TV", "g": "Deportes", "i": "https://mir-s3-cdn-cf.behance.net/projects/404/f02c5b206996309.Y3JvcCw4MTAsNjMzLDAsMA.png", "d": "Esporte com leveza, informação e muita resenha."},
     {"id": "Tigo.Sports.2.PY", "n": "Tigo Sports 2", "t": "Tigo Sports 2", "g": "Deportes", "i": "https://i.postimg.cc/fWrLGTmL/image.png", "d": "Viví la emoción del deporte en Tigo Sports."},
-    {"id": "Flow.Sports.1", "n": "Flow Sports", "t": "Flow Sports", "g": "Deportes", "i": "https://static.flow.com.ar/images/10114132674/BROWSE/600/600/0/0/10114132674.jpg", "d": "Viví la pasión del deporte como si estuvieras ahí."},
-    {"id": "Flow.Sports.2", "n": "Flow Sports 2", "t": "Flow Sports 2", "g": "Deportes", "i": "https://static.flow.com.ar/images/10114151657/BROWSE/600/600/0/0/10114151657.jpg", "d": "Viví la pasión del deporte como si estuvieras ahí."},
-    {"id": "Flow.Sports.3", "n": "Flow Sports 3", "t": "Flow Sports 3", "g": "Deportes", "i": "https://i.postimg.cc/MKsrqNtf/Flow-Sports-3.png", "d": "Viví la pasión del deporte como si estuvieras ahí."},
+    {"id": "Flow.Sports.1", "n": "Flow Sports", "t": "Flow Sports", "g": "Deportes", "i": "https://static.flow.com.ar/images/10114132674/BROWSE/600/600/0/0/10114132674.jpg", "d": "Viví la pasión del deporte en Flow."},
+    {"id": "Flow.Sports.2", "n": "Flow Sports 2", "t": "Flow Sports 2", "g": "Deportes", "i": "https://static.flow.com.ar/images/10114151657/BROWSE/600/600/0/0/10114151657.jpg", "d": "Viví la pasión del deporte en Flow."},
+    {"id": "Flow.Sports.3", "n": "Flow Sports 3", "t": "Flow Sports 3", "g": "Deportes", "i": "https://i.postimg.cc/MKsrqNtf/Flow-Sports-3.png", "d": "Viví la pasión del deporte en Flow."},
     {"id": "DM.Kids.TV", "n": "DM Kids TV", "t": "DM Kids TV", "g": "Infantil", "i": "https://i.ytimg.cc/vi/JMbngwxZqZU/maxresdefault.jpg", "d": "Diversión, imaginación y aventuras."},
     {"id": "ENTFamily.40mediaGroup", "n": "ENT Family", "t": "ENT Family", "g": "Películas", "i": "", "d": "Contenido familiar para toda la familia."},
     {"id": "ENTMain.40mediaGroup", "n": "ENT Channel", "t": "ENT Channel", "g": "Películas", "i": "", "d": "El equilibrio perfecto de películas y series."},
     {"id": "TMC.40mediaGroup", "n": "Totalmusic", "t": "Totalmusic", "g": "Música", "i": "https://static.elektamedia.com/ch/tmc_main.png", "d": "Ofrecemos la más amplia selección de videoclips."},
     {"id": "TMC80s.40mediaGroup", "n": "Totalmusic 80s", "t": "Totalmusic 80s", "g": "Música", "i": "https://static.elektamedia.com/ch/tmc_80s.png", "d": "Videoclips de la década dorada de la música."},
-    {"id": "TMC2000s.40mediaGroup", "n": "Totalmusic 2000s", "t": "Totalmusic 2000s", "g": "Música", "i": "https://static.elektamedia.com/ch/tmc_00s.png", "d": "Selección de videoclips que marcaron los años 2000."},
+    {"id": "TMC2000s.40mediaGroup", "n": "Totalmusic 2000s", "t": "Totalmusic 2000s", "g": "Música", "i": "https://static.elektamedia.com/ch/tmc_00s.png", "d": "Selección de videoclips de los años 2000."},
     {"id": "TMCConcerts.40mediaGroup", "n": "Totalmusic Concerts", "t": "Totalmusic Concerts", "g": "Música", "i": "https://i.postimg.cc/DzxpBRBC/Totalmusic-Concerts.png", "d": "Selección de conciertos en vivo inolvidables."},
     {"id": "TMCDance.40mediaGroup", "n": "Totalmusic Dance", "t": "Totalmusic Dance", "g": "Música", "i": "https://i.postimg.cc/MG93dgdg/Totalmusic-Dance.png", "d": "Selección vibrante de música electrónica y dance."},
-    {"id": "West.TV.PE", "n": "West TV", "t": "West TV", "g": "Películas", "i": "https://i.postimg.cc/C5MT6DLp/West.png", "d": "Cine del Lejano Oeste. Duelos y sheriffs."},
+    {"id": "West.TV.PE", "n": "West TV", "t": "West TV", "g": "Películas", "i": "https://i.postimg.cc/C5MT6DLp/West.png", "d": "Cine del Lejano Oeste."},
     {"id": "Caras.TV", "n": "Caras TV", "t": "Caras TV", "g": "Interés general", "i": "https://media.canalnet.tv/2024/05/CYaZv3N-1157x720.jpg", "d": "La vida de los famosos y el glamour."},
     {"id": "El.Mueble", "n": "El Mueble", "t": "El Mueble", "g": "Interés general", "i": "", "d": "Inspiración, diseño y decoración."},
     {"id": "Aunar", "n": "Aunar", "t": "Aunar", "g": "Cultura", "i": "", "d": "Cultura, sociedad y contenidos que inspiran."},
@@ -47,7 +48,7 @@ canales = [
     {"id": "Music.Box.Dance", "n": "Music Box Dance", "t": "Music Box Dance", "g": "Música", "i": "https://www.digitalfernsehen.de/wp-content/uploads/2025/12/Music-Box-Dance.jpg", "d": "Ritmo, energía y beats."},
     {"id": "Music.Box.Hits", "n": "Music Box Hits", "t": "Music Box Hits", "g": "Música", "i": "https://www.digitalfernsehen.de/wp-content/uploads/2025/12/Music-Box-Hits.jpg", "d": "Temas más escuchados del momento."},
     {"id": "Music.Box.Sexy", "n": "Music Box Sexy", "t": "Music Box Sexy", "g": "Música", "i": "https://www.parabola.cz/img_magazin/2025/music-box-sexy.jpg", "d": "Vibras sensuales y lounge."},
-    {"id": "Musictop", "n": "Musictop", "t": "Musictop", "g": "Música", "i": "", "d": "Top charts y éxitos globales."},
+    {"id": "Musictop", "n": "Musictop", "t": "Musictop", "g": "Música", "i": "", "d": "Top charts e éxitos globais."},
     {"id": "Vorterix", "n": "Vorterix", "t": "Vorterix", "g": "Música", "i": "https://static.flow.com.ar/images/10114219640/BROWSE/600/600/0/0/10114219640.jpg", "d": "Pionero en streaming y radio FM."},
     {"id": "Radio.Maria", "n": "Radio María", "t": "Radio María", "g": "Religión", "i": "", "d": "Espiritualidad y oración."},
     {"id": "Santa.Maria", "n": "Santa María", "t": "Santa María", "g": "Religión", "i": "", "d": "Contenido religioso y formación."},
@@ -74,45 +75,44 @@ canales = [
     {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida", "g": "Radios", "i": "", "d": "Música variada."},
 ]
 
-def generar_xml():
-    now = datetime.datetime.utcnow()
-    inicio = now.replace(hour=0, minute=0, second=0, microsecond=0)
-
+def generar():
+    # FECHA FIJA: 23 de Febrero de 2026
+    inicio_fijo = datetime.datetime(2026, 2, 23, 0, 0, 0)
+    
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
-    lines.append('<tv generator-info-name="custom">')
-
-    # -------- CHANNELS (SIN ICONOS) --------
+    lines.append('<tv generator-info="EPGCL">')
+    
+    # SECCION CHANNELS (Igual a epg.xml)
     for c in canales:
         lines.append(f'  <channel id="{c["id"]}">')
-        lines.append(f'    <display-name lang="es">{c["n"]}</display-name>')
+        lines.append(f'    <display-name>{c["n"]}</display-name>')
+        if c.get("i"):
+            lines.append(f'    <icon src="{c["i"]}" />')
         lines.append('  </channel>')
 
-    # -------- PROGRAMMES --------
+    # SECCION PROGRAMME (Copiando EXACTAMENTE el orden de epg.xml)
     for c in canales:
-        for d in range(3):
-            for h in range(0, 24, 3):
-                start = inicio + datetime.timedelta(days=d, hours=h)
-                stop = start + datetime.timedelta(hours=3)
-
-                s = start.strftime("%Y%m%d%H%M%S -0300")
-                e = stop.strftime("%Y%m%d%H%M%S -0300")
-
-                lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
-                lines.append(f'    <title lang="es">{c["t"]}</title>')
-                lines.append(f'    <desc lang="es">{c["d"]}</desc>')
-                lines.append(f'    <category lang="es">{c["g"]}</category>')
-                if c["i"]:
-                    lines.append(f'    <icon src="{c["i"]}" />')
+        for d in range(5): # 5 días desde el 23
+            for h in range(0, 24, 4): # Bloques de 4 horas
+                start_dt = inicio_fijo + datetime.timedelta(days=d, hours=h)
+                stop_dt = start_dt + datetime.timedelta(hours=4)
+                
+                s = start_dt.strftime("%Y%m%d%H%M%S -0300")
+                e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
+                
+                # ELIMINADO EL ICONO DE AQUÍ (Para que no aparezca miniatura en el logo)
+                # ORDEN: channel -> start -> stop (Igual que epg.xml)
+                lines.append(f'  <programme channel="{c["id"]}" start="{s}" stop="{e}">')
+                lines.append(f'    <title>{c["t"]}</title>')
+                lines.append(f'    <desc>{c["d"]}</desc>')
                 lines.append('  </programme>')
 
     lines.append('</tv>')
-
-    xml = "\n".join(lines)
-    with open("data.xml", "w", encoding="utf-8") as f:
-        f.write(xml)
-
-    print("EPG generada correctamente")
+    
+    content = "\r\n".join(lines)
+    with open("data_v9.xml", "wb") as f:
+        f.write(content.encode("utf-8"))
 
 if __name__ == "__main__":
-    generar_xml()
+    generar()
