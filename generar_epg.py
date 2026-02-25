@@ -71,50 +71,48 @@ canales = [
     {"id": "Radio.La.Popu", "n": "Radio La Popu", "t": "La Popu", "g": "Radios", "i": "", "d": "Música popular."},
     {"id": "Radio.Rivadavia", "n": "Radio Rivadavia", "t": "Radio Rivadavia", "g": "Radios", "i": "", "d": "Noticias y opinión."},
     {"id": "Radio.Rock.and.Pop", "n": "Radio Rock & Pop", "t": "Rock & Pop", "g": "Radios", "i": "", "d": "Todo el rock y pop."},
-    {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida", "g": "Radios", "i": "", "d": "Música variada."}
+    {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida", "g": "Radios", "i": "", "d": "Música variada."},
 ]
 
 def generar_xml():
-    now = datetime.datetime.now()
-    inicio = now.replace(minute=0, second=0, microsecond=0)
+    now = datetime.datetime.utcnow()
+    inicio = now.replace(hour=0, minute=0, second=0, microsecond=0)
 
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
-    lines.append('<tv generator-info="EPGCL">')
+    lines.append('<tv generator-info-name="custom">')
 
-    # Canales (sin iconos)
+    # -------- CHANNELS (SIN ICONOS) --------
     for c in canales:
         lines.append(f'  <channel id="{c["id"]}">')
-        lines.append(f'    <display-name>{c["n"]}</display-name>')
+        lines.append(f'    <display-name lang="es">{c["n"]}</display-name>')
         lines.append('  </channel>')
 
-    # Programación 3h
-    horas_total = 72
-
+    # -------- PROGRAMMES --------
     for c in canales:
-        t = inicio
-        for _ in range(int(horas_total / 3)):
-            stop = t + datetime.timedelta(hours=3)
+        for d in range(3):
+            for h in range(0, 24, 3):
+                start = inicio + datetime.timedelta(days=d, hours=h)
+                stop = start + datetime.timedelta(hours=3)
 
-            s = t.strftime("%Y%m%d%H%M%S -0300")
-            e = stop.strftime("%Y%m%d%H%M%S -0300")
+                s = start.strftime("%Y%m%d%H%M%S -0300")
+                e = stop.strftime("%Y%m%d%H%M%S -0300")
 
-            lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
-            lines.append(f'    <title>{c["t"]}</title>')
-            lines.append(f'    <desc>{c["d"]}</desc>')
-            lines.append(f'    <category>{c["g"]}</category>')
-            if c["i"]:
-                lines.append(f'    <icon src="{c["i"]}" />')
-            lines.append('  </programme>')
-
-            t = stop
+                lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
+                lines.append(f'    <title lang="es">{c["t"]}</title>')
+                lines.append(f'    <desc lang="es">{c["d"]}</desc>')
+                lines.append(f'    <category lang="es">{c["g"]}</category>')
+                if c["i"]:
+                    lines.append(f'    <icon src="{c["i"]}" />')
+                lines.append('  </programme>')
 
     lines.append('</tv>')
 
-    with open("data.xml", "wb") as f:
-        f.write("\n".join(lines).encode("utf-8"))
+    xml = "\n".join(lines)
+    with open("data.xml", "w", encoding="utf-8") as f:
+        f.write(xml)
 
-    print("data.xml generado correctamente")
+    print("EPG generada correctamente")
 
 if __name__ == "__main__":
     generar_xml()
