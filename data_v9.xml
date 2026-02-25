@@ -1,40 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info="EPG Personalizada • Gemini v9.7">
+<tv generator-info="EPG Personalizada • Gemini v9.8">
   <channel id="GH.MULTI">
     <display-name>Multicámara</display-name>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </channel>
   <channel id="GH.24HS">
     <display-name>Gran Hermano 24 hs.</display-name>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </channel>
   <channel id="GH.CAM1">
     <display-name>Cámara 1</display-name>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </channel>
   <channel id="GH.CAM2">
     <display-name>Cámara 2</display-name>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </channel>
   <channel id="GH.CAM3">
     <display-name>Cámara 3</display-name>
-    <icon src="https://i.postimg.cc/hjxWkfMf/image.png" />
   </channel>
   <channel id="Simpson">
     <display-name>Los Simpson</display-name>
-    <icon src="https://static.flow.com.ar/images/10105665361/BROWSE/600/600/0/0/10105665361.jpg" />
   </channel>
   <channel id="TRACE.UK">
     <display-name>TRACE UK</display-name>
-    <icon src="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/07/02103920/Trace-UK.jpg" />
   </channel>
   <channel id="INFO.FLOW">
     <display-name>FLOW</display-name>
-    <icon src="https://www.personal.com.py/img/logos/files/flow-color/flow-color.jpg" />
   </channel>
   <channel id="Diputados.TV.ARG">
     <display-name>Diputados TV</display-name>
-    <icon src="https://static.flow.com.ar/images/10109930827/BROWSE/600/600/0/0/10109930827.jpg" />
   </channel>
   <channel id="Mix.TV">
     <display-name>Mix TV</display-name>
@@ -44,39 +35,30 @@
   </channel>
   <channel id="Telesol.San.Juan">
     <display-name>Telesol</display-name>
-    <icon src="https://i.ytimg.cc/vi/BbJo6A888a4/maxresdefault.jpg" />
   </channel>
   <channel id="Claro.Sports.2">
     <display-name>Claro Sports 2</display-name>
-    <icon src="https://cdn.amxinfra.com/clarosports/images/2024/08/paralimpicos-cs2-133315.jpg" />
   </channel>
   <channel id="HBO.Boxing">
     <display-name>HBO Boxing</display-name>
-    <icon src="https://canvas-lb.tubitv.com/opts/lweaVPhEK4ZaUw==/c68711a9-7ca5-4153-a288-00b76afc4372/CPwDEJ0COgUxLjEuOA==" />
   </channel>
   <channel id="Cazé.TV">
     <display-name>Cazé TV</display-name>
-    <icon src="https://mir-s3-cdn-cf.behance.net/projects/404/f02c5b206996309.Y3JvcCw4MTAsNjMzLDAsMA.png" />
   </channel>
   <channel id="Tigo.Sports.2.PY">
     <display-name>Tigo Sports 2</display-name>
-    <icon src="https://i.postimg.cc/fWrLGTmL/image.png" />
   </channel>
   <channel id="Flow.Sports.1">
     <display-name>Flow Sports</display-name>
-    <icon src="https://static.flow.com.ar/images/10114132674/BROWSE/600/600/0/0/10114132674.jpg" />
   </channel>
   <channel id="Flow.Sports.2">
     <display-name>Flow Sports 2</display-name>
-    <icon src="https://static.flow.com.ar/images/10114151657/BROWSE/600/600/0/0/10114151657.jpg" />
   </channel>
   <channel id="Flow.Sports.3">
     <display-name>Flow Sports 3</display-name>
-    <icon src="https://i.postimg.cc/MKsrqNtf/Flow-Sports-3.png" />
   </channel>
   <channel id="DM.Kids.TV">
     <display-name>DM Kids TV</display-name>
-    <icon src="https://i.ytimg.cc/vi/JMbngwxZqZU/maxresdefault.jpg" />
   </channel>
   <channel id="ENTFamily.40mediaGroup">
     <display-name>ENT Family</display-name>
@@ -86,31 +68,24 @@
   </channel>
   <channel id="TMC.40mediaGroup">
     <display-name>Totalmusic</display-name>
-    <icon src="https://static.elektamedia.com/ch/tmc_main.png" />
   </channel>
   <channel id="TMC80s.40mediaGroup">
     <display-name>Totalmusic 80s</display-name>
-    <icon src="https://static.elektamedia.com/ch/tmc_80s.png" />
   </channel>
   <channel id="TMC2000s.40mediaGroup">
     <display-name>Totalmusic 2000s</display-name>
-    <icon src="https://static.elektamedia.com/ch/tmc_00s.png" />
   </channel>
   <channel id="TMCConcerts.40mediaGroup">
     <display-name>Totalmusic Concerts</display-name>
-    <icon src="https://i.postimg.cc/DzxpBRBC/Totalmusic-Concerts.png" />
   </channel>
   <channel id="TMCDance.40mediaGroup">
     <display-name>Totalmusic Dance</display-name>
-    <icon src="https://i.postimg.cc/MG93dgdg/Totalmusic-Dance.png" />
   </channel>
   <channel id="West.TV.PE">
     <display-name>West TV</display-name>
-    <icon src="https://i.postimg.cc/C5MT6DLp/West.png" />
   </channel>
   <channel id="Caras.TV">
     <display-name>Caras TV</display-name>
-    <icon src="https://media.canalnet.tv/2024/05/CYaZv3N-1157x720.jpg" />
   </channel>
   <channel id="El.Mueble">
     <display-name>El Mueble</display-name>
@@ -126,19 +101,15 @@
   </channel>
   <channel id="Flow.Music.1">
     <display-name>Flow Music</display-name>
-    <icon src="https://static.flow.com.ar/images/10114137124/BROWSE/600/600/0/0/10114137124.jpg" />
   </channel>
   <channel id="Flow.Music.2">
     <display-name>Flow Music 2</display-name>
-    <icon src="https://static.flow.com.ar/images/10114137124/BROWSE/600/600/0/0/10114137124.jpg" />
   </channel>
   <channel id="Flow.Music.3">
     <display-name>Flow Music 3</display-name>
-    <icon src="https://static.flow.com.ar/images/10114137124/BROWSE/600/600/0/0/10114137124.jpg" />
   </channel>
   <channel id="Flow.Music.4">
     <display-name>Flow Music 4</display-name>
-    <icon src="https://static.flow.com.ar/images/10114137124/BROWSE/600/600/0/0/10114137124.jpg" />
   </channel>
   <channel id="Billboard.AR">
     <display-name>Billboard</display-name>
@@ -157,26 +128,21 @@
   </channel>
   <channel id="Music.Box.Classic">
     <display-name>Music Box Classic</display-name>
-    <icon src="https://www.digitalfernsehen.de/wp-content/uploads/2025/12/Music-Box-Classic.jpg" />
   </channel>
   <channel id="Music.Box.Dance">
     <display-name>Music Box Dance</display-name>
-    <icon src="https://www.digitalfernsehen.de/wp-content/uploads/2025/12/Music-Box-Dance.jpg" />
   </channel>
   <channel id="Music.Box.Hits">
     <display-name>Music Box Hits</display-name>
-    <icon src="https://www.digitalfernsehen.de/wp-content/uploads/2025/12/Music-Box-Hits.jpg" />
   </channel>
   <channel id="Music.Box.Sexy">
     <display-name>Music Box Sexy</display-name>
-    <icon src="https://www.parabola.cz/img_magazin/2025/music-box-sexy.jpg" />
   </channel>
   <channel id="Musictop">
     <display-name>Musictop</display-name>
   </channel>
   <channel id="Vorterix">
     <display-name>Vorterix</display-name>
-    <icon src="https://static.flow.com.ar/images/10114219640/BROWSE/600/600/0/0/10114219640.jpg" />
   </channel>
   <channel id="Radio.Maria">
     <display-name>Radio María</display-name>
@@ -192,27 +158,21 @@
   </channel>
   <channel id="BBB.MULTI">
     <display-name>BBB Multicâmera</display-name>
-    <icon src="https://dominiopop.com.br/wp-content/uploads/2025/12/logo-bbb.jpg" />
   </channel>
   <channel id="BBB.CAM1">
     <display-name>BBB Câmera 1</display-name>
-    <icon src="https://dominiopop.com.br/wp-content/uploads/2025/12/logo-bbb.jpg" />
   </channel>
   <channel id="BBB.CAM2">
     <display-name>BBB Câmera 2</display-name>
-    <icon src="https://dominiopop.com.br/wp-content/uploads/2025/12/logo-bbb.jpg" />
   </channel>
   <channel id="VTV.URUGUAY">
     <display-name>VTV</display-name>
-    <icon src="https://i.postimg.cc/Y0Sncxc9/vtv.jpg" />
   </channel>
   <channel id="Noticias.Caracol">
     <display-name>Noticias Caracol</display-name>
-    <icon src="https://i.postimg.cc/HxLYNfLz/image.png" />
   </channel>
   <channel id="Radio.Cosquin.Rock">
     <display-name>Radio Cosquín Rock</display-name>
-    <icon src="https://static.mytuner.mobi/media/tvos_radios/053/cosquin-rock-fm.71fd78e3.png" />
   </channel>
   <channel id="Radio.Del.Plata">
     <display-name>Radio Del Plata</display-name>
