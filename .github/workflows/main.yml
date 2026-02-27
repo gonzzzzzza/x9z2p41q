@@ -18,18 +18,20 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Run Script
-        run: python generar_epg.py
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Test Script
+        run: python test_musicbox.py
 
       - name: Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Bot"
-          git add data_v9.xml
-          # Verifica si hay cambios reales antes de hacer commit
+          git add test_musicbox.xml
           if git diff --staged --quiet; then
             echo "No hay cambios para subir"
           else
-            git commit -m "upd $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "test musicbox $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
