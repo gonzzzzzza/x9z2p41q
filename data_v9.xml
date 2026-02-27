@@ -411,7 +411,7 @@
   <channel id="Radio.Aspen">
     <display-name>Radio Aspen</display-name>
   </channel>
-  <channel id="Radio.Cadena 3">
+  <channel id="Radio.Cadena.3">
     <display-name>Radio Cadena 3</display-name>
   </channel>
   <channel id="Radio.Cosquin.Rock">
@@ -30054,217 +30054,217 @@
     <icon src="https://i.postimg.cc/NMWsH3hX/Radio-Aspen.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260223040000 -0300" stop="20260223080000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260223040000 -0300" stop="20260223080000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260223080000 -0300" stop="20260223120000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260223080000 -0300" stop="20260223120000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260223120000 -0300" stop="20260223160000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260223120000 -0300" stop="20260223160000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260223160000 -0300" stop="20260223200000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260223160000 -0300" stop="20260223200000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260223200000 -0300" stop="20260224000000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260223200000 -0300" stop="20260224000000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260224000000 -0300" stop="20260224040000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260224000000 -0300" stop="20260224040000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260224040000 -0300" stop="20260224080000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260224040000 -0300" stop="20260224080000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260224080000 -0300" stop="20260224120000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260224080000 -0300" stop="20260224120000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260224120000 -0300" stop="20260224160000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260224120000 -0300" stop="20260224160000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260224160000 -0300" stop="20260224200000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260224160000 -0300" stop="20260224200000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260224200000 -0300" stop="20260225000000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260224200000 -0300" stop="20260225000000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260225000000 -0300" stop="20260225040000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260225000000 -0300" stop="20260225040000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260225040000 -0300" stop="20260225080000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260225040000 -0300" stop="20260225080000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260225080000 -0300" stop="20260225120000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260225080000 -0300" stop="20260225120000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260225120000 -0300" stop="20260225160000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260225120000 -0300" stop="20260225160000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260225160000 -0300" stop="20260225200000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260225160000 -0300" stop="20260225200000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260225200000 -0300" stop="20260226000000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260225200000 -0300" stop="20260226000000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260226000000 -0300" stop="20260226040000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260226000000 -0300" stop="20260226040000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260226040000 -0300" stop="20260226080000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260226040000 -0300" stop="20260226080000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260226080000 -0300" stop="20260226120000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260226080000 -0300" stop="20260226120000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260226120000 -0300" stop="20260226160000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260226120000 -0300" stop="20260226160000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260226160000 -0300" stop="20260226200000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260226160000 -0300" stop="20260226200000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260226200000 -0300" stop="20260227000000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260226200000 -0300" stop="20260227000000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260227000000 -0300" stop="20260227040000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260227000000 -0300" stop="20260227040000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260227040000 -0300" stop="20260227080000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260227040000 -0300" stop="20260227080000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260227080000 -0300" stop="20260227120000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260227080000 -0300" stop="20260227120000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260227120000 -0300" stop="20260227160000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260227120000 -0300" stop="20260227160000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260227160000 -0300" stop="20260227200000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260227160000 -0300" stop="20260227200000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260227200000 -0300" stop="20260228000000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260227200000 -0300" stop="20260228000000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260228000000 -0300" stop="20260228040000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260228000000 -0300" stop="20260228040000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260228040000 -0300" stop="20260228080000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260228040000 -0300" stop="20260228080000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260228080000 -0300" stop="20260228120000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260228080000 -0300" stop="20260228120000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260228120000 -0300" stop="20260228160000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260228120000 -0300" stop="20260228160000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260228160000 -0300" stop="20260228200000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260228160000 -0300" stop="20260228200000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
     <category>Radios</category>
   </programme>
-  <programme start="20260228200000 -0300" stop="20260301000000 -0300" channel="Radio.Cadena 3">
+  <programme start="20260228200000 -0300" stop="20260301000000 -0300" channel="Radio.Cadena.3">
     <title>Radio Cadena 3 AM 700</title>
     <desc>La radio líder de la Argentina, Cadena 3, te acerca lo mejor de la música nacional e internacional, junto con noticias, deportes y entretenimiento. Con una programación variada y cercana, Cadena 3 es el puente que conecta a la gente con su cultura y su pasión.</desc>
     <icon src="https://i.postimg.cc/DZtvX9Vv/Cadena-3.png"/>
