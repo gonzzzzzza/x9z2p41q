@@ -159,6 +159,18 @@
   <channel id="Musictop">
     <display-name>MusicTop</display-name>
   </channel>
+  <channel id="Thats.70s">
+    <display-name>That's 70s</display-name>
+  </channel>
+  <channel id="Thats.80s">
+    <display-name>That's 80s</display-name>
+  </channel>
+  <channel id="Thats.90s.00s">
+    <display-name>That's 90s &amp; 00s</display-name>
+  </channel>
+  <channel id="Thats.Rock">
+    <display-name>That's Rock</display-name>
+  </channel>
   <channel id="Vorterix">
     <display-name>Vorterix</display-name>
   </channel>
@@ -11908,6 +11920,870 @@
     <title>MusicTop</title>
     <desc>Top charts y éxitos globales. Videos, rankings y artistas dominantes.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223040000 -0300" stop="20260223080000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223080000 -0300" stop="20260223120000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223120000 -0300" stop="20260223160000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223160000 -0300" stop="20260223200000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223200000 -0300" stop="20260224000000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224000000 -0300" stop="20260224040000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224040000 -0300" stop="20260224080000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224080000 -0300" stop="20260224120000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224120000 -0300" stop="20260224160000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224160000 -0300" stop="20260224200000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224200000 -0300" stop="20260225000000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225000000 -0300" stop="20260225040000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225040000 -0300" stop="20260225080000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225080000 -0300" stop="20260225120000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225120000 -0300" stop="20260225160000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225160000 -0300" stop="20260225200000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225200000 -0300" stop="20260226000000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226000000 -0300" stop="20260226040000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226040000 -0300" stop="20260226080000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226080000 -0300" stop="20260226120000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226120000 -0300" stop="20260226160000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226160000 -0300" stop="20260226200000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226200000 -0300" stop="20260227000000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227000000 -0300" stop="20260227040000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227040000 -0300" stop="20260227080000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227080000 -0300" stop="20260227120000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227120000 -0300" stop="20260227160000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227160000 -0300" stop="20260227200000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227200000 -0300" stop="20260228000000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228000000 -0300" stop="20260228040000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228040000 -0300" stop="20260228080000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228080000 -0300" stop="20260228120000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228120000 -0300" stop="20260228160000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228160000 -0300" stop="20260228200000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228200000 -0300" stop="20260301000000 -0300" channel="Thats.70s">
+    <title>That's 70s</title>
+    <desc>Relive the magic of the 1970s with a curated selection of disco, funk, and classic rock. From dancefloor anthems to acoustic masterpieces, this channel celebrates the decade of soul and style.</desc>
+    <icon src="https://i.postimg.cc/2j09ZVkC/70s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223040000 -0300" stop="20260223080000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223080000 -0300" stop="20260223120000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223120000 -0300" stop="20260223160000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223160000 -0300" stop="20260223200000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223200000 -0300" stop="20260224000000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224000000 -0300" stop="20260224040000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224040000 -0300" stop="20260224080000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224080000 -0300" stop="20260224120000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224120000 -0300" stop="20260224160000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224160000 -0300" stop="20260224200000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224200000 -0300" stop="20260225000000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225000000 -0300" stop="20260225040000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225040000 -0300" stop="20260225080000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225080000 -0300" stop="20260225120000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225120000 -0300" stop="20260225160000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225160000 -0300" stop="20260225200000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225200000 -0300" stop="20260226000000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226000000 -0300" stop="20260226040000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226040000 -0300" stop="20260226080000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226080000 -0300" stop="20260226120000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226120000 -0300" stop="20260226160000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226160000 -0300" stop="20260226200000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226200000 -0300" stop="20260227000000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227000000 -0300" stop="20260227040000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227040000 -0300" stop="20260227080000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227080000 -0300" stop="20260227120000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227120000 -0300" stop="20260227160000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227160000 -0300" stop="20260227200000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227200000 -0300" stop="20260228000000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228000000 -0300" stop="20260228040000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228040000 -0300" stop="20260228080000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228080000 -0300" stop="20260228120000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228120000 -0300" stop="20260228160000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228160000 -0300" stop="20260228200000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228200000 -0300" stop="20260301000000 -0300" channel="Thats.80s">
+    <title>That's 80s</title>
+    <desc>Step into the neon world of the 1980s. A non-stop journey through the biggest synth-pop hits, new wave classics, and hair metal ballads that defined a generation of music and culture.</desc>
+    <icon src="https://i.postimg.cc/0jXtRHW0/80MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223040000 -0300" stop="20260223080000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223080000 -0300" stop="20260223120000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223120000 -0300" stop="20260223160000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223160000 -0300" stop="20260223200000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223200000 -0300" stop="20260224000000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224000000 -0300" stop="20260224040000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224040000 -0300" stop="20260224080000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224080000 -0300" stop="20260224120000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224120000 -0300" stop="20260224160000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224160000 -0300" stop="20260224200000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224200000 -0300" stop="20260225000000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225000000 -0300" stop="20260225040000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225040000 -0300" stop="20260225080000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225080000 -0300" stop="20260225120000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225120000 -0300" stop="20260225160000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225160000 -0300" stop="20260225200000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225200000 -0300" stop="20260226000000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226000000 -0300" stop="20260226040000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226040000 -0300" stop="20260226080000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226080000 -0300" stop="20260226120000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226120000 -0300" stop="20260226160000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226160000 -0300" stop="20260226200000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226200000 -0300" stop="20260227000000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227000000 -0300" stop="20260227040000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227040000 -0300" stop="20260227080000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227080000 -0300" stop="20260227120000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227120000 -0300" stop="20260227160000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227160000 -0300" stop="20260227200000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227200000 -0300" stop="20260228000000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228000000 -0300" stop="20260228040000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228040000 -0300" stop="20260228080000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228080000 -0300" stop="20260228120000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228120000 -0300" stop="20260228160000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228160000 -0300" stop="20260228200000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228200000 -0300" stop="20260301000000 -0300" channel="Thats.90s.00s">
+    <title>That's 90s &amp; 00s</title>
+    <desc>Experience the evolution of sound across two powerful decades. Featuring the grunge and pop-punk explosion of the 90s alongside the iconic R&amp;B, pop, and indie hits that dominated the early 2000s.</desc>
+    <icon src="https://i.postimg.cc/hjgZ9mQz/90s00s-MINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223040000 -0300" stop="20260223080000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223080000 -0300" stop="20260223120000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223120000 -0300" stop="20260223160000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223160000 -0300" stop="20260223200000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260223200000 -0300" stop="20260224000000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224000000 -0300" stop="20260224040000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224040000 -0300" stop="20260224080000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224080000 -0300" stop="20260224120000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224120000 -0300" stop="20260224160000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224160000 -0300" stop="20260224200000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260224200000 -0300" stop="20260225000000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225000000 -0300" stop="20260225040000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225040000 -0300" stop="20260225080000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225080000 -0300" stop="20260225120000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225120000 -0300" stop="20260225160000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225160000 -0300" stop="20260225200000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260225200000 -0300" stop="20260226000000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226000000 -0300" stop="20260226040000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226040000 -0300" stop="20260226080000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226080000 -0300" stop="20260226120000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226120000 -0300" stop="20260226160000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226160000 -0300" stop="20260226200000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260226200000 -0300" stop="20260227000000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227000000 -0300" stop="20260227040000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227040000 -0300" stop="20260227080000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227080000 -0300" stop="20260227120000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227120000 -0300" stop="20260227160000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227160000 -0300" stop="20260227200000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260227200000 -0300" stop="20260228000000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228000000 -0300" stop="20260228040000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228040000 -0300" stop="20260228080000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228080000 -0300" stop="20260228120000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228120000 -0300" stop="20260228160000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228160000 -0300" stop="20260228200000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260228200000 -0300" stop="20260301000000 -0300" channel="Thats.Rock">
+    <title>That's Rock</title>
+    <desc>Turn up the volume for the ultimate rock experience. From legendary arena rock anthems to hard-hitting riffs, we bring you the most influential bands and the greatest electric guitar moments of all time.</desc>
+    <icon src="https://i.postimg.cc/3JWSCYNb/ROCKMINI.png"/>
     <category>Música</category>
   </programme>
   <programme start="20260223000000 -0300" stop="20260223040000 -0300" channel="Vorterix">
