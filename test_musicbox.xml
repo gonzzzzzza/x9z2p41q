@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info="Prueba Music Box">
+  <channel id="MUSIC BOX CLASSIC">
+    <display-name>MUSIC BOX CLASSIC</display-name>
+  </channel>
+  <channel id="MUSIC BOX DANCE">
+    <display-name>MUSIC BOX DANCE</display-name>
+  </channel>
+  <channel id="MUSIC BOX HITS">
+    <display-name>MUSIC BOX HITS</display-name>
+  </channel>
+  <channel id="MUSIC BOX SEXY">
+    <display-name>MUSIC BOX SEXY</display-name>
+  </channel>
+</tv>
