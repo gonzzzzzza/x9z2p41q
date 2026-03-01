@@ -37,7 +37,7 @@ canales = [
     {"id": "TMCConcerts.40mediaGroup", "n": "#TotalmusicConcerts", "t": "#TotalmusicConcerts", "g": "Música", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Selección de conciertos en vivo inolvidables de actuaciones legendarias."},
     {"id": "TMCDance.40mediaGroup", "n": "#TotalmusicDance", "t": "#TotalmusicDance", "g": "Música", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Selección vibrante de videoclips de música electrónica y dance."},
     {"id": "West.TV.PE", "n": "West TV", "t": "West TV", "g": "Películas", "i": "https://i.postimg.cc/C5MT6DLp/West.png", "d": "Un clásico espacio dedicado al cine del Lejano Oeste. Duelos, sheriffs y forajidos."},
-    {"id": "Caras.TV", "n": "Caras TV", "t": "Caras TV", "g": "Interés general", "i": "https://media.canalnet.tv/2024/05/CYaZv3N-1157x720.jpg", "d": "La vida de los famosos, el glamour y las historias que todos comentan."},
+    {"id": "Caras.TV", "n": "Caras TV", "t": "Caras TV", "g": "Interés general", "i": "https://canalnet.tv/wp-content/uploads/2024/05/logo_carastv.png", "d": "La vida de los famosos, el glamour y las historias que todos comentan."},
     {"id": "El.Mueble", "n": "El Mueble", "t": "El Mueble", "g": "Interés general", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Inspiración, diseño y decoración. Ideas y tendencias para transformar tu hogar."},
     {"id": "Aunar", "n": "Aunar", "t": "Aunar", "g": "Cultura", "i": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg", "d": "Cultura, sociedad y contenidos que inspiran. Historias y perspectivas del mundo."},
     {"id": "Horizons.Wild", "n": "Horizons.Wild", "t": "Horizons.Wild", "g": "Naturaleza", "i": "https://i.pinimg.com/736x/e6/a5/40/e6a540fd812d99d1d3d4584c080b9e92.jpg", "d": "Explorá la naturaleza en su estado más puro. Documentales de fauna y paisajes."},
@@ -178,7 +178,9 @@ def clean_text(text):
     return text.replace("&", "&amp;")
 
 def generar_xml():
-    inicio_fijo = datetime.datetime(2026, 2, 23, 0, 0, 0)
+    # USAMOS LA FECHA ACTUAL PARA QUE NO CADUQUE
+    ahora = datetime.datetime.now()
+    inicio_dinamico = datetime.datetime(ahora.year, ahora.month, ahora.day, 0, 0, 0)
     
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
@@ -191,15 +193,15 @@ def generar_xml():
         lines.append('  </channel>')
 
     for c in canales:
-        for d in range(6):
+        # Generamos 7 días para tener una semana completa de guía
+        for d in range(7):
             for h in range(0, 24, 4):
-                start_dt = inicio_fijo + datetime.timedelta(days=d, hours=h)
+                start_dt = inicio_dinamico + datetime.timedelta(days=d, hours=h)
                 stop_dt = start_dt + datetime.timedelta(hours=4)
                 
                 s = start_dt.strftime("%Y%m%d%H%M%S -0300")
                 e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
                 
-                # Limpiamos los textos antes de agregarlos al XML
                 titulo = clean_text(c["t"])
                 desc = clean_text(c["d"])
                 cat = clean_text(c["g"])
@@ -216,7 +218,7 @@ def generar_xml():
     with open("data_v9.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     
-    print("Archivo data_v9.xml generado correctamente y validado contra errores de '&'.")
+    print(f"Archivo data_v9.xml generado correctamente para la semana del {inicio_dinamico.strftime('%d/%m/%Y')}.")
 
 if __name__ == "__main__":
     generar_xml()
