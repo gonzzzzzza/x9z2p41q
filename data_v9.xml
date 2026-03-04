@@ -349,7 +349,7 @@
     <display-name>Norte Grande Federal TV</display-name>
   </channel>
   <channel id="Ciudad.TV.RES">
-    <display-name>Ciudad TV</display-name>
+    <display-name>Ciudad Televisión</display-name>
   </channel>
   <channel id="5TV.CTES">
     <display-name>5TV</display-name>
@@ -382,7 +382,7 @@
     <display-name>San Luis +</display-name>
   </channel>
   <channel id="TVP.Fueguina">
-    <display-name>TVP Fueguina</display-name>
+    <display-name>Televisión Pública Fueguina</display-name>
   </channel>
   <channel id="Stingray.Big.Band">
     <display-name>Big Band</display-name>
@@ -29890,253 +29890,253 @@
     <category>Noticias</category>
   </programme>
   <programme start="20260304000000 -0300" stop="20260304040000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304040000 -0300" stop="20260304080000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304080000 -0300" stop="20260304120000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304120000 -0300" stop="20260304160000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304160000 -0300" stop="20260304200000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304200000 -0300" stop="20260305000000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Ciudad.TV.RES">
-    <title>Ciudad TV</title>
+    <title>Ciudad Televisión</title>
     <desc>Actualidad y noticias de Resistencia y todo el Chaco. Sigue de cerca los hechos políticos, sociales y culturales que definen el día a día provincial.</desc>
     <icon src="https://i.postimg.cc/rp0J2TLW/Ciudad-TV.png"/>
     <category>Noticias</category>
@@ -31654,505 +31654,505 @@
     <category>Noticias</category>
   </programme>
   <programme start="20260304000000 -0300" stop="20260304040000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304040000 -0300" stop="20260304080000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304080000 -0300" stop="20260304120000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304120000 -0300" stop="20260304160000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304160000 -0300" stop="20260304200000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304200000 -0300" stop="20260305000000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Canal.9.La.Rioja">
-    <title>Canal 9 La Rioja</title>
+    <title>Canal 9</title>
     <desc>La señal oficial riojana con toda la actualidad. Noticias, eventos culturales, deportes y la cobertura federal de cada rincón de nuestra provincia.</desc>
     <icon src="https://i.postimg.cc/mg6wnDK9/9-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304000000 -0300" stop="20260304040000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304040000 -0300" stop="20260304080000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304080000 -0300" stop="20260304120000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304120000 -0300" stop="20260304160000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304160000 -0300" stop="20260304200000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304200000 -0300" stop="20260305000000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Canal.13.La.Rioja">
-    <title>Canal 13 La Rioja</title>
+    <title>Canal 13</title>
     <desc>Información y cultura desde La Rioja. Programación variada con noticias de último momento, política riojana y el pulso social del noroeste argentino.</desc>
     <icon src="https://i.postimg.cc/2SXwt6g3/13-La-Rioja.png"/>
     <category>Noticias</category>
@@ -32662,253 +32662,253 @@
     <category>Noticias</category>
   </programme>
   <programme start="20260304000000 -0300" stop="20260304040000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304040000 -0300" stop="20260304080000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304080000 -0300" stop="20260304120000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304120000 -0300" stop="20260304160000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304160000 -0300" stop="20260304200000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260304200000 -0300" stop="20260305000000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
   </programme>
   <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="TVP.Fueguina">
-    <title>TVP Fueguina</title>
+    <title>Televisión Pública Fueguina</title>
     <desc>Desde el fin del mundo, la televisión pública de Tierra del Fuego. Noticias de Ushuaia, Río Grande y la Antártida con soberanía e identidad local.</desc>
     <icon src="https://i.postimg.cc/k4WvDyG2/TVP-Fueguina.png"/>
     <category>Noticias</category>
