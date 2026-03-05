@@ -1,50 +1,5 @@
 import datetime
 
-# 1. CALENDARIO F1 2026
-calendario_f1 = [
-    {"gp": "Australia", "fecha": "2026-03-08", "inicio": "01:00", "fin": "03:00"},
-    {"gp": "China", "fecha": "2026-03-15", "inicio": "04:00", "fin": "06:00"},
-    {"gp": "Japón", "fecha": "2026-03-29", "inicio": "02:00", "fin": "04:00"},
-    {"gp": "Bahréin", "fecha": "2026-04-12", "inicio": "12:00", "fin": "14:00"},
-    {"gp": "Arabia Saudita", "fecha": "2026-04-19", "inicio": "14:00", "fin": "16:00"},
-    {"gp": "Miami", "fecha": "2026-05-03", "inicio": "17:00", "fin": "19:00"},
-    {"gp": "Canadá", "fecha": "2026-05-24", "inicio": "17:00", "fin": "19:00"},
-    {"gp": "Mónaco", "fecha": "2026-06-07", "inicio": "10:00", "fin": "12:00"},
-    {"gp": "Catalunya", "fecha": "2026-06-14", "inicio": "10:00", "fin": "12:00"},
-    {"gp": "Austria", "fecha": "2026-06-28", "inicio": "10:00", "fin": "12:00"},
-    {"gp": "Gran Bretaña", "fecha": "2026-07-05", "inicio": "11:00", "fin": "13:00"},
-    {"gp": "Bélgica", "fecha": "2026-07-19", "inicio": "10:00", "fin": "12:00"},
-    {"gp": "Hungría", "fecha": "2026-07-26", "inicio": "10:00", "fin": "12:00"},
-    {"gp": "Países Bajos", "fecha": "2026-08-23", "inicio": "10:00", "fin": "12:00"},
-    {"gp": "Italia", "fecha": "2026-09-06", "inicio": "10:00", "fin": "12:00"},
-    {"gp": "España", "fecha": "2026-09-13", "inicio": "10:00", "fin": "12:00"},
-    {"gp": "Azerbaiyán", "fecha": "2026-09-26", "inicio": "08:00", "fin": "10:00"},
-    {"gp": "Singapur", "fecha": "2026-10-11", "inicio": "09:00", "fin": "11:00"},
-    {"gp": "Estados Unidos", "fecha": "2026-10-25", "inicio": "16:00", "fin": "18:00"},
-    {"gp": "México", "fecha": "2026-11-01", "inicio": "17:00", "fin": "19:00"},
-    {"gp": "Brasil", "fecha": "2026-11-08", "inicio": "14:00", "fin": "16:00"},
-    {"gp": "Las Vegas", "fecha": "2026-11-21", "inicio": "01:00", "fin": "03:00"},
-    {"gp": "Qatar", "fecha": "2026-11-29", "inicio": "13:00", "fin": "15:00"},
-    {"gp": "Abu Dhabi", "fecha": "2026-12-06", "inicio": "10:00", "fin": "12:00"}
-]
-
-# 2. LÓGICA DE TEXTO DINÁMICO
-def obtener_info_f1_dinamica(hora_bloque):
-    for carrera in calendario_f1:
-        inicio_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['inicio']}", "%Y-%m-%d %H:%M")
-        fin_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['fin']}", "%Y-%m-%d %H:%M")
-        
-        # Si el bloque coincide con la carrera
-        if inicio_dt <= hora_bloque < fin_dt:
-            return f"EN VIVO: Gran Premio de {carrera['gp']}", f"¡Semáforo en verde! Vive la máxima adrenalina del GP de {carrera['gp']}."
-        
-        # Si el bloque es antes de la carrera
-        if hora_bloque < inicio_dt:
-            return f"Próximamente: Gran Premio de {carrera['gp']}", f"La cuenta regresiva ha comenzado para el Gran Premio de {carrera['gp']}."
-            
-    return "Sky Sports F1", "Sigue toda la pasión de la Fórmula 1 en Sky Sports."
-
-# 3. LISTA DE CANALES
 canales = [
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
     {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
@@ -62,7 +17,7 @@ canales = [
     {"id": "Telesol.San.Juan", "n": "Telesol", "t": "Telesol", "g": "Interés general", "i": "https://i.ytimg.com/vi/BbJo6A888a4/maxresdefault.jpg", "d": "Toda la actualidad sanjuanina en un solo lugar. Noticias y producción local."},
     {"id": "Claro.Sports.2", "n": "Claro Sports 2", "t": "Claro Sports 2", "g": "Deportes", "i": "https://cdn.amxinfra.com/clarosports/images/2024/08/paralimpicos-cs2-133315.jpg", "d": "Más acción, más competencia y más deporte en vivo. Cobertura de torneos internacionales."},
     {"id": "Sky.Sports.Mexico", "n": "Sky Sports", "t": "Sky Sports", "g": "Deportes", "i": "https://i.postimg.cc/Y2hZk9kp/Sky-Sports.png", "d": "¡Vive tu pasión por los deportes con Sky Sports! Las mejores ligas del mundo, fútbol europeo de primer nivel y grandes competencias internacionales con cobertura especializada."},
-    {"id": "Sky.Sports.F1.MX", "n": "Sky Sports F1", "t": titulo_f1, "g": "Deportes", "i": "https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png", "d": descripcion_f1},
+    {"id": "Sky.Sports.F1.MX", "n": "Sky Sports F1", "t": "Sky Sports F1", "g": "Deportes", "i": "https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png", "d": "¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada."},
     {"id": "FOX.ONE", "n": "FOX One", "t": "FOX One", "g": "Deportes", "i": "https://i.postimg.cc/kGNRbC8x/FOX-One.jpg", "d": "Vive la pasión del deporte en FOX One, el canal donde laten las grandes competencias del mundo. Disfruta la intensidad de la Premier League, la emoción incomparable de la UEFA Champions League y los torneos más destacados del calendario internacional."},
     {"id": "DSports.Uruguay", "n": "DSports Uruguay", "t": "DSports Uruguay", "g": "Deportes", "i": "https://i.postimg.cc/13StyS19/DSports-Uruguay.png", "d": "La señal deportiva con foco en Uruguay. Fútbol local e internacional, competiciones destacadas y cobertura en vivo con análisis y producción especializada."},
     {"id": "DSports.Uruguay.Premium", "n": "DSports Uruguay Premium", "t": "DSports Uruguay Premium", "g": "Deportes", "i": "https://i.postimg.cc/3xhR3hQ3/DSports-Uruguay-Premium.png", "d": "La experiencia deportiva más completa. Partidos exclusivos, eventos premium y la mejor cobertura en vivo del deporte uruguayo e internacional."},
@@ -270,51 +225,56 @@ canales = [
     {"id": "Radio.Rivadavia", "n": "Radio Rivadavia", "t": "Radio Rivadavia AM 630", "g": "Radios", "i": "https://i.postimg.cc/y8Kd7KCN/Radio-Rivadavia.png", "d": "Una radio histórica con los periodistas más respetados del país."},
     {"id": "Radio.Rock.and.Pop", "n": "Radio Rock and Pop", "t": "Radio Rock and Pop FM 95.9", "g": "Radios", "i": "https://i.postimg.cc/fLcR1W8X/Radio-Rock-and-Pop.png", "d": "Todo el rock, el pop y la cultura musical alternativa."},
     {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida FM 97.9", "g": "Radios", "i": "https://i.ytimg.com/vi/dGQ25rVfUH4/maxresdefault.jpg", "d": "Compañía musical con los hits que suenan en todo momento."},
-    {"id": "Pop.Radio", "n": "Pop Radio FM 101.5", "t": "Pop Radio FM 101.5", "g": "Radios", "i": "https://i.postimg.cc/s2HxhTTF/POP-mini.png", "d": "La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires."},
-    {"id": "Radio.Con.Vos", "n": "Radio Con Vos FM 89.9", "t": "Radio Con Vos FM 89.9", "g": "Radios", "i": "https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png", "d": "Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día."},
-    {"id": "Radio.ADN.Rafaela", "n": "Radio ADN FM 97.9", "t": "Radio ADN FM 97.9", "g": "Radios", "i": "https://i.postimg.cc/Bv7bKmMr/ADN-mini.png", "d": "La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9."},
-    {"id": "Radio.Rafaela", "n": "Radio Rafaela LT28", "t": "Radio Rafaela LT28 FM 96.5", "g": "Radios", "i": "https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png", "d": "Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona."},
 ]
 
-# 4. GENERADOR DE XML
-def generar_xmltv():
-    try:
-        with open("epg.xml", "w", encoding="utf-8") as f:
-            f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-            f.write('<tv generator-info-name="GeminiEPG">\n')
+def clean_text(text):
+    return text.replace("&", "&amp;")
 
-            # Canales
-            for c in canales:
-                f.write(f'  <channel id="{c["id"]}">\n')
-                f.write(f'    <display-name>{c["n"]}</display-name>\n')
-                f.write(f'    <icon src="{c["i"]}" />\n')
-                f.write(f'  </channel>\n')
+def generar_xml():
+    # CAMBIO CLAVE: Obtiene la fecha actual dinámicamente cada vez que corre el script
+    ahora = datetime.datetime.now()
+    # Crea el inicio a las 00:00:00 del día actual (sin importar qué mes sea)
+    inicio_dinamico = datetime.datetime(ahora.year, ahora.month, ahora.day, 0, 0, 0)
+    
+    lines = []
+    lines.append('<?xml version="1.0" encoding="utf-8"?>')
+    lines.append('<tv generator-info="EPG Generator">')
+    
+    # Declaración de canales
+    for c in canales:
+        nombre = clean_text(c["n"])
+        lines.append(f'  <channel id="{c["id"]}">')
+        lines.append(f'    <display-name>{nombre}</display-name>')
+        lines.append('  </channel>')
 
-            # Programación (7 días)
-            ahora = datetime.datetime.now()
-            for i in range(42):  # Bloques de 4hs
-                start = ahora + datetime.timedelta(hours=i*4)
-                stop = start + datetime.timedelta(hours=4)
-                str_start = start.strftime("%Y%m%d%H%M%S -0300")
-                str_stop = stop.strftime("%Y%m%d%H%M%S -0300")
+    # Generación de programación (7 días para mayor margen)
+    for c in canales:
+        for d in range(7):
+            for h in range(0, 24, 4):
+                # Se suma el tiempo a la fecha dinámica de hoy
+                start_dt = inicio_dinamico + datetime.timedelta(days=d, hours=h)
+                stop_dt = start_dt + datetime.timedelta(hours=4)
+                
+                s = start_dt.strftime("%Y%m%d%H%M%S -0300")
+                e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
+                
+                titulo = clean_text(c["t"])
+                desc = clean_text(c["d"])
+                cat = clean_text(c["g"])
+                
+                lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
+                lines.append(f'    <title>{titulo}</title>')
+                lines.append(f'    <desc>{desc}</desc>')
+                lines.append(f'    <icon src="{c.get("i")}"/>')
+                lines.append(f'    <category>{cat}</category>')
+                lines.append(f'  </programme>')
 
-                for c in canales:
-                    if c["id"] == "Sky.Sports.F1.MX":
-                        titulo, desc = obtener_info_f1_dinamica(start)
-                    else:
-                        titulo, desc = c["t"], c["d"]
-
-                    f.write(f'  <programme start="{str_start}" stop="{str_stop}" channel="{c["id"]}">\n')
-                    f.write(f'    <title lang="es">{titulo}</title>\n')
-                    f.write(f'    <desc lang="es">{desc}</desc>\n')
-                    f.write(f'    <category lang="es">{c["g"]}</category>\n')
-                    f.write(f'    <icon src="{c["i"]}" />\n')
-                    f.write(f'  </programme>\n')
-            
-            f.write('</tv>\n')
-        print("EPG generada con éxito.")
-    except Exception as e:
-        print(f"Error al generar EPG: {e}")
+    lines.append('</tv>')
+    
+    with open("data_v9.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    
+    print(f"Guía generada para la semana del {inicio_dinamico.strftime('%d/%m/%Y')}.")
 
 if __name__ == "__main__":
-    generar_xmltv()
+    generar_xml()
