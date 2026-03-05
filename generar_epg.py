@@ -29,20 +29,19 @@ calendario_f1 = [
 ]
 
 def obtener_info_f1_dinamica(hora_bloque):
-    """Determina el título y descripción para un momento específico del tiempo."""
     for carrera in calendario_f1:
         inicio_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['inicio']}", "%Y-%m-%d %H:%M")
         fin_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['fin']}", "%Y-%m-%d %H:%M")
         
-        # Si el bloque coincide con la carrera
+        # Si el horario del bloque coincide con la carrera
         if inicio_dt <= hora_bloque < fin_dt:
-            return f"En vivo: Gran Premio de {carrera['gp']}", f"¡Semáforo en verde! Vive la máxima adrenalina del Gran Premio de {carrera['gp']}. Los mejores pilotos del planeta en una batalla épica por Sky Sports F1."
+            return f"EN VIVO: Gran Premio de {carrera['gp']}", f"¡Semáforo en verde! Vive la máxima adrenalina del Gran Premio de {carrera['gp']} por Sky Sports F1."
         
-        # Si el bloque es antes de esta carrera
+        # Si el horario del bloque es anterior a la carrera
         if hora_bloque < inicio_dt:
-            return f"Próximamente: Gran Premio de {carrera['gp']}", f"La cuenta regresiva ha comenzado para el Gran Premio de {carrera['gp']}. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo."
+            return f"Próximamente: Gran Premio de {carrera['gp']}", f"La cuenta regresiva ha comenzado para el Gran Premio de {carrera['gp']}."
             
-    return "Sky Sports F1", "¡Vive tu pasión por los deportes con Sky Sports! Cobertura especializada de la Fórmula 1."
+    return "Sky Sports F1", "Cobertura especializada de la Fórmula 1."
 
 canales = [
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
