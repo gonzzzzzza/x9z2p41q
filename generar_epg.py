@@ -36,7 +36,7 @@ def obtener_status_f1():
         
         # SI ESTÁ EN CURSO LA CARRERA
         if inicio_dt <= ahora <= fin_dt:
-            titulo = f"EN VIVO: Gran Premio de {carrera['gp']}"
+            titulo = f"En vivo: Gran Premio de {carrera['gp']}"
             desc = f"¡Semáforo en verde! Vive la máxima adrenalina del Gran Premio de {carrera['gp']}. Los mejores pilotos del planeta en una batalla épica de estrategia y velocidad por Sky Sports F1."
             return titulo, desc
         
