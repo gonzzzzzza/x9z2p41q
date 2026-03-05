@@ -660,18 +660,6 @@
   <channel id="Radio.Vida">
     <display-name>Radio Vida</display-name>
   </channel>
-  <channel id="Pop.Radio">
-    <display-name>Pop Radio FM 101.5</display-name>
-  </channel>
-  <channel id="Radio.Con.Vos">
-    <display-name>Radio Con Vos FM 89.9</display-name>
-  </channel>
-  <channel id="Radio.ADN.Rafaela">
-    <display-name>Radio ADN FM 97.9</display-name>
-  </channel>
-  <channel id="Radio.Rafaela">
-    <display-name>Radio Rafaela LT28</display-name>
-  </channel>
   <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="GH.MULTI">
     <title>GH - Experiencia Multicámara</title>
     <desc>La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
@@ -4705,254 +4693,254 @@
     <category>Deportes</category>
   </programme>
   <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260311000000 -0300" stop="20260311040000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260311040000 -0300" stop="20260311080000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260311080000 -0300" stop="20260311120000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260311120000 -0300" stop="20260311160000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260311160000 -0300" stop="20260311200000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260311200000 -0300" stop="20260312000000 -0300" channel="Sky.Sports.F1.MX">
-    <title>Próximamente: Gran Premio de Australia</title>
-    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <title>Sky Sports F1</title>
+    <desc>¡Vive la emoción de la Fórmula 1 en Sky Sports F1! Prácticas, clasificaciones y todas las carreras del calendario en vivo con la cobertura más completa y especializada.</desc>
     <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
@@ -56110,1014 +56098,6 @@
     <title>Radio Vida FM 97.9</title>
     <desc>Compañía musical con los hits que suenan en todo momento.</desc>
     <icon src="https://i.ytimg.com/vi/dGQ25rVfUH4/maxresdefault.jpg"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311000000 -0300" stop="20260311040000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311040000 -0300" stop="20260311080000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311080000 -0300" stop="20260311120000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311120000 -0300" stop="20260311160000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311160000 -0300" stop="20260311200000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311200000 -0300" stop="20260312000000 -0300" channel="Pop.Radio">
-    <title>Pop Radio FM 101.5</title>
-    <desc>La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires.</desc>
-    <icon src="https://i.postimg.cc/s2HxhTTF/POP-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311000000 -0300" stop="20260311040000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311040000 -0300" stop="20260311080000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311080000 -0300" stop="20260311120000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311120000 -0300" stop="20260311160000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311160000 -0300" stop="20260311200000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311200000 -0300" stop="20260312000000 -0300" channel="Radio.Con.Vos">
-    <title>Radio Con Vos FM 89.9</title>
-    <desc>Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día.</desc>
-    <icon src="https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311000000 -0300" stop="20260311040000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311040000 -0300" stop="20260311080000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311080000 -0300" stop="20260311120000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311120000 -0300" stop="20260311160000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311160000 -0300" stop="20260311200000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311200000 -0300" stop="20260312000000 -0300" channel="Radio.ADN.Rafaela">
-    <title>Radio ADN FM 97.9</title>
-    <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
-    <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311000000 -0300" stop="20260311040000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311040000 -0300" stop="20260311080000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311080000 -0300" stop="20260311120000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311120000 -0300" stop="20260311160000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311160000 -0300" stop="20260311200000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
-    <category>Radios</category>
-  </programme>
-  <programme start="20260311200000 -0300" stop="20260312000000 -0300" channel="Radio.Rafaela">
-    <title>Radio Rafaela LT28 FM 96.5</title>
-    <desc>Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona.</desc>
-    <icon src="https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png"/>
     <category>Radios</category>
   </programme>
 </tv>
