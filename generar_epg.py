@@ -28,27 +28,21 @@ calendario_f1 = [
     {"gp": "Abu Dhabi", "fecha": "2026-12-06", "inicio": "10:00", "fin": "12:00"}
 ]
 
-def obtener_status_f1():
-    ahora = datetime.datetime.now()
+def obtener_info_f1_dinamica(hora_bloque):
+    """Determina el título y descripción para un momento específico del tiempo."""
     for carrera in calendario_f1:
         inicio_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['inicio']}", "%Y-%m-%d %H:%M")
         fin_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['fin']}", "%Y-%m-%d %H:%M")
         
-        # SI ESTÁ EN CURSO LA CARRERA
-        if inicio_dt <= ahora <= fin_dt:
-            titulo = f"En vivo: Gran Premio de {carrera['gp']}"
-            desc = f"¡Semáforo en verde! Vive la máxima adrenalina del Gran Premio de {carrera['gp']}. Los mejores pilotos del planeta en una batalla épica de estrategia y velocidad por Sky Sports F1."
-            return titulo, desc
+        # Si el bloque coincide con la carrera
+        if inicio_dt <= hora_bloque < fin_dt:
+            return f"En vivo: Gran Premio de {carrera['gp']}", f"¡Semáforo en verde! Vive la máxima adrenalina del Gran Premio de {carrera['gp']}. Los mejores pilotos del planeta en una batalla épica por Sky Sports F1."
         
-        # SI ES LA PRÓXIMA CARRERA
-        if inicio_dt > ahora:
-            titulo = f"Próximamente: Gran Premio de {carrera['gp']}"
-            desc = f"La cuenta regresiva ha comenzado para el Gran Premio de {carrera['gp']}. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo."
-            return titulo, desc
+        # Si el bloque es antes de esta carrera
+        if hora_bloque < inicio_dt:
+            return f"Próximamente: Gran Premio de {carrera['gp']}", f"La cuenta regresiva ha comenzado para el Gran Premio de {carrera['gp']}. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo."
             
-    return "Sky Sports F1", "¡Vive tu pasión por los deportes con Sky Sports! Las mejores ligas del mundo, automovilismo de primer nivel y grandes competencias con cobertura especializada."
-
-titulo_f1, descripcion_f1 = obtener_status_f1()
+    return "Sky Sports F1", "¡Vive tu pasión por los deportes con Sky Sports! Cobertura especializada de la Fórmula 1."
 
 canales = [
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
@@ -281,54 +275,42 @@ canales = [
     {"id": "Radio.Rafaela", "n": "Radio Rafaela LT28", "t": "Radio Rafaela LT28 FM 96.5", "g": "Radios", "i": "https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png", "d": "Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona."},
 ]
 
-def clean_text(text):
-    return text.replace("&", "&amp;")
+def generar_xmltv():
+    with open("epg.xml", "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+        f.write('<tv generator-info-name="GeminiEPG">\n')
 
-def generar_xml():
-    # CAMBIO CLAVE: Obtiene la fecha actual dinámicamente cada vez que corre el script
-    ahora = datetime.datetime.now()
-    # Crea el inicio a las 00:00:00 del día actual (sin importar qué mes sea)
-    inicio_dinamico = datetime.datetime(ahora.year, ahora.month, ahora.day, 0, 0, 0)
-    
-    lines = []
-    lines.append('<?xml version="1.0" encoding="utf-8"?>')
-    lines.append('<tv generator-info="EPG Generator">')
-    
-    # Declaración de canales
-    for c in canales:
-        nombre = clean_text(c["n"])
-        lines.append(f'  <channel id="{c["id"]}">')
-        lines.append(f'    <display-name>{nombre}</display-name>')
-        lines.append('  </channel>')
+        # Escribir Canales
+        for c in canales:
+            f.write(f'  <channel id="{c["id"]}">\n')
+            f.write(f'    <display-name>{c["n"]}</display-name>\n')
+            f.write(f'    <icon src="{c["i"]}" />\n')
+            f.write(f'  </channel>\n')
 
-    # Generación de programación (7 días para mayor margen)
-    for c in canales:
-        for d in range(7):
-            for h in range(0, 24, 4):
-                # Se suma el tiempo a la fecha dinámica de hoy
-                start_dt = inicio_dinamico + datetime.timedelta(days=d, hours=h)
-                stop_dt = start_dt + datetime.timedelta(hours=4)
-                
-                s = start_dt.strftime("%Y%m%d%H%M%S -0300")
-                e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
-                
-                titulo = clean_text(c["t"])
-                desc = clean_text(c["d"])
-                cat = clean_text(c["g"])
-                
-                lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
-                lines.append(f'    <title>{titulo}</title>')
-                lines.append(f'    <desc>{desc}</desc>')
-                lines.append(f'    <icon src="{c.get("i")}"/>')
-                lines.append(f'    <category>{cat}</category>')
-                lines.append(f'  </programme>')
+        # Escribir Programas (7 días de guía en bloques de 4 horas)
+        ahora = datetime.datetime.now()
+        for i in range(42):  # 42 bloques de 4hs = 7 días
+            start = ahora + datetime.timedelta(hours=i*4)
+            stop = start + datetime.timedelta(hours=4)
+            
+            str_start = start.strftime("%Y%m%d%H%M%S +0000")
+            str_stop = stop.strftime("%Y%m%d%H%M%S +0000")
 
-    lines.append('</tv>')
-    
-    with open("data_v9.xml", "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
-    
-    print(f"Guía generada para la semana del {inicio_dinamico.strftime('%d/%m/%Y')}.")
+            for c in canales:
+                # LÓGICA ESPECIAL PARA F1
+                if c["id"] == "Sky.Sports.F1.MX":
+                    titulo, desc = obtener_info_f1_dinamica(start)
+                else:
+                    titulo, desc = c["t"], c["d"]
+
+                f.write(f'  <programme start="{str_start}" stop="{str_stop}" channel="{c["id"]}">\n')
+                f.write(f'    <title lang="es">{titulo}</title>\n')
+                f.write(f'    <desc lang="es">{desc}</desc>\n')
+                f.write(f'    <category lang="es">{c["g"]}</category>\n')
+                f.write(f'    <icon src="{c["i"]}" />\n')
+                f.write(f'  </programme>\n')
+
+        f.write('</tv>\n')
 
 if __name__ == "__main__":
-    generar_xml()
+    generar_xmltv()
