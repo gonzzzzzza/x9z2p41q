@@ -48,6 +48,9 @@
   <channel id="Sky.Sports.Mexico">
     <display-name>Sky Sports</display-name>
   </channel>
+  <channel id="Sky.Sports.F1.MX">
+    <display-name>Sky Sports F1</display-name>
+  </channel>
   <channel id="FOX.ONE">
     <display-name>FOX One</display-name>
   </channel>
@@ -4699,6 +4702,258 @@
     <title>Sky Sports</title>
     <desc>¡Vive tu pasión por los deportes con Sky Sports! Las mejores ligas del mundo, fútbol europeo de primer nivel y grandes competencias internacionales con cobertura especializada.</desc>
     <icon src="https://i.postimg.cc/Y2hZk9kp/Sky-Sports.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260305040000 -0300" stop="20260305080000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260305080000 -0300" stop="20260305120000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260305120000 -0300" stop="20260305160000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260305160000 -0300" stop="20260305200000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260305200000 -0300" stop="20260306000000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260306000000 -0300" stop="20260306040000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260306040000 -0300" stop="20260306080000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260306080000 -0300" stop="20260306120000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260306120000 -0300" stop="20260306160000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260306160000 -0300" stop="20260306200000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260306200000 -0300" stop="20260307000000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260307000000 -0300" stop="20260307040000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260307040000 -0300" stop="20260307080000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260307080000 -0300" stop="20260307120000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260307120000 -0300" stop="20260307160000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260307160000 -0300" stop="20260307200000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260307200000 -0300" stop="20260308000000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260308000000 -0300" stop="20260308040000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260308040000 -0300" stop="20260308080000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260308080000 -0300" stop="20260308120000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260308120000 -0300" stop="20260308160000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260308160000 -0300" stop="20260308200000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260308200000 -0300" stop="20260309000000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260309000000 -0300" stop="20260309040000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260309040000 -0300" stop="20260309080000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260309080000 -0300" stop="20260309120000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260309120000 -0300" stop="20260309160000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260309160000 -0300" stop="20260309200000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260309200000 -0300" stop="20260310000000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260310000000 -0300" stop="20260310040000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260310040000 -0300" stop="20260310080000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260310080000 -0300" stop="20260310120000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260310120000 -0300" stop="20260310160000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260310160000 -0300" stop="20260310200000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260310200000 -0300" stop="20260311000000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260311000000 -0300" stop="20260311040000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260311040000 -0300" stop="20260311080000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260311080000 -0300" stop="20260311120000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260311120000 -0300" stop="20260311160000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260311160000 -0300" stop="20260311200000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260311200000 -0300" stop="20260312000000 -0300" channel="Sky.Sports.F1.MX">
+    <title>Próximamente: Gran Premio de Australia</title>
+    <desc>La cuenta regresiva ha comenzado para el Gran Premio de Australia. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo.</desc>
+    <icon src="https://i.postimg.cc/50tK2StS/Sky-Sports-F1-Mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260305000000 -0300" stop="20260305040000 -0300" channel="FOX.ONE">
