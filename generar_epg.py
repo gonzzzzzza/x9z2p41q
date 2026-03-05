@@ -20,7 +20,7 @@ calendario_f1 = [
     {"gp": "España", "fecha": "2026-09-13", "inicio": "10:00", "fin": "12:00"},
     {"gp": "Azerbaiyán", "fecha": "2026-09-26", "inicio": "08:00", "fin": "10:00"},
     {"gp": "Singapur", "fecha": "2026-10-11", "inicio": "09:00", "fin": "11:00"},
-    {"gp": "Estados Unidos", "fecha": "2026-10-25", "inicio": "16:00", "att": "18:00"},
+    {"gp": "Estados Unidos", "fecha": "2026-10-25", "inicio": "16:00", "fin": "18:00"},
     {"gp": "México", "fecha": "2026-11-01", "inicio": "17:00", "fin": "19:00"},
     {"gp": "Brasil", "fecha": "2026-11-08", "inicio": "14:00", "fin": "16:00"},
     {"gp": "Las Vegas", "fecha": "2026-11-21", "inicio": "01:00", "fin": "03:00"},
