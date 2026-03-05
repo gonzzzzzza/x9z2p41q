@@ -1,6 +1,6 @@
 import datetime
 
-# 1. CALENDARIO F1
+# 1. CALENDARIO F1 2026
 calendario_f1 = [
     {"gp": "Australia", "fecha": "2026-03-08", "inicio": "01:00", "fin": "03:00"},
     {"gp": "China", "fecha": "2026-03-15", "inicio": "04:00", "fin": "06:00"},
@@ -28,16 +28,21 @@ calendario_f1 = [
     {"gp": "Abu Dhabi", "fecha": "2026-12-06", "inicio": "10:00", "fin": "12:00"}
 ]
 
-# 2. FUNCIÓN DINÁMICA
+# 2. LÓGICA DE TEXTO DINÁMICO
 def obtener_info_f1_dinamica(hora_bloque):
     for carrera in calendario_f1:
         inicio_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['inicio']}", "%Y-%m-%d %H:%M")
         fin_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['fin']}", "%Y-%m-%d %H:%M")
+        
+        # Si el bloque coincide con la carrera
         if inicio_dt <= hora_bloque < fin_dt:
-            return f"EN VIVO: Gran Premio de {carrera['gp']}", f"¡Semáforo en verde! Vive la máxima adrenalina del Gran Premio de {carrera['gp']}."
+            return f"EN VIVO: Gran Premio de {carrera['gp']}", f"¡Semáforo en verde! Vive la máxima adrenalina del GP de {carrera['gp']}."
+        
+        # Si el bloque es antes de la carrera
         if hora_bloque < inicio_dt:
             return f"Próximamente: Gran Premio de {carrera['gp']}", f"La cuenta regresiva ha comenzado para el Gran Premio de {carrera['gp']}."
-    return "Sky Sports F1", "¡Vive tu pasión por los deportes con Sky Sports!"
+            
+    return "Sky Sports F1", "Sigue toda la pasión de la Fórmula 1 en Sky Sports."
 
 # 3. LISTA DE CANALES
 canales = [
@@ -271,38 +276,45 @@ canales = [
     {"id": "Radio.Rafaela", "n": "Radio Rafaela LT28", "t": "Radio Rafaela LT28 FM 96.5", "g": "Radios", "i": "https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png", "d": "Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona."},
 ]
 
-# 4. GENERADOR
+# 4. GENERADOR DE XML
 def generar_xmltv():
-    with open("epg.xml", "w", encoding="utf-8") as f:
-        f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-        f.write('<tv generator-info-name="GeminiEPG">\n')
+    try:
+        with open("epg.xml", "w", encoding="utf-8") as f:
+            f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+            f.write('<tv generator-info-name="GeminiEPG">\n')
 
-        for c in canales:
-            f.write(f'  <channel id="{c["id"]}">\n')
-            f.write(f'    <display-name>{c["n"]}</display-name>\n')
-            f.write(f'    <icon src="{c["i"]}" />\n')
-            f.write(f'  </channel>\n')
-
-        ahora = datetime.datetime.now()
-        for i in range(42):
-            start = ahora + datetime.timedelta(hours=i*4)
-            stop = start + datetime.timedelta(hours=4)
-            str_start = start.strftime("%Y%m%d%H%M%S +0000")
-            str_stop = stop.strftime("%Y%m%d%H%M%S +0000")
-
+            # Canales
             for c in canales:
-                if c["id"] == "Sky.Sports.F1.MX":
-                    titulo, desc = obtener_info_f1_dinamica(start)
-                else:
-                    titulo, desc = c["t"], c["d"]
-
-                f.write(f'  <programme start="{str_start}" stop="{str_stop}" channel="{c["id"]}">\n')
-                f.write(f'    <title lang="es">{titulo}</title>\n')
-                f.write(f'    <desc lang="es">{desc}</desc>\n')
-                f.write(f'    <category lang="es">{c["g"]}</category>\n')
+                f.write(f'  <channel id="{c["id"]}">\n')
+                f.write(f'    <display-name>{c["n"]}</display-name>\n')
                 f.write(f'    <icon src="{c["i"]}" />\n')
-                f.write(f'  </programme>\n')
-        f.write('</tv>\n')
+                f.write(f'  </channel>\n')
+
+            # Programación (7 días)
+            ahora = datetime.datetime.now()
+            for i in range(42):  # Bloques de 4hs
+                start = ahora + datetime.timedelta(hours=i*4)
+                stop = start + datetime.timedelta(hours=4)
+                str_start = start.strftime("%Y%m%d%H%M%S -0300")
+                str_stop = stop.strftime("%Y%m%d%H%M%S -0300")
+
+                for c in canales:
+                    if c["id"] == "Sky.Sports.F1.MX":
+                        titulo, desc = obtener_info_f1_dinamica(start)
+                    else:
+                        titulo, desc = c["t"], c["d"]
+
+                    f.write(f'  <programme start="{str_start}" stop="{str_stop}" channel="{c["id"]}">\n')
+                    f.write(f'    <title lang="es">{titulo}</title>\n')
+                    f.write(f'    <desc lang="es">{desc}</desc>\n')
+                    f.write(f'    <category lang="es">{c["g"]}</category>\n')
+                    f.write(f'    <icon src="{c["i"]}" />\n')
+                    f.write(f'  </programme>\n')
+            
+            f.write('</tv>\n')
+        print("EPG generada con éxito.")
+    except Exception as e:
+        print(f"Error al generar EPG: {e}")
 
 if __name__ == "__main__":
     generar_xmltv()
