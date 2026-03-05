@@ -1,5 +1,55 @@
 import datetime
 
+# Calendario F1 2026 - Solo carreras (Horarios de Argentina)
+calendario_f1 = [
+    {"gp": "Australia", "fecha": "2026-03-08", "inicio": "01:00", "fin": "03:00"},
+    {"gp": "China", "fecha": "2026-03-15", "inicio": "04:00", "fin": "06:00"},
+    {"gp": "Japón", "fecha": "2026-03-29", "inicio": "02:00", "fin": "04:00"},
+    {"gp": "Bahréin", "fecha": "2026-04-12", "inicio": "12:00", "fin": "14:00"},
+    {"gp": "Arabia Saudita", "fecha": "2026-04-19", "inicio": "14:00", "fin": "16:00"},
+    {"gp": "Miami", "fecha": "2026-05-03", "inicio": "17:00", "fin": "19:00"},
+    {"gp": "Canadá", "fecha": "2026-05-24", "inicio": "17:00", "fin": "19:00"},
+    {"gp": "Mónaco", "fecha": "2026-06-07", "inicio": "10:00", "fin": "12:00"},
+    {"gp": "Catalunya", "fecha": "2026-06-14", "inicio": "10:00", "fin": "12:00"},
+    {"gp": "Austria", "fecha": "2026-06-28", "inicio": "10:00", "fin": "12:00"},
+    {"gp": "Gran Bretaña", "fecha": "2026-07-05", "inicio": "11:00", "fin": "13:00"},
+    {"gp": "Bélgica", "fecha": "2026-07-19", "inicio": "10:00", "fin": "12:00"},
+    {"gp": "Hungría", "fecha": "2026-07-26", "inicio": "10:00", "fin": "12:00"},
+    {"gp": "Países Bajos", "fecha": "2026-08-23", "inicio": "10:00", "fin": "12:00"},
+    {"gp": "Italia", "fecha": "2026-09-06", "inicio": "10:00", "fin": "12:00"},
+    {"gp": "España", "fecha": "2026-09-13", "inicio": "10:00", "fin": "12:00"},
+    {"gp": "Azerbaiyán", "fecha": "2026-09-26", "inicio": "08:00", "fin": "10:00"},
+    {"gp": "Singapur", "fecha": "2026-10-11", "inicio": "09:00", "fin": "11:00"},
+    {"gp": "Estados Unidos", "fecha": "2026-10-25", "inicio": "16:00", "fin": "18:00"},
+    {"gp": "México", "fecha": "2026-11-01", "inicio": "17:00", "fin": "19:00"},
+    {"gp": "Brasil", "fecha": "2026-11-08", "inicio": "14:00", "fin": "16:00"},
+    {"gp": "Las Vegas", "fecha": "2026-11-21", "inicio": "01:00", "fin": "03:00"},
+    {"gp": "Qatar", "fecha": "2026-11-29", "inicio": "13:00", "fin": "15:00"},
+    {"gp": "Abu Dhabi", "fecha": "2026-12-06", "inicio": "10:00", "fin": "12:00"}
+]
+
+def obtener_status_f1():
+    ahora = datetime.datetime.now()
+    for carrera in calendario_f1:
+        inicio_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['inicio']}", "%Y-%m-%d %H:%M")
+        fin_dt = datetime.datetime.strptime(f"{carrera['fecha']} {carrera['fin']}", "%Y-%m-%d %H:%M")
+        
+        # SI ESTÁ EN CURSO LA CARRERA
+        if inicio_dt <= ahora <= fin_dt:
+            titulo = f"EN VIVO: Gran Premio de {carrera['gp']}"
+            desc = f"¡Semáforo en verde! Vive la máxima adrenalina del Gran Premio de {carrera['gp']}. Los mejores pilotos del planeta en una batalla épica de estrategia y velocidad por Sky Sports F1."
+            return titulo, desc
+        
+        # SI ES LA PRÓXIMA CARRERA
+        if inicio_dt > ahora:
+            titulo = f"Próximamente: Gran Premio de {carrera['gp']}"
+            desc = f"La cuenta regresiva ha comenzado para el Gran Premio de {carrera['gp']}. La máxima categoría se prepara para desembarcar en uno de los circuitos más exigentes del mundo."
+            return titulo, desc
+            
+    return "Sky Sports F1", "¡Vive tu pasión por los deportes con Sky Sports! Las mejores ligas del mundo, automovilismo de primer nivel y grandes competencias con cobertura especializada."
+
+titulo_f1, descripcion_f1 = obtener_status_f1()
+
 canales = [
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
     {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
