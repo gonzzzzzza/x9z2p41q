@@ -128,6 +128,7 @@ canales = [
     {"id": "Showsport.CBA", "n": "Showsport", "t": "Showsport", "g": "Deportes", "i": "https://i.postimg.cc/5tY3WJMK/Showsport.png", "d": "Toda la pasión del deporte cordobés en un solo lugar. Seguimiento de los clubes locales, ligas regionales y las mejores coberturas del mundo deportivo."},
     {"id": "Next.TV.Carlos.Paz", "n": "Next TV", "t": "Next TV", "g": "Variedades", "i": "https://i.postimg.cc/xdJRVQS4/Next-VCP.png", "d": "Información y entretenimiento desde Villa Carlos Paz. El pulso del turismo, la temporada teatral y los eventos más importantes de la villa cordobesa."},
     {"id": "Vive.TV.Rosario", "n": "Vive TV Rosario", "t": "Vive TV Rosario", "g": "Variedades", "i": "https://i.postimg.cc/4375RGTD/Vive-Rosario.png", "d": "El canal joven de Rosario. Música, tendencias, entrevistas y la actualidad de la ciudad más vibrante de Santa Fe con una estética moderna y dinámica."},
+    {"id": "Rafaela.Noticias", "n": "Rafaela Noticias TV", "t": "Rafaela Noticias TV", "g": "Noticias", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png", "d": "Toda la actualidad de Rafaela y el departamento Castellanos. Noticias de último momento, política y sociedad santafesina con mirada profesional."},
     {"id": "AIRE.Santa.Fe", "n": "Aire de Santa Fe", "t": "Aire de Santa Fe", "g": "Noticias", "i": "https://i.postimg.cc/T2VcxGKM/AIRE.png", "d": "Noticias, actualidad y todo lo que pasa en Santa Fe y la región en vivo."},
     {"id": "Cable.Diario.SFE", "n": "Cable & Diario", "t": "Cable & Diario", "g": "Noticias", "i": "https://i.postimg.cc/SK2rb4p6/Cable-Diario.png", "d": "La mejor información de la capital santafesina. Análisis político, economía regional y cultura con la experiencia de un medio líder en la provincia."},
     {"id": "Litus.TV.SFE", "n": "Litus TV", "t": "Litus TV", "g": "Cultura", "i": "https://i.postimg.cc/R06Rxmz1/Litus.png", "d": "El canal de la Universidad Nacional del Litoral. Educación, ciencia, arte y debate ciudadano desde Santa Fe para conectar conocimiento con la sociedad."},
@@ -291,7 +292,7 @@ def generar_epg():
         {"s": "223000", "e": "235959", "t": "Agregándole valor a la vida", "g": "Magazine", "d": "Historias inspiradoras.", "i": "https://i.postimg.cc/NfGv6mQZ/Valor-Vida.jpg"}
     ]
 
-    for d in range(7):
+    for d in range(3):
         for p in prog_rafaela:
             inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
             st = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
