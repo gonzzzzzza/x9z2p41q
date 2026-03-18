@@ -293,19 +293,25 @@ prog_rafaela = [
     {"s": "233000", "e": "000000", "t": "Planeta vinos", "g": "Cocina", "d": "Vero Martino y Diego Hernández te invitan a recorrer bodegas, ferias y eventos exclusivos de la vitivinicultura junto sus principales protagonistas.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"}
 ]
 
-    for d in range(3):
-        for p in prog_rafaela:
-            inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
-            st = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
-            et = inicio_dia.replace(hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:]))
-            s_str = st.strftime("%Y%m%d%H%M%S -0300")
-            e_str = et.strftime("%Y%m%d%H%M%S -0300")
-            lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="Rafaela.Noticias">')
-            lines.append(f'    <title>{clean_text(p["t"])}</title>')
-            lines.append(f'    <desc>{clean_text(p["d"])}</desc>')
-            lines.append(f'    <icon src="{p["i"]}"/>')
-            lines.append(f'    <category>{clean_text(p["g"])}</category>')
-            lines.append(f'  </programme>')
+for d in range(3):
+    for p in prog_rafaela:
+        inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
+
+        st = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
+        et = inicio_dia.replace(hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:]))
+
+        if et <= st:
+            et += datetime.timedelta(days=1)
+
+        s_str = st.strftime("%Y%m%d%H%M%S -0300")
+        e_str = et.strftime("%Y%m%d%H%M%S -0300")
+
+        lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="Rafaela.Noticias">')
+        lines.append(f'    <title>{clean_text(p["t"])}</title>')
+        lines.append(f'    <desc>{clean_text(p["d"])}</desc>')
+        lines.append(f'    <icon src="{p["i"]}"/>')
+        lines.append(f'    <category>{clean_text(p["g"])}</category>')
+        lines.append(f'  </programme>')
 
     for c in canales:
         if "rafaela" in c["id"].lower():
