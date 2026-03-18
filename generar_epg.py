@@ -259,7 +259,7 @@ def generar_xml():
     ahora = datetime.datetime.now()
     inicio_dinamico = datetime.datetime(ahora.year, ahora.month, ahora.day, 0, 0, 0)
     
-lines = []
+    lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPG Generator">')
 
