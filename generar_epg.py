@@ -258,8 +258,12 @@ def clean_text(text):
 def generar_xml():
     ahora = datetime.datetime.now()
     inicio_dinamico = datetime.datetime(ahora.year, ahora.month, ahora.day, 0, 0, 0)
-    
- for c in canales:
+
+    lines = []
+    lines.append('<?xml version="1.0" encoding="utf-8"?>')
+    lines.append('<tv generator-info="EPG Generator">')
+
+for c in canales:
         nombre = clean_text(c["n"])
         lines.append(f'  <channel id="{c["id"]}">')
         lines.append(f'    <display-name>{nombre}</display-name>')
