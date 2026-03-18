@@ -253,43 +253,44 @@ canales = [
 ]
 
 def clean_text(text):
-    return text.replace("&", "&amp;")
+    if not text: return ""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;").replace("'", "&apos;")
 
-def generar_xml():
-    ahora = datetime.datetime.now()
-    inicio_dinamico = datetime.datetime(ahora.year, ahora.month, ahora.day, 0, 0, 0)
-
+def generar_epg():
+    inicio_dinamico = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPG Generator">')
 
+    # 1. Definición de canales
     for c in canales:
         nombre = clean_text(c["n"])
         lines.append(f'  <channel id="{c["id"]}">')
         lines.append(f'    <display-name>{nombre}</display-name>')
         lines.append('  </channel>')
 
+    # 2. Programación específica de Rafaela (Horarios Reales)
     prog_rafaela = [
         {"s": "000000", "e": "000300", "t": "Himno nacional", "g": "Interés general", "d": "Himno nacional argentino", "i": "https://i.postimg.cc/m2nZCvHm/Himno.jpg"},
-        {"s": "000300", "e": "003000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "Resúmenes de noticias nacionales e internacionales.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
-        {"s": "003000", "e": "010000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias que reúne historias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
-        {"s": "010000", "e": "020000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Actualidad deportiva de Rafaela.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
-        {"s": "020000", "e": "043000", "t": "Bien despiertos", "g": "Magazine", "d": "Temáticas de relevancia regional y nacional.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
-        {"s": "043000", "e": "053000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Actualidad deportiva de Rafaela.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
-        {"s": "053000", "e": "060000", "t": "Planeta vinos", "g": "Cocina", "d": "Vero Martino y Diego Hernández recorren bodegas.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"},
-        {"s": "060000", "e": "063000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "Resumen de noticias.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
-        {"s": "063000", "e": "070000", "t": "Somos país", "g": "Interés general", "d": "Historias de cada localidad.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
-        {"s": "070000", "e": "093000", "t": "Bien despiertos", "g": "Magazine", "d": "Análisis sobre política, economía y seguridad.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
-        {"s": "093000", "e": "120000", "t": "Arriba la mañana", "g": "Periodístico, Magazine", "d": "Actualidad y noticias con móviles en vivo.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
-        {"s": "120000", "e": "131500", "t": "Rafaela Noticias - Primera edición", "g": "Noticias, Interés general", "d": "Hechos destacados de la agenda nacional.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-        {"s": "131500", "e": "140000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "Resumen del deporte motor.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
-        {"s": "140000", "e": "163000", "t": "Arriba la mañana", "g": "Periodístico, Magazine", "d": "Noticias más relevantes con móviles.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
-        {"s": "163000", "e": "180000", "t": "Rafaela Noticias - Primera edición", "g": "Noticias, Interés general", "d": "Información completa sobre la realidad.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-        {"s": "180000", "e": "194500", "t": "Nunca es tarde", "g": "Magazine", "d": "Programa local con actualidad y música.", "i": "https://i.postimg.cc/HsNWXqMG/Nunca-es-tarde.jpg"},
-        {"s": "194500", "e": "210000", "t": "Rafaela Noticias - Segunda edición", "g": "Noticias, Interés general", "d": "Resumen informativo de la jornada.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-        {"s": "210000", "e": "220000", "t": "Vida y milagro", "g": "Interés general", "d": "Actualidad social e institucional de Rafaela.", "i": "https://i.postimg.cc/9FkXZ69H/Vida-y-milagro.png"},
-        {"s": "220000", "e": "223000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "Resumen del deporte motor del fin de semana.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
-        {"s": "223000", "e": "235959", "t": "Agregándole valor a la vida", "g": "Magazine", "d": "Historias inspiradoras de emprendedores.", "i": "https://i.postimg.cc/NfGv6mQZ/Valor-Vida.jpg"}
+        {"s": "000300", "e": "003000", "t": "En síntesis", "g": "Noticias", "d": "Resumen de noticias.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
+        {"s": "003000", "e": "010000", "t": "Somos país", "g": "Interés general", "d": "Historias del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
+        {"s": "010000", "e": "020000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Actualidad deportiva.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
+        {"s": "020000", "e": "043000", "t": "Bien despiertos", "g": "Magazine", "d": "Análisis de actualidad.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
+        {"s": "043000", "e": "053000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Goles y polémicas.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
+        {"s": "053000", "e": "060000", "t": "Planeta vinos", "g": "Cocina", "d": "Bodegas y eventos.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"},
+        {"s": "060000", "e": "063000", "t": "En síntesis", "g": "Noticias", "d": "Resumen matutino.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
+        {"s": "063000", "e": "070000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
+        {"s": "070000", "e": "093000", "t": "Bien despiertos", "g": "Magazine", "d": "Política y economía.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
+        {"s": "093000", "e": "120000", "t": "Arriba la mañana", "g": "Magazine", "d": "Actualidad rafaelina.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
+        {"s": "120000", "e": "131500", "t": "Rafaela Noticias - 1ra Edición", "g": "Noticias", "d": "Agenda nacional e internacional.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
+        {"s": "131500", "e": "140000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "Deporte motor.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
+        {"s": "140000", "e": "163000", "t": "Arriba la mañana", "g": "Magazine", "d": "Móviles en vivo.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
+        {"s": "163000", "e": "180000", "t": "Rafaela Noticias - 1ra Edición", "g": "Noticias", "d": "Repetición informativa.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
+        {"s": "180000", "e": "194500", "t": "Nunca es tarde", "g": "Magazine", "d": "Actualidad y música.", "i": "https://i.postimg.cc/HsNWXqMG/Nunca-es-tarde.jpg"},
+        {"s": "194500", "e": "210000", "t": "Rafaela Noticias - 2da Edición", "g": "Noticias", "d": "Resumen del día.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
+        {"s": "210000", "e": "220000", "t": "Vida y milagro", "g": "Interés general", "d": "Cultura y sociedad.", "i": "https://i.postimg.cc/9FkXZ69H/Vida-y-milagro.png"},
+        {"s": "220000", "e": "223000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "Resumen motor.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
+        {"s": "223000", "e": "235959", "t": "Agregándole valor a la vida", "g": "Magazine", "d": "Historias inspiradoras.", "i": "https://i.postimg.cc/NfGv6mQZ/Valor-Vida.jpg"}
     ]
 
     for d in range(7):
@@ -306,49 +307,7 @@ def generar_xml():
             lines.append(f'    <category>{clean_text(p["g"])}</category>')
             lines.append(f'  </programme>')
 
-    for c in canales:
-        nombre = clean_text(c["n"])
-        lines.append(f'  <channel id="{c["id"]}">')
-        lines.append(f'    <display-name>{nombre}</display-name>')
-        lines.append('  </channel>')
-
-    prog_rafaela = [
-        {"s": "000000", "e": "000300", "t": "Himno nacional", "g": "Interés general", "d": "Himno nacional argentino", "i": "https://i.postimg.cc/m2nZCvHm/Himno.jpg"},
-        {"s": "000300", "e": "003000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "Resúmenes de noticias nacionales e internacionales.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
-        {"s": "003000", "e": "010000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias que reúne historias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
-        {"s": "010000", "e": "020000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Actualidad deportiva de Rafaela.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
-        {"s": "020000", "e": "043000", "t": "Bien despiertos", "g": "Magazine", "d": "Temáticas de relevancia regional y nacional.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
-        {"s": "043000", "e": "053000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Actualidad deportiva de Rafaela.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
-        {"s": "053000", "e": "060000", "t": "Planeta vinos", "g": "Cocina", "d": "Vero Martino y Diego Hernández recorren bodegas.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"},
-        {"s": "060000", "e": "063000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "Resumen de noticias.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
-        {"s": "063000", "e": "070000", "t": "Somos país", "g": "Interés general", "d": "Historias de cada localidad.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
-        {"s": "070000", "e": "093000", "t": "Bien despiertos", "g": "Magazine", "d": "Análisis sobre política, economía y seguridad.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
-        {"s": "093000", "e": "120000", "t": "Arriba la mañana", "g": "Periodístico, Magazine", "d": "Actualidad y noticias con móviles en vivo.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
-        {"s": "120000", "e": "131500", "t": "Rafaela Noticias - Primera edición", "g": "Noticias, Interés general", "d": "Hechos destacados de la agenda nacional.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-        {"s": "131500", "e": "140000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "Resumen del deporte motor.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
-        {"s": "140000", "e": "163000", "t": "Arriba la mañana", "g": "Periodístico, Magazine", "d": "Noticias más relevantes con móviles.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
-        {"s": "163000", "e": "180000", "t": "Rafaela Noticias - Primera edición", "g": "Noticias, Interés general", "d": "Información completa sobre la realidad.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-        {"s": "180000", "e": "194500", "t": "Nunca es tarde", "g": "Magazine", "d": "Programa local con actualidad y música.", "i": "https://i.postimg.cc/HsNWXqMG/Nunca-es-tarde.jpg"},
-        {"s": "194500", "e": "210000", "t": "Rafaela Noticias - Segunda edición", "g": "Noticias, Interés general", "d": "Resumen informativo de la jornada.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-        {"s": "210000", "e": "220000", "t": "Vida y milagro", "g": "Interés general", "d": "Actualidad social e institucional de Rafaela.", "i": "https://i.postimg.cc/9FkXZ69H/Vida-y-milagro.png"},
-        {"s": "220000", "e": "223000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "Resumen del deporte motor del fin de semana.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
-        {"s": "223000", "e": "235959", "t": "Agregándole valor a la vida", "g": "Magazine", "d": "Historias inspiradoras de emprendedores.", "i": "https://i.postimg.cc/NfGv6mQZ/Valor-Vida.jpg"}
-    ]
-
-    for d in range(7):
-        for p in prog_rafaela:
-            inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
-            st = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
-            et = inicio_dia.replace(hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:]))
-            s_str = st.strftime("%Y%m%d%H%M%S -0300")
-            e_str = et.strftime("%Y%m%d%H%M%S -0300")
-            lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="Rafaela.Noticias">')
-            lines.append(f'    <title>{clean_text(p["t"])}</title>')
-            lines.append(f'    <desc>{clean_text(p["d"])}</desc>')
-            lines.append(f'    <icon src="{p["i"]}"/>')
-            lines.append(f'    <category>{clean_text(p["g"])}</category>')
-            lines.append(f'  </programme>')
-
+    # 3. Programación genérica (Excluyendo Rafaela)
     for c in canales:
         if c["id"] == "Rafaela.Noticias":
             continue
@@ -366,3 +325,10 @@ def generar_xml():
                 lines.append(f'  </programme>')
 
     lines.append('</tv>')
+    
+    with open("data_v9.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print("EPG generado: data_v9.xml")
+
+if __name__ == "__main__":
+    generar_epg()
