@@ -272,7 +272,7 @@ def generar_epg():
         lines.append('  </channel>')
 
     prog_rafaela = [
-	{"s": "000000", "e": "000300", "t": "Himno nacional", "g": "Interés general", "d": "Himno nacional argentino", "i": "https://i.postimg.cc/m2nZCvHm/Himno.jpg"},
+		{"s": "000000", "e": "000300", "t": "Himno nacional", "g": "Interés general", "d": "Himno nacional argentino", "i": "https://i.postimg.cc/m2nZCvHm/Himno.jpg"},
         {"s": "000300", "e": "003000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
         {"s": "003000", "e": "010000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias que reúne historias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
         {"s": "010000", "e": "020000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Un espacio que aborda toda la actualidad deportiva de Rafaela a través de los goles y las polémicas. Informamos sobre los equipos rafaelinos a nivel nacional y te traemos lo mejor del deporte, es pasión que una a las multitudes.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
