@@ -259,11 +259,7 @@ def generar_xml():
     ahora = datetime.datetime.now()
     inicio_dinamico = datetime.datetime(ahora.year, ahora.month, ahora.day, 0, 0, 0)
     
-    lines = []
-    lines.append('<?xml version="1.0" encoding="utf-8"?>')
-    lines.append('<tv generator-info="EPG Generator">')
-
-    for c in canales:
+ for c in canales:
         nombre = clean_text(c["n"])
         lines.append(f'  <channel id="{c["id"]}">')
         lines.append(f'    <display-name>{nombre}</display-name>')
@@ -272,7 +268,7 @@ def generar_xml():
     prog_rafaela = [
         {"s": "000000", "e": "000300", "t": "Himno nacional", "g": "Interés general", "d": "Himno nacional argentino", "i": "https://i.postimg.cc/m2nZCvHm/Himno.jpg"},
         {"s": "000300", "e": "003000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "Resúmenes de noticias nacionales e internacionales.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
-        {"s": "003000", "e": "010000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
+        {"s": "003000", "e": "010000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias que reúne historias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
         {"s": "010000", "e": "020000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Actualidad deportiva de Rafaela.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
         {"s": "020000", "e": "043000", "t": "Bien despiertos", "g": "Magazine", "d": "Temáticas de relevancia regional y nacional.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
         {"s": "043000", "e": "053000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Actualidad deportiva de Rafaela.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
@@ -295,13 +291,11 @@ def generar_xml():
     for d in range(7):
         for p in prog_rafaela:
             inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
-            start_dt = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
-            stop_dt = inicio_dia.replace(hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:]))
-            
-            s = start_dt.strftime("%Y%m%d%H%M%S -0300")
-            e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
-            
-            lines.append(f'  <programme start="{s}" stop="{e}" channel="Rafaela.Noticias">')
+            st = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
+            et = inicio_dia.replace(hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:]))
+            s_str = st.strftime("%Y%m%d%H%M%S -0300")
+            e_str = et.strftime("%Y%m%d%H%M%S -0300")
+            lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="Rafaela.Noticias">')
             lines.append(f'    <title>{clean_text(p["t"])}</title>')
             lines.append(f'    <desc>{clean_text(p["d"])}</desc>')
             lines.append(f'    <icon src="{p["i"]}"/>')
@@ -311,15 +305,12 @@ def generar_xml():
     for c in canales:
         if c["id"] == "Rafaela.Noticias":
             continue
-            
         for d in range(7):
             for h in range(0, 24, 4):
                 start_dt = inicio_dinamico + datetime.timedelta(days=d, hours=h)
                 stop_dt = start_dt + datetime.timedelta(hours=4)
-                
                 s = start_dt.strftime("%Y%m%d%H%M%S -0300")
                 e = stop_dt.strftime("%Y%m%d%H%M%S -0300")
-                
                 lines.append(f'  <programme start="{s}" stop="{e}" channel="{c["id"]}">')
                 lines.append(f'    <title>{clean_text(c["t"])}</title>')
                 lines.append(f'    <desc>{clean_text(c["d"])}</desc>')
@@ -328,4 +319,3 @@ def generar_xml():
                 lines.append(f'  </programme>')
 
     lines.append('</tv>')
-    
