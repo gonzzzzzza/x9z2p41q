@@ -306,8 +306,9 @@ def generar_epg():
             lines.append(f'  </programme>')
 
     for c in canales:
-        if c["id"] == "Rafaela.Noticias":
+        if "rafaela" in c["id"].lower():
             continue
+            
         for d in range(7):
             for h in range(0, 24, 4):
                 start_dt = inicio_dinamico + datetime.timedelta(days=d, hours=h)
