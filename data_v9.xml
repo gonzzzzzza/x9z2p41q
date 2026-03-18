@@ -807,23 +807,23 @@
     <icon src="https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"/>
     <category>Noticias, Interés general</category>
   </programme>
-  <programme start="20260317131500 -0300" stop="20260317140000 -0300" channel="Rafaela.Noticias">
-    <title>Agenda Carburando</title>
-    <desc>El resumen de lo más importante del deporte motor del fin de semana.</desc>
-    <icon src="https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"/>
-    <category>Automovilismo</category>
+  <programme start="20260317131500 -0300" stop="20260317143000 -0300" channel="Rafaela.Noticias">
+    <title>Deporte y pasión</title>
+    <desc>Un espacio que aborda toda la actualidad deportiva de Rafaela a través de los goles y las polémicas. Informamos sobre los equipos rafaelinos a nivel nacional y te traemos lo mejor del deporte, es pasión que una a las multitudes.</desc>
+    <icon src="https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"/>
+    <category>Deportivo</category>
   </programme>
-  <programme start="20260317140000 -0300" stop="20260317163000 -0300" channel="Rafaela.Noticias">
-    <title>Arriba la mañana</title>
-    <desc>Un espacio matutino y entretenido donde abordamos toda la actualidad y las noticias más relevantes. Un gran equipo nos informa a través de móviles en la ciudad, con responsables en las principales ciudades de la provincia.</desc>
-    <icon src="https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"/>
-    <category>Periodístico, Magazine</category>
+  <programme start="20260317143000 -0300" stop="20260317153000 -0300" channel="Rafaela.Noticias">
+    <title>Vida y milagro</title>
+    <desc>Toda la actualidad social, cultural e institucional es reseñada en este espacio que transmite el acontecer de los habitantes de la ciudad de Rafaela, desde una perspectiva amena, diferente e innovadora.</desc>
+    <icon src="https://i.postimg.cc/9FkXZ69H/Vida-y-milagro.png"/>
+    <category>Interés general</category>
   </programme>
-  <programme start="20260317163000 -0300" stop="20260317180000 -0300" channel="Rafaela.Noticias">
-    <title>Rafaela Noticias - Primera edición</title>
-    <desc>Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.</desc>
-    <icon src="https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"/>
-    <category>Noticias, Interés general</category>
+  <programme start="20260317153000 -0300" stop="20260317180000 -0300" channel="Rafaela.Noticias">
+    <title>Bien despiertos</title>
+    <desc>Un espacio que aborda diversas temáticas de relevancia en la actualidad a nivel regional y nacional. Compartimos análisis sobre política, economía, seguridad, deportes, cultura y negocios, además de debates en torno a problemas cotidianos.</desc>
+    <icon src="https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"/>
+    <category>Magazine</category>
   </programme>
   <programme start="20260317180000 -0300" stop="20260317194500 -0300" channel="Rafaela.Noticias">
     <title>Nunca es tarde</title>
@@ -933,23 +933,23 @@
     <icon src="https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"/>
     <category>Noticias, Interés general</category>
   </programme>
-  <programme start="20260318131500 -0300" stop="20260318140000 -0300" channel="Rafaela.Noticias">
-    <title>Agenda Carburando</title>
-    <desc>El resumen de lo más importante del deporte motor del fin de semana.</desc>
-    <icon src="https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"/>
-    <category>Automovilismo</category>
+  <programme start="20260318131500 -0300" stop="20260318143000 -0300" channel="Rafaela.Noticias">
+    <title>Deporte y pasión</title>
+    <desc>Un espacio que aborda toda la actualidad deportiva de Rafaela a través de los goles y las polémicas. Informamos sobre los equipos rafaelinos a nivel nacional y te traemos lo mejor del deporte, es pasión que una a las multitudes.</desc>
+    <icon src="https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"/>
+    <category>Deportivo</category>
   </programme>
-  <programme start="20260318140000 -0300" stop="20260318163000 -0300" channel="Rafaela.Noticias">
-    <title>Arriba la mañana</title>
-    <desc>Un espacio matutino y entretenido donde abordamos toda la actualidad y las noticias más relevantes. Un gran equipo nos informa a través de móviles en la ciudad, con responsables en las principales ciudades de la provincia.</desc>
-    <icon src="https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"/>
-    <category>Periodístico, Magazine</category>
+  <programme start="20260318143000 -0300" stop="20260318153000 -0300" channel="Rafaela.Noticias">
+    <title>Vida y milagro</title>
+    <desc>Toda la actualidad social, cultural e institucional es reseñada en este espacio que transmite el acontecer de los habitantes de la ciudad de Rafaela, desde una perspectiva amena, diferente e innovadora.</desc>
+    <icon src="https://i.postimg.cc/9FkXZ69H/Vida-y-milagro.png"/>
+    <category>Interés general</category>
   </programme>
-  <programme start="20260318163000 -0300" stop="20260318180000 -0300" channel="Rafaela.Noticias">
-    <title>Rafaela Noticias - Primera edición</title>
-    <desc>Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.</desc>
-    <icon src="https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"/>
-    <category>Noticias, Interés general</category>
+  <programme start="20260318153000 -0300" stop="20260318180000 -0300" channel="Rafaela.Noticias">
+    <title>Bien despiertos</title>
+    <desc>Un espacio que aborda diversas temáticas de relevancia en la actualidad a nivel regional y nacional. Compartimos análisis sobre política, economía, seguridad, deportes, cultura y negocios, además de debates en torno a problemas cotidianos.</desc>
+    <icon src="https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"/>
+    <category>Magazine</category>
   </programme>
   <programme start="20260318180000 -0300" stop="20260318194500 -0300" channel="Rafaela.Noticias">
     <title>Nunca es tarde</title>
@@ -1059,23 +1059,23 @@
     <icon src="https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"/>
     <category>Noticias, Interés general</category>
   </programme>
-  <programme start="20260319131500 -0300" stop="20260319140000 -0300" channel="Rafaela.Noticias">
-    <title>Agenda Carburando</title>
-    <desc>El resumen de lo más importante del deporte motor del fin de semana.</desc>
-    <icon src="https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"/>
-    <category>Automovilismo</category>
+  <programme start="20260319131500 -0300" stop="20260319143000 -0300" channel="Rafaela.Noticias">
+    <title>Deporte y pasión</title>
+    <desc>Un espacio que aborda toda la actualidad deportiva de Rafaela a través de los goles y las polémicas. Informamos sobre los equipos rafaelinos a nivel nacional y te traemos lo mejor del deporte, es pasión que una a las multitudes.</desc>
+    <icon src="https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"/>
+    <category>Deportivo</category>
   </programme>
-  <programme start="20260319140000 -0300" stop="20260319163000 -0300" channel="Rafaela.Noticias">
-    <title>Arriba la mañana</title>
-    <desc>Un espacio matutino y entretenido donde abordamos toda la actualidad y las noticias más relevantes. Un gran equipo nos informa a través de móviles en la ciudad, con responsables en las principales ciudades de la provincia.</desc>
-    <icon src="https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"/>
-    <category>Periodístico, Magazine</category>
+  <programme start="20260319143000 -0300" stop="20260319153000 -0300" channel="Rafaela.Noticias">
+    <title>Vida y milagro</title>
+    <desc>Toda la actualidad social, cultural e institucional es reseñada en este espacio que transmite el acontecer de los habitantes de la ciudad de Rafaela, desde una perspectiva amena, diferente e innovadora.</desc>
+    <icon src="https://i.postimg.cc/9FkXZ69H/Vida-y-milagro.png"/>
+    <category>Interés general</category>
   </programme>
-  <programme start="20260319163000 -0300" stop="20260319180000 -0300" channel="Rafaela.Noticias">
-    <title>Rafaela Noticias - Primera edición</title>
-    <desc>Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.</desc>
-    <icon src="https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"/>
-    <category>Noticias, Interés general</category>
+  <programme start="20260319153000 -0300" stop="20260319180000 -0300" channel="Rafaela.Noticias">
+    <title>Bien despiertos</title>
+    <desc>Un espacio que aborda diversas temáticas de relevancia en la actualidad a nivel regional y nacional. Compartimos análisis sobre política, economía, seguridad, deportes, cultura y negocios, además de debates en torno a problemas cotidianos.</desc>
+    <icon src="https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"/>
+    <category>Magazine</category>
   </programme>
   <programme start="20260319180000 -0300" stop="20260319194500 -0300" channel="Rafaela.Noticias">
     <title>Nunca es tarde</title>
