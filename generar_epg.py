@@ -258,7 +258,9 @@ def clean_text(text):
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;").replace("'", "&apos;")
 
 def generar_epg():
-    inicio_dinamico = (datetime.datetime.now() - datetime.timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
+    inicio_dinamico = (datetime.datetime.now() - datetime.timedelta(days=1)).replace(
+        hour=0, minute=0, second=0, microsecond=0
+    )
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPG Generator">')
@@ -269,49 +271,53 @@ def generar_epg():
         lines.append(f'    <display-name>{nombre}</display-name>')
         lines.append('  </channel>')
 
-prog_rafaela = [
-    {"s": "000000", "e": "000300", "t": "Himno nacional", "g": "Interés general", "d": "Himno nacional argentino", "i": "https://i.postimg.cc/m2nZCvHm/Himno.jpg"},
-    {"s": "000300", "e": "003000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
-    {"s": "003000", "e": "010000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias que reúne historias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
-    {"s": "010000", "e": "020000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Un espacio que aborda toda la actualidad deportiva de Rafaela a través de los goles y las polémicas. Informamos sobre los equipos rafaelinos a nivel nacional y te traemos lo mejor del deporte, es pasión que una a las multitudes.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
-    {"s": "020000", "e": "043000", "t": "Bien despiertos", "g": "Magazine", "d": "Un espacio que aborda diversas temáticas de relevancia en la actualidad a nivel regional y nacional. Compartimos análisis sobre política, economía, seguridad, deportes, cultura y negocios, además de debates en torno a problemas cotidianos.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
-    {"s": "043000", "e": "053000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Un espacio que aborda toda la actualidad deportiva de Rafaela a través de los goles y las polémicas. Informamos sobre los equipos rafaelinos a nivel nacional y te traemos lo mejor del deporte, es pasión que una a las multitudes.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
-    {"s": "053000", "e": "060000", "t": "Planeta vinos", "g": "Cocina", "d": "Vero Martino y Diego Hernández te invitan a recorrer bodegas, ferias y eventos exclusivos de la vitivinicultura junto sus principales protagonistas.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"},
-    {"s": "060000", "e": "063000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
-    {"s": "063000", "e": "070000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias que reúne historias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
-    {"s": "070000", "e": "093000", "t": "Bien despiertos", "g": "Magazine", "d": "Un espacio que aborda diversas temáticas de relevancia en la actualidad a nivel regional y nacional. Compartimos análisis sobre política, economía, seguridad, deportes, cultura y negocios, además de debates en torno a problemas cotidianos.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
-    {"s": "093000", "e": "120000", "t": "Arriba la mañana", "g": "Periodístico, Magazine", "d": "Un espacio matutino y entretenido donde abordamos toda la actualidad y las noticias más relevantes. Un gran equipo nos informa a través de móviles en la ciudad, con responsables en las principales ciudades de la provincia.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
-    {"s": "120000", "e": "131500", "t": "Rafaela Noticias - Primera edición", "g": "Noticias, Interés general", "d": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-    {"s": "131500", "e": "140000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "El resumen de lo más importante del deporte motor del fin de semana.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
-    {"s": "140000", "e": "163000", "t": "Arriba la mañana", "g": "Periodístico, Magazine", "d": "Un espacio matutino y entretenido donde abordamos toda la actualidad y las noticias más relevantes. Un gran equipo nos informa a través de móviles en la ciudad, con responsables en las principales ciudades de la provincia.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
-    {"s": "163000", "e": "180000", "t": "Rafaela Noticias - Primera edición", "g": "Noticias, Interés general", "d": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-    {"s": "180000", "e": "194500", "t": "Nunca es tarde", "g": "Magazine", "d": "Programa local con temas de actualidad, entretenimientos y música.", "i": "https://i.postimg.cc/HsNWXqMG/Nunca-es-tarde.jpg"},
-    {"s": "194500", "e": "210000", "t": "Rafaela Noticias - Segunda edición", "g": "Noticias, Interés general", "d": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
-    {"s": "210000", "e": "220000", "t": "Vida y milagro", "g": "Interés general", "d": "Toda la actualidad social, cultural e institucional es reseñada en este espacio que transmite el acontecer de los habitantes de la ciudad de Rafaela, desde una perspectiva amena, diferente e innovadora.", "i": "https://i.postimg.cc/9FkXZ69H/Vida-y-milagro.png"},
-    {"s": "220000", "e": "223000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "El resumen de lo más importante del deporte motor del fin de semana.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
-    {"s": "223000", "e": "233000", "t": "Agregándole valor a la vida", "g": "Magazine", "d": "Un ciclo que presenta historias interesantes e inspiradoras de las cuales podemos aprender. Diversos emprendedores cuentan sus experiencias, éxitos y fracasos y nos contagian de ilusión.", "i": "https://i.postimg.cc/NfGv6mQZ/Valor-Vida.jpg"},
-    {"s": "233000", "e": "000000", "t": "Planeta vinos", "g": "Cocina", "d": "Vero Martino y Diego Hernández te invitan a recorrer bodegas, ferias y eventos exclusivos de la vitivinicultura junto sus principales protagonistas.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"}
-]
+    prog_rafaela = [
+	{"s": "000000", "e": "000300", "t": "Himno nacional", "g": "Interés general", "d": "Himno nacional argentino", "i": "https://i.postimg.cc/m2nZCvHm/Himno.jpg"},
+        {"s": "000300", "e": "003000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
+        {"s": "003000", "e": "010000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias que reúne historias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
+        {"s": "010000", "e": "020000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Un espacio que aborda toda la actualidad deportiva de Rafaela a través de los goles y las polémicas. Informamos sobre los equipos rafaelinos a nivel nacional y te traemos lo mejor del deporte, es pasión que una a las multitudes.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
+        {"s": "020000", "e": "043000", "t": "Bien despiertos", "g": "Magazine", "d": "Un espacio que aborda diversas temáticas de relevancia en la actualidad a nivel regional y nacional. Compartimos análisis sobre política, economía, seguridad, deportes, cultura y negocios, además de debates en torno a problemas cotidianos.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
+        {"s": "043000", "e": "053000", "t": "Deporte y pasión", "g": "Deportivo", "d": "Un espacio que aborda toda la actualidad deportiva de Rafaela a través de los goles y las polémicas. Informamos sobre los equipos rafaelinos a nivel nacional y te traemos lo mejor del deporte, es pasión que una a las multitudes.", "i": "https://i.postimg.cc/NfnGm3HZ/Deporte-y-Pasion.jpg"},
+        {"s": "053000", "e": "060000", "t": "Planeta vinos", "g": "Cocina", "d": "Vero Martino y Diego Hernández te invitan a recorrer bodegas, ferias y eventos exclusivos de la vitivinicultura junto sus principales protagonistas.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"},
+        {"s": "060000", "e": "063000", "t": "En síntesis", "g": "Noticias, Interés General", "d": "La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
+        {"s": "063000", "e": "070000", "t": "Somos país", "g": "Interés general", "d": "Resumen diario de noticias que reúne historias de cada localidad del país.", "i": "https://i.postimg.cc/qMFByP3m/Somos-Pais.jpg"},
+        {"s": "070000", "e": "093000", "t": "Bien despiertos", "g": "Magazine", "d": "Un espacio que aborda diversas temáticas de relevancia en la actualidad a nivel regional y nacional. Compartimos análisis sobre política, economía, seguridad, deportes, cultura y negocios, además de debates en torno a problemas cotidianos.", "i": "https://i.postimg.cc/pTScqJJR/Bien-Despiertos.png"},
+        {"s": "093000", "e": "120000", "t": "Arriba la mañana", "g": "Periodístico, Magazine", "d": "Un espacio matutino y entretenido donde abordamos toda la actualidad y las noticias más relevantes. Un gran equipo nos informa a través de móviles en la ciudad, con responsables en las principales ciudades de la provincia.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
+        {"s": "120000", "e": "131500", "t": "Rafaela Noticias - Primera edición", "g": "Noticias, Interés general", "d": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
+        {"s": "131500", "e": "140000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "El resumen de lo más importante del deporte motor del fin de semana.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
+        {"s": "140000", "e": "163000", "t": "Arriba la mañana", "g": "Periodístico, Magazine", "d": "Un espacio matutino y entretenido donde abordamos toda la actualidad y las noticias más relevantes. Un gran equipo nos informa a través de móviles en la ciudad, con responsables en las principales ciudades de la provincia.", "i": "https://i.postimg.cc/hPY4TkdZ/Arriba-la-manana.jpg"},
+        {"s": "163000", "e": "180000", "t": "Rafaela Noticias - Primera edición", "g": "Noticias, Interés general", "d": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
+        {"s": "180000", "e": "194500", "t": "Nunca es tarde", "g": "Magazine", "d": "Programa local con temas de actualidad, entretenimientos y música.", "i": "https://i.postimg.cc/HsNWXqMG/Nunca-es-tarde.jpg"},
+        {"s": "194500", "e": "210000", "t": "Rafaela Noticias - Segunda edición", "g": "Noticias, Interés general", "d": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.", "i": "https://i.postimg.cc/QxzN127r/Rafaela-Noticias.jpg"},
+        {"s": "210000", "e": "220000", "t": "Vida y milagro", "g": "Interés general", "d": "Toda la actualidad social, cultural e institucional es reseñada en este espacio que transmite el acontecer de los habitantes de la ciudad de Rafaela, desde una perspectiva amena, diferente e innovadora.", "i": "https://i.postimg.cc/9FkXZ69H/Vida-y-milagro.png"},
+        {"s": "220000", "e": "223000", "t": "Agenda Carburando", "g": "Automovilismo", "d": "El resumen de lo más importante del deporte motor del fin de semana.", "i": "https://i.postimg.cc/YqP2Y5WZ/Carburando.jpg"},
+        {"s": "223000", "e": "233000", "t": "Agregándole valor a la vida", "g": "Magazine", "d": "Un ciclo que presenta historias interesantes e inspiradoras de las cuales podemos aprender. Diversos emprendedores cuentan sus experiencias, éxitos y fracasos y nos contagian de ilusión.", "i": "https://i.postimg.cc/NfGv6mQZ/Valor-Vida.jpg"},
+        {"s": "233000", "e": "000000", "t": "Planeta vinos", "g": "Cocina", "d": "Vero Martino y Diego Hernández te invitan a recorrer bodegas, ferias y eventos exclusivos de la vitivinicultura junto sus principales protagonistas.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"}
+    ]
 
-for d in range(3):
-    for p in prog_rafaela:
-        inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
+    for d in range(3):
+        for p in prog_rafaela:
+            inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
 
-        st = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
-        et = inicio_dia.replace(hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:]))
+            st = inicio_dia.replace(
+                hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:])
+            )
+            et = inicio_dia.replace(
+                hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:])
+            )
 
-        if et <= st:
-            et += datetime.timedelta(days=1)
+            if et <= st:
+                et += datetime.timedelta(days=1)
 
-        s_str = st.strftime("%Y%m%d%H%M%S -0300")
-        e_str = et.strftime("%Y%m%d%H%M%S -0300")
-
-        lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="Rafaela.Noticias">')
-        lines.append(f'    <title>{clean_text(p["t"])}</title>')
-        lines.append(f'    <desc>{clean_text(p["d"])}</desc>')
-        lines.append(f'    <icon src="{p["i"]}"/>')
-        lines.append(f'    <category>{clean_text(p["g"])}</category>')
-        lines.append(f'  </programme>')
+            s_str = st.strftime("%Y%m%d%H%M%S -0300")
+            e_str = et.strftime("%Y%m%d%H%M%S -0300")
+    
+            lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="Rafaela.Noticias">')
+            lines.append(f'    <title>{clean_text(p["t"])}</title>')
+            lines.append(f'    <desc>{clean_text(p["d"])}</desc>')
+            lines.append(f'    <icon src="{p["i"]}"/>')
+            lines.append(f'    <category>{clean_text(p["g"])}</category>')
+            lines.append(f'  </programme>')
 
     for c in canales:
         if "rafaela" in c["id"].lower():
