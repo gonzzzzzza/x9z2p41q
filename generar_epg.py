@@ -257,19 +257,16 @@ def clean_text(text):
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;").replace("'", "&apos;")
 
 def generar_epg():
-    inicio_dinamico = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
-    lines = []
+    inicio_dinamico = (datetime.datetime.now() - datetime.timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)    lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
     lines.append('<tv generator-info="EPG Generator">')
 
-    # 1. Definición de canales
     for c in canales:
         nombre = clean_text(c["n"])
         lines.append(f'  <channel id="{c["id"]}">')
         lines.append(f'    <display-name>{nombre}</display-name>')
         lines.append('  </channel>')
 
-    # 2. Programación específica de Rafaela (Horarios Reales)
     prog_rafaela = [
         {"s": "000000", "e": "000300", "t": "Himno nacional", "g": "Interés general", "d": "Himno nacional argentino", "i": "https://i.postimg.cc/m2nZCvHm/Himno.jpg"},
         {"s": "000300", "e": "003000", "t": "En síntesis", "g": "Noticias", "d": "Resumen de noticias.", "i": "https://i.postimg.cc/W4B72y2C/Rafaela-Noticias.png"},
@@ -307,7 +304,6 @@ def generar_epg():
             lines.append(f'    <category>{clean_text(p["g"])}</category>')
             lines.append(f'  </programme>')
 
-    # 3. Programación genérica (Excluyendo Rafaela)
     for c in canales:
         if c["id"] == "Rafaela.Noticias":
             continue
