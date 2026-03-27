@@ -269,7 +269,7 @@ canales = [
     {"id": "Pop.Radio", "n": "Pop Radio FM 101.5", "t": "Pop Radio FM 101.5", "g": "Radios", "i": "https://i.postimg.cc/s2HxhTTF/POP-mini.png", "d": "La radio del entretenimiento y los grandes éxitos. Humor, música y la compañía de las mejores voces de Buenos Aires."},
     {"id": "Radio.Con.Vos", "n": "Radio Con Vos FM 89.9", "t": "Radio Con Vos FM 89.9", "g": "Radios", "i": "https://i.postimg.cc/bvVrtmmh/Radio-Con-Vos-mini.png", "d": "Periodismo puro y análisis de la realidad. Información, opinión y actualidad con una mirada profunda durante todo el día."},
     {"id": "Radio.ADN.RAF", "n": "Radio ADN FM 97.9", "t": "Radio ADN FM 97.9", "g": "Radios", "i": "https://i.postimg.cc/Bv7bKmMr/ADN-mini.png", "d": "La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9."},
-    {"id": "Radio.LT28", "n": "Radio Rafaela LT28", "t": "Radio Rafaela LT28 FM 96.5", "g": "Radios", "i": "https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png", "d": "Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona."},
+    {"id": "Radio.LT28", "n": "Radio Rafaela LT28", "t": "Radio Rafaela LT28", "g": "Radios", "i": "https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png", "d": "Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona."},
     {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida FM 97.9", "g": "Radios", "i": "https://i.ytimg.com/vi/dGQ25rVfUH4/maxresdefault.jpg", "d": "Compañía musical con los hits que suenan en todo momento."},
 ]
 
