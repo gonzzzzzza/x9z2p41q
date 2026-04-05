@@ -120,6 +120,9 @@
   <channel id="DM.Kids.TV">
     <display-name>DM Kids TV</display-name>
   </channel>
+  <channel id="Cinema.Platino.2">
+    <display-name>Cinema Platino 2</display-name>
+  </channel>
   <channel id="ENTFamily.40mediaGroup">
     <display-name>#ENTFamily</display-name>
   </channel>
@@ -11255,6 +11258,258 @@
     <desc>Diversión, imaginación y aventuras. Series animadas y contenidos para aprender jugando.</desc>
     <icon src="https://i.ytimg.cc/vi/JMbngwxZqZU/maxresdefault.jpg"/>
     <category>Infantil</category>
+  </programme>
+  <programme start="20260404000000 -0300" stop="20260404040000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260404040000 -0300" stop="20260404080000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260404080000 -0300" stop="20260404120000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260404120000 -0300" stop="20260404160000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260404160000 -0300" stop="20260404200000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260404200000 -0300" stop="20260405000000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260405000000 -0300" stop="20260405040000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260405040000 -0300" stop="20260405080000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260405080000 -0300" stop="20260405120000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260405120000 -0300" stop="20260405160000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260405160000 -0300" stop="20260405200000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260405200000 -0300" stop="20260406000000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260406000000 -0300" stop="20260406040000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260406040000 -0300" stop="20260406080000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260406080000 -0300" stop="20260406120000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260406120000 -0300" stop="20260406160000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260406160000 -0300" stop="20260406200000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260406200000 -0300" stop="20260407000000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260407000000 -0300" stop="20260407040000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260407040000 -0300" stop="20260407080000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260407080000 -0300" stop="20260407120000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260407120000 -0300" stop="20260407160000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260407160000 -0300" stop="20260407200000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260407200000 -0300" stop="20260408000000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260408000000 -0300" stop="20260408040000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260408040000 -0300" stop="20260408080000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260408080000 -0300" stop="20260408120000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260408120000 -0300" stop="20260408160000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260408160000 -0300" stop="20260408200000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260408200000 -0300" stop="20260409000000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260409000000 -0300" stop="20260409040000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260409040000 -0300" stop="20260409080000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260409080000 -0300" stop="20260409120000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260409120000 -0300" stop="20260409160000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260409160000 -0300" stop="20260409200000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260409200000 -0300" stop="20260410000000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260410000000 -0300" stop="20260410040000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260410040000 -0300" stop="20260410080000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260410080000 -0300" stop="20260410120000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260410120000 -0300" stop="20260410160000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260410160000 -0300" stop="20260410200000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260410200000 -0300" stop="20260411000000 -0300" channel="Cinema.Platino.2">
+    <title>Cinema Platino 2</title>
+    <desc>Películas en español con estrenos impactantes, clásicos inolvidables y títulos premiados, con ciclos especiales y una selección de historias intensas y memoerables.</desc>
+    <icon src="https://i.postimg.cc/QNyP4yt8/Cinema-Platino-2-mini.png"/>
+    <category>Películas</category>
   </programme>
   <programme start="20260404000000 -0300" stop="20260404040000 -0300" channel="ENTFamily.40mediaGroup">
     <title>#ENTFamily</title>
