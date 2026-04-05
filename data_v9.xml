@@ -66,6 +66,9 @@
   <channel id="DSports.Uruguay">
     <display-name>DSports Uruguay</display-name>
   </channel>
+  <channel id="TVC.Deportes.2">
+    <display-name>TVC Deportes 2</display-name>
+  </channel>
   <channel id="SportMax">
     <display-name>SportMax</display-name>
   </channel>
@@ -6715,6 +6718,258 @@
     <title>DSports Uruguay</title>
     <desc>La señal deportiva con foco en Uruguay. Fútbol local e internacional, competiciones destacadas y cobertura en vivo con análisis y producción especializada.</desc>
     <icon src="https://i.postimg.cc/13StyS19/DSports-Uruguay.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260404000000 -0300" stop="20260404040000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260404040000 -0300" stop="20260404080000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260404080000 -0300" stop="20260404120000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260404120000 -0300" stop="20260404160000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260404160000 -0300" stop="20260404200000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260404200000 -0300" stop="20260405000000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260405000000 -0300" stop="20260405040000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260405040000 -0300" stop="20260405080000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260405080000 -0300" stop="20260405120000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260405120000 -0300" stop="20260405160000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260405160000 -0300" stop="20260405200000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260405200000 -0300" stop="20260406000000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260406000000 -0300" stop="20260406040000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260406040000 -0300" stop="20260406080000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260406080000 -0300" stop="20260406120000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260406120000 -0300" stop="20260406160000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260406160000 -0300" stop="20260406200000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260406200000 -0300" stop="20260407000000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260407000000 -0300" stop="20260407040000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260407040000 -0300" stop="20260407080000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260407080000 -0300" stop="20260407120000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260407120000 -0300" stop="20260407160000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260407160000 -0300" stop="20260407200000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260407200000 -0300" stop="20260408000000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260408000000 -0300" stop="20260408040000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260408040000 -0300" stop="20260408080000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260408080000 -0300" stop="20260408120000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260408120000 -0300" stop="20260408160000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260408160000 -0300" stop="20260408200000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260408200000 -0300" stop="20260409000000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260409000000 -0300" stop="20260409040000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260409040000 -0300" stop="20260409080000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260409080000 -0300" stop="20260409120000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260409120000 -0300" stop="20260409160000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260409160000 -0300" stop="20260409200000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260409200000 -0300" stop="20260410000000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260410000000 -0300" stop="20260410040000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260410040000 -0300" stop="20260410080000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260410080000 -0300" stop="20260410120000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260410120000 -0300" stop="20260410160000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260410160000 -0300" stop="20260410200000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260410200000 -0300" stop="20260411000000 -0300" channel="TVC.Deportes.2">
+    <title>TVC Deportes 2</title>
+    <desc>Vive la intensidad del deporte las 24 horas: partidos vibrantes, análisis sin filtro y cobertura exclusiva que te mete en el juego como nunca antes con pura emoción total.</desc>
+    <icon src="https://i.postimg.cc/kDr3S6SQ/tvc-deportes-2-mini.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260404000000 -0300" stop="20260404040000 -0300" channel="SportMax">
