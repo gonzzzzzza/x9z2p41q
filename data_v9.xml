@@ -51,6 +51,9 @@
   <channel id="EL.SIETE.MZA">
     <display-name>El Siete</display-name>
   </channel>
+  <channel id="LPF.Play">
+    <display-name>La Pasión del Fútbol Play</display-name>
+  </channel>
   <channel id="Claro.Sports.2">
     <display-name>Claro Sports 2</display-name>
   </channel>
@@ -5528,6 +5531,258 @@
     <desc>¡Sentí Mendoza en cada pantalla! Disfrutá la mejor información en vivo, grandes historias y todo el color de nuestra provincia. El líder que elegís cada día para estar conectado.</desc>
     <icon src="https://i.postimg.cc/gjZDk2v3/El-Siete-mini.png"/>
     <category>Interés general</category>
+  </programme>
+  <programme start="20260502000000 -0300" stop="20260502040000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260502040000 -0300" stop="20260502080000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260502080000 -0300" stop="20260502120000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260502120000 -0300" stop="20260502160000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260502160000 -0300" stop="20260502200000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260502200000 -0300" stop="20260503000000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260503000000 -0300" stop="20260503040000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260503040000 -0300" stop="20260503080000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260503080000 -0300" stop="20260503120000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260503120000 -0300" stop="20260503160000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260503160000 -0300" stop="20260503200000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260503200000 -0300" stop="20260504000000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260504000000 -0300" stop="20260504040000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260504040000 -0300" stop="20260504080000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260504080000 -0300" stop="20260504120000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260504120000 -0300" stop="20260504160000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260504160000 -0300" stop="20260504200000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260504200000 -0300" stop="20260505000000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260505000000 -0300" stop="20260505040000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260505040000 -0300" stop="20260505080000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260505080000 -0300" stop="20260505120000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260505120000 -0300" stop="20260505160000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260505160000 -0300" stop="20260505200000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260505200000 -0300" stop="20260506000000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260506000000 -0300" stop="20260506040000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260506040000 -0300" stop="20260506080000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260506080000 -0300" stop="20260506120000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260506120000 -0300" stop="20260506160000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260506160000 -0300" stop="20260506200000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260506200000 -0300" stop="20260507000000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260507000000 -0300" stop="20260507040000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260507040000 -0300" stop="20260507080000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260507080000 -0300" stop="20260507120000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260507120000 -0300" stop="20260507160000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260507160000 -0300" stop="20260507200000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260507200000 -0300" stop="20260508000000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260508000000 -0300" stop="20260508040000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260508040000 -0300" stop="20260508080000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260508080000 -0300" stop="20260508120000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260508120000 -0300" stop="20260508160000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260508160000 -0300" stop="20260508200000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260508200000 -0300" stop="20260509000000 -0300" channel="LPF.Play">
+    <title>La Pasión del Fútbol Play</title>
+    <desc>Viví la pasión del fútbol en LPF Play, la casa del ascenso y las promesas. Disfrutá la Primera Nacional, el Torneo Proyección y todo el aguante del femenino con el sello oficial de AFA.</desc>
+    <icon src="https://i.imgur.com/K2BkZgP.jpeg"/>
+    <category>Deportes</category>
   </programme>
   <programme start="20260502000000 -0300" stop="20260502040000 -0300" channel="Claro.Sports.2">
     <title>Claro Sports 2</title>
