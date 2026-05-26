@@ -30,6 +30,21 @@
   <channel id="KNino.TV">
     <display-name>KNino TV</display-name>
   </channel>
+  <channel id="TRACE.AYITI">
+    <display-name>TRACE AYITI</display-name>
+  </channel>
+  <channel id="TRACE.KITOKO">
+    <display-name>TRACE KITOKO</display-name>
+  </channel>
+  <channel id="TRACE.NAIJA">
+    <display-name>TRACE NAIJA</display-name>
+  </channel>
+  <channel id="TRACE.TERANGA">
+    <display-name>TRACE TERANGA</display-name>
+  </channel>
+  <channel id="TRACE.VANILLA">
+    <display-name>TRACE VANILLA</display-name>
+  </channel>
   <channel id="TRACE.UK">
     <display-name>TRACE UK</display-name>
   </channel>
@@ -56,6 +71,9 @@
   </channel>
   <channel id="Claro.Sports.2">
     <display-name>Claro Sports 2</display-name>
+  </channel>
+  <channel id="ViX.Premium.Mundial">
+    <display-name>ViX Premium Mundial</display-name>
   </channel>
   <channel id="Sky.Sports.Mexico">
     <display-name>Sky Sports</display-name>
@@ -3768,6 +3786,1266 @@
     <icon src="https://i.postimg.cc/T3hTD1B9/KNino-mini.png"/>
     <category>Bienestar animal</category>
   </programme>
+  <programme start="20260525000000 -0300" stop="20260525040000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525040000 -0300" stop="20260525080000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525080000 -0300" stop="20260525120000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525120000 -0300" stop="20260525160000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525160000 -0300" stop="20260525200000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525200000 -0300" stop="20260526000000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526000000 -0300" stop="20260526040000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526040000 -0300" stop="20260526080000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526080000 -0300" stop="20260526120000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526120000 -0300" stop="20260526160000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526160000 -0300" stop="20260526200000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526200000 -0300" stop="20260527000000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527000000 -0300" stop="20260527040000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527040000 -0300" stop="20260527080000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527080000 -0300" stop="20260527120000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527120000 -0300" stop="20260527160000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527160000 -0300" stop="20260527200000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527200000 -0300" stop="20260528000000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528000000 -0300" stop="20260528040000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528040000 -0300" stop="20260528080000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528080000 -0300" stop="20260528120000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528120000 -0300" stop="20260528160000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528160000 -0300" stop="20260528200000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528200000 -0300" stop="20260529000000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="TRACE.AYITI">
+    <title>TRACE AYITI</title>
+    <desc>TRACE AYITI brings viewers the very best of Caribbean and local artists, playing the hottest kompa, zouk, rap kreyòl and chart-topping music videos from Haiti.</desc>
+    <icon src="https://i.imgur.com/aZRPeVD.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525000000 -0300" stop="20260525040000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525040000 -0300" stop="20260525080000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525080000 -0300" stop="20260525120000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525120000 -0300" stop="20260525160000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525160000 -0300" stop="20260525200000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525200000 -0300" stop="20260526000000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526000000 -0300" stop="20260526040000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526040000 -0300" stop="20260526080000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526080000 -0300" stop="20260526120000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526120000 -0300" stop="20260526160000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526160000 -0300" stop="20260526200000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526200000 -0300" stop="20260527000000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527000000 -0300" stop="20260527040000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527040000 -0300" stop="20260527080000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527080000 -0300" stop="20260527120000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527120000 -0300" stop="20260527160000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527160000 -0300" stop="20260527200000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527200000 -0300" stop="20260528000000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528000000 -0300" stop="20260528040000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528040000 -0300" stop="20260528080000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528080000 -0300" stop="20260528120000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528120000 -0300" stop="20260528160000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528160000 -0300" stop="20260528200000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528200000 -0300" stop="20260529000000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="TRACE.KITOKO">
+    <title>TRACE KITOKO</title>
+    <desc>TRACE KITOKO brings viewers the very best of Congolese and Central African artists, playing the hottest rumba, ndombolo, afrobeats and chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/UxSMvrQ.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525000000 -0300" stop="20260525040000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525040000 -0300" stop="20260525080000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525080000 -0300" stop="20260525120000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525120000 -0300" stop="20260525160000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525160000 -0300" stop="20260525200000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525200000 -0300" stop="20260526000000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526000000 -0300" stop="20260526040000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526040000 -0300" stop="20260526080000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526080000 -0300" stop="20260526120000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526120000 -0300" stop="20260526160000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526160000 -0300" stop="20260526200000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526200000 -0300" stop="20260527000000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527000000 -0300" stop="20260527040000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527040000 -0300" stop="20260527080000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527080000 -0300" stop="20260527120000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527120000 -0300" stop="20260527160000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527160000 -0300" stop="20260527200000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527200000 -0300" stop="20260528000000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528000000 -0300" stop="20260528040000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528040000 -0300" stop="20260528080000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528080000 -0300" stop="20260528120000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528120000 -0300" stop="20260528160000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528160000 -0300" stop="20260528200000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528200000 -0300" stop="20260529000000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="TRACE.NAIJA">
+    <title>TRACE NAIJA</title>
+    <desc>TRACE NAIJA brings viewers the very best of West African artists, playing the hottest afrobeats, amapiano, highlife and chart-topping Nigerian music videos.</desc>
+    <icon src="https://i.imgur.com/5s1LaJV.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525000000 -0300" stop="20260525040000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525040000 -0300" stop="20260525080000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525080000 -0300" stop="20260525120000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525120000 -0300" stop="20260525160000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525160000 -0300" stop="20260525200000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525200000 -0300" stop="20260526000000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526000000 -0300" stop="20260526040000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526040000 -0300" stop="20260526080000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526080000 -0300" stop="20260526120000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526120000 -0300" stop="20260526160000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526160000 -0300" stop="20260526200000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526200000 -0300" stop="20260527000000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527000000 -0300" stop="20260527040000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527040000 -0300" stop="20260527080000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527080000 -0300" stop="20260527120000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527120000 -0300" stop="20260527160000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527160000 -0300" stop="20260527200000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527200000 -0300" stop="20260528000000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528000000 -0300" stop="20260528040000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528040000 -0300" stop="20260528080000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528080000 -0300" stop="20260528120000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528120000 -0300" stop="20260528160000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528160000 -0300" stop="20260528200000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528200000 -0300" stop="20260529000000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="TRACE.TERANGA">
+    <title>TRACE TERANGA</title>
+    <desc>TRACE TERANGA brings viewers the very best of Senegalese and West African artists, playing the hottest mbalax, afrobeats, rap and regional music videos.</desc>
+    <icon src="https://i.imgur.com/dFAzpI6.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525000000 -0300" stop="20260525040000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525040000 -0300" stop="20260525080000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525080000 -0300" stop="20260525120000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525120000 -0300" stop="20260525160000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525160000 -0300" stop="20260525200000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260525200000 -0300" stop="20260526000000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526000000 -0300" stop="20260526040000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526040000 -0300" stop="20260526080000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526080000 -0300" stop="20260526120000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526120000 -0300" stop="20260526160000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526160000 -0300" stop="20260526200000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260526200000 -0300" stop="20260527000000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527000000 -0300" stop="20260527040000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527040000 -0300" stop="20260527080000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527080000 -0300" stop="20260527120000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527120000 -0300" stop="20260527160000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527160000 -0300" stop="20260527200000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260527200000 -0300" stop="20260528000000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528000000 -0300" stop="20260528040000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528040000 -0300" stop="20260528080000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528080000 -0300" stop="20260528120000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528120000 -0300" stop="20260528160000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528160000 -0300" stop="20260528200000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260528200000 -0300" stop="20260529000000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="TRACE.VANILLA">
+    <title>TRACE VANILLA</title>
+    <desc>TRACE VANILLA brings viewers the very best of Indian Ocean and regional artists, playing the hottest sega, maloya, urban tunes and island chart-topping music videos.</desc>
+    <icon src="https://i.imgur.com/Ab0JRRw.png"/>
+    <category>Música</category>
+  </programme>
   <programme start="20260525000000 -0300" stop="20260525040000 -0300" channel="TRACE.UK">
     <title>TRACE UK</title>
     <desc>TRACE UK brings viewers the very best of national and international artists, playing the hottest hip-hop, grime, afrobeats, rap and chart topping music videos.</desc>
@@ -6034,6 +7312,258 @@
     <title>Claro Sports 2</title>
     <desc>Más acción, más competencia y más deporte en vivo. Cobertura de torneos internacionales.</desc>
     <icon src="https://cdn.amxinfra.com/clarosports/images/2024/08/paralimpicos-cs2-133315.jpg"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260525000000 -0300" stop="20260525040000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260525040000 -0300" stop="20260525080000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260525080000 -0300" stop="20260525120000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260525120000 -0300" stop="20260525160000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260525160000 -0300" stop="20260525200000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260525200000 -0300" stop="20260526000000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260526000000 -0300" stop="20260526040000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260526040000 -0300" stop="20260526080000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260526080000 -0300" stop="20260526120000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260526120000 -0300" stop="20260526160000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260526160000 -0300" stop="20260526200000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260526200000 -0300" stop="20260527000000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260527000000 -0300" stop="20260527040000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260527040000 -0300" stop="20260527080000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260527080000 -0300" stop="20260527120000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260527120000 -0300" stop="20260527160000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260527160000 -0300" stop="20260527200000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260527200000 -0300" stop="20260528000000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260528000000 -0300" stop="20260528040000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260528040000 -0300" stop="20260528080000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260528080000 -0300" stop="20260528120000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260528120000 -0300" stop="20260528160000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260528160000 -0300" stop="20260528200000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260528200000 -0300" stop="20260529000000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="ViX.Premium.Mundial">
+    <title>Próximamente: Copa Mundial de la FIFA 2026</title>
+    <desc>¡Disfruta el torneo de fútbol más esperado del planeta! Duelos apasionantes, jugadas históricas y el mejor contenido exclusivo de la gran cita mundialista.</desc>
+    <icon src="https://i.imgur.com/RxoZUfD.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260525000000 -0300" stop="20260525040000 -0300" channel="Sky.Sports.Mexico">
