@@ -276,6 +276,33 @@
   <channel id="Canal.Izzi">
     <display-name>Canal izzi</display-name>
   </channel>
+  <channel id="Mosaico.Deportes">
+    <display-name>Mosaico Deportes</display-name>
+  </channel>
+  <channel id="Mosaico.Entretenimiento">
+    <display-name>Mosaico Entretenimiento</display-name>
+  </channel>
+  <channel id="Mosaico.HBO">
+    <display-name>Mosaico HBO</display-name>
+  </channel>
+  <channel id="Mosaico.Infantil">
+    <display-name>Mosaico Infantil</display-name>
+  </channel>
+  <channel id="Mosaico.Interes.General">
+    <display-name>Mosaico Interés General</display-name>
+  </channel>
+  <channel id="Mosaico.Mundo.y.Aprendizaje">
+    <display-name>Mosaico Mundo y Aprendizaje</display-name>
+  </channel>
+  <channel id="Mosaico.Noticias">
+    <display-name>Mosaico Noticias</display-name>
+  </channel>
+  <channel id="Mosaico.Peliculas">
+    <display-name>Mosaico Películas</display-name>
+  </channel>
+  <channel id="Mosaico.Universal">
+    <display-name>Mosaico Universal</display-name>
+  </channel>
   <channel id="Basket.Americas.TV">
     <display-name>Basket Americas TV</display-name>
   </channel>
@@ -24449,6 +24476,2274 @@
     <desc>Accede a un mundo de contenidos exclusivos diseñados para el suscriptor moderno, ofreciendo desde estrenos especiales hasta información relevante sobre todos tus servicios favoritos.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Deportes">
+    <title>Mosaico Deportes</title>
+    <desc>Sigue de cerca toda la actividad deportiva con coberturas en vivo, eventos destacados y el análisis más completo desde múltiples señales simultáneas.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Entretenimiento">
+    <title>Mosaico Entretenimiento</title>
+    <desc>Disfruta de una variedad inigualable de shows, realities, series y programas de variedades agrupados en una sola pantalla para tu máxima diversión.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.HBO">
+    <title>Mosaico HBO</title>
+    <desc>Explora el universo de HBO con acceso directo a producciones originales aclamadas por la crítica, series exclusivas y los estrenos cinematográficos más importantes.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Infantil">
+    <title>Mosaico Infantil</title>
+    <desc>Un espacio seguro y divertido diseñado especialmente para los más pequeños, con dibujos animados, series educativas y el mejor contenido familiar.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Interes.General">
+    <title>Mosaico Interés General</title>
+    <desc>Una selección diversa que abarca desde estilo de vida y tendencias hasta programas culturales y magazines para mantenerte siempre entretenido.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Variedades</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Mundo.y.Aprendizaje">
+    <title>Mosaico Mundo y Aprendizaje</title>
+    <desc>Amplía tus horizontes con los mejores documentales sobre ciencia, naturaleza, historia y grandes misterios del planeta explicados por expertos.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Documentales</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Noticias">
+    <title>Mosaico Noticias</title>
+    <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Peliculas">
+    <title>Mosaico Películas</title>
+    <desc>Tu boleto de entrada a una cartelera continua con todos los géneros cinematográficos, desde acción y suspenso hasta los grandes clásicos del cine.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas</category>
+  </programme>
+  <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529040000 -0300" stop="20260529080000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529080000 -0300" stop="20260529120000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529120000 -0300" stop="20260529160000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529160000 -0300" stop="20260529200000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260529200000 -0300" stop="20260530000000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
+  </programme>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Universal">
+    <title>Mosaico Universal</title>
+    <desc>Accede a las series de estreno más impactantes, producciones exclusivas y grandes éxitos taquilleros que la suite de Universal tiene para ofrecer.</desc>
+    <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
+    <category>Películas y Series</category>
   </programme>
   <programme start="20260529000000 -0300" stop="20260529040000 -0300" channel="Basket.Americas.TV">
     <title>Basket Americas TV</title>
