@@ -294,8 +294,8 @@
   <channel id="Mosaico.Mundo.y.Aprendizaje">
     <display-name>Mosaico Mundo y Aprendizaje</display-name>
   </channel>
-  <channel id="Mosaico.Noticias">
-    <display-name>Mosaico Noticias</display-name>
+  <channel id="Mosaico.Noticias.e.Informacion">
+    <display-name>Mosaico Noticias e Información</display-name>
   </channel>
   <channel id="Mosaico.Peliculas">
     <display-name>Mosaico Películas</display-name>
@@ -25989,254 +25989,254 @@
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Documentales</category>
   </programme>
-  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260530000000 -0300" stop="20260530040000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260530040000 -0300" stop="20260530080000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260530080000 -0300" stop="20260530120000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260530120000 -0300" stop="20260530160000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260530160000 -0300" stop="20260530200000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260530200000 -0300" stop="20260531000000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260531000000 -0300" stop="20260531040000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260531040000 -0300" stop="20260531080000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260531080000 -0300" stop="20260531120000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260531120000 -0300" stop="20260531160000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260531160000 -0300" stop="20260531200000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260531200000 -0300" stop="20260601000000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260601000000 -0300" stop="20260601040000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260601040000 -0300" stop="20260601080000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260601080000 -0300" stop="20260601120000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260601120000 -0300" stop="20260601160000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260601160000 -0300" stop="20260601200000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260601200000 -0300" stop="20260602000000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260602000000 -0300" stop="20260602040000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260602040000 -0300" stop="20260602080000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260602080000 -0300" stop="20260602120000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260602120000 -0300" stop="20260602160000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260602160000 -0300" stop="20260602200000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260602200000 -0300" stop="20260603000000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260603000000 -0300" stop="20260603040000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260603040000 -0300" stop="20260603080000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260603080000 -0300" stop="20260603120000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260603120000 -0300" stop="20260603160000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260603160000 -0300" stop="20260603200000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260603200000 -0300" stop="20260604000000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260604000000 -0300" stop="20260604040000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260604040000 -0300" stop="20260604080000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260604080000 -0300" stop="20260604120000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260604120000 -0300" stop="20260604160000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260604160000 -0300" stop="20260604200000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260604200000 -0300" stop="20260605000000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260605000000 -0300" stop="20260605040000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260605000000 -0300" stop="20260605040000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260605040000 -0300" stop="20260605080000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260605040000 -0300" stop="20260605080000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260605080000 -0300" stop="20260605120000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260605080000 -0300" stop="20260605120000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260605120000 -0300" stop="20260605160000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260605120000 -0300" stop="20260605160000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260605160000 -0300" stop="20260605200000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260605160000 -0300" stop="20260605200000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
   </programme>
-  <programme start="20260605200000 -0300" stop="20260606000000 -0300" channel="Mosaico.Noticias">
-    <title>Mosaico Noticias</title>
+  <programme start="20260605200000 -0300" stop="20260606000000 -0300" channel="Mosaico.Noticias.e.Informacion">
+    <title>Mosaico Noticias e Información</title>
     <desc>Mantente informado minuto a minuto sobre el acontecer nacional e internacional con las señales informativas y los periodistas más confiables.</desc>
     <icon src="https://i.postimg.cc/76RsLZFy/Izzi-mini.png"/>
     <category>Noticias</category>
