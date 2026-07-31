@@ -150,6 +150,18 @@
   <channel id="Flow.Sports.3">
     <display-name>Flow Sports 3</display-name>
   </channel>
+  <channel id="Sensa.Deportes">
+    <display-name>Sensa Deportes</display-name>
+  </channel>
+  <channel id="Mega.Sports">
+    <display-name>Mega Sports</display-name>
+  </channel>
+  <channel id="Eurosport.Alternative">
+    <display-name>Eurosport</display-name>
+  </channel>
+  <channel id="Escuela.Plus">
+    <display-name>Escuela+</display-name>
+  </channel>
   <channel id="DM.Kids.TV">
     <display-name>DM Kids TV</display-name>
   </channel>
@@ -362,6 +374,9 @@
   </channel>
   <channel id="Canal.Ingles.TV">
     <display-name>Inglés TV</display-name>
+  </channel>
+  <channel id="BBC.Brit">
+    <display-name>BBC Brit</display-name>
   </channel>
   <channel id="Somos.AMBA">
     <display-name>Somos AMBA</display-name>
@@ -13943,6 +13958,1014 @@
     <desc>Viví la pasión del deporte como si estuvieras ahí. Adrenalina y emoción en primera fila.</desc>
     <icon src="https://i.postimg.cc/J4Z0wnvW/Flow-Sports-3.png"/>
     <category>Deportes</category>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730040000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730040000 -0300" stop="20260730080000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730080000 -0300" stop="20260730120000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730120000 -0300" stop="20260730160000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730160000 -0300" stop="20260730200000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730200000 -0300" stop="20260731000000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731000000 -0300" stop="20260731040000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731040000 -0300" stop="20260731080000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731080000 -0300" stop="20260731120000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731120000 -0300" stop="20260731160000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731160000 -0300" stop="20260731200000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731200000 -0300" stop="20260801000000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801000000 -0300" stop="20260801040000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801040000 -0300" stop="20260801080000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801080000 -0300" stop="20260801120000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801120000 -0300" stop="20260801160000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801160000 -0300" stop="20260801200000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260802000000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802000000 -0300" stop="20260802040000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802040000 -0300" stop="20260802080000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802080000 -0300" stop="20260802120000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802120000 -0300" stop="20260802160000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802160000 -0300" stop="20260802200000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802200000 -0300" stop="20260803000000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803000000 -0300" stop="20260803040000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803040000 -0300" stop="20260803080000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803080000 -0300" stop="20260803120000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803120000 -0300" stop="20260803160000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803160000 -0300" stop="20260803200000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803200000 -0300" stop="20260804000000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804000000 -0300" stop="20260804040000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804040000 -0300" stop="20260804080000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804080000 -0300" stop="20260804120000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804120000 -0300" stop="20260804160000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804160000 -0300" stop="20260804200000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804200000 -0300" stop="20260805000000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805000000 -0300" stop="20260805040000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805040000 -0300" stop="20260805080000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805080000 -0300" stop="20260805120000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805120000 -0300" stop="20260805160000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805160000 -0300" stop="20260805200000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805200000 -0300" stop="20260806000000 -0300" channel="Sensa.Deportes">
+    <title>Sensa Deportes</title>
+    <desc>La señal exclusiva de Sensa dedicada a la transmisión de los eventos deportivos más destacados y competencias locales e internacionales.</desc>
+    <icon src="https://i.imgur.com/9nYuQ6V.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730040000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730040000 -0300" stop="20260730080000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730080000 -0300" stop="20260730120000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730120000 -0300" stop="20260730160000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730160000 -0300" stop="20260730200000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730200000 -0300" stop="20260731000000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731000000 -0300" stop="20260731040000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731040000 -0300" stop="20260731080000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731080000 -0300" stop="20260731120000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731120000 -0300" stop="20260731160000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731160000 -0300" stop="20260731200000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731200000 -0300" stop="20260801000000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801000000 -0300" stop="20260801040000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801040000 -0300" stop="20260801080000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801080000 -0300" stop="20260801120000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801120000 -0300" stop="20260801160000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801160000 -0300" stop="20260801200000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260802000000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802000000 -0300" stop="20260802040000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802040000 -0300" stop="20260802080000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802080000 -0300" stop="20260802120000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802120000 -0300" stop="20260802160000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802160000 -0300" stop="20260802200000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802200000 -0300" stop="20260803000000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803000000 -0300" stop="20260803040000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803040000 -0300" stop="20260803080000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803080000 -0300" stop="20260803120000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803120000 -0300" stop="20260803160000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803160000 -0300" stop="20260803200000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803200000 -0300" stop="20260804000000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804000000 -0300" stop="20260804040000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804040000 -0300" stop="20260804080000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804080000 -0300" stop="20260804120000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804120000 -0300" stop="20260804160000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804160000 -0300" stop="20260804200000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804200000 -0300" stop="20260805000000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805000000 -0300" stop="20260805040000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805040000 -0300" stop="20260805080000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805080000 -0300" stop="20260805120000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805120000 -0300" stop="20260805160000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805160000 -0300" stop="20260805200000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805200000 -0300" stop="20260806000000 -0300" channel="Mega.Sports">
+    <title>Mega Sports</title>
+    <desc>El canal de deportes de Megacable México. Toda la pasión deportiva con transmisiones en vivo, ligas nacionales, análisis e información al instante.</desc>
+    <icon src="https://i.imgur.com/4dNDYKg.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730040000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730040000 -0300" stop="20260730080000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730080000 -0300" stop="20260730120000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730120000 -0300" stop="20260730160000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730160000 -0300" stop="20260730200000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730200000 -0300" stop="20260731000000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731000000 -0300" stop="20260731040000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731040000 -0300" stop="20260731080000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731080000 -0300" stop="20260731120000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731120000 -0300" stop="20260731160000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731160000 -0300" stop="20260731200000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260731200000 -0300" stop="20260801000000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801000000 -0300" stop="20260801040000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801040000 -0300" stop="20260801080000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801080000 -0300" stop="20260801120000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801120000 -0300" stop="20260801160000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801160000 -0300" stop="20260801200000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260802000000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802000000 -0300" stop="20260802040000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802040000 -0300" stop="20260802080000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802080000 -0300" stop="20260802120000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802120000 -0300" stop="20260802160000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802160000 -0300" stop="20260802200000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260802200000 -0300" stop="20260803000000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803000000 -0300" stop="20260803040000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803040000 -0300" stop="20260803080000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803080000 -0300" stop="20260803120000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803120000 -0300" stop="20260803160000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803160000 -0300" stop="20260803200000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260803200000 -0300" stop="20260804000000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804000000 -0300" stop="20260804040000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804040000 -0300" stop="20260804080000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804080000 -0300" stop="20260804120000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804120000 -0300" stop="20260804160000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804160000 -0300" stop="20260804200000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260804200000 -0300" stop="20260805000000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805000000 -0300" stop="20260805040000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805040000 -0300" stop="20260805080000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805080000 -0300" stop="20260805120000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805120000 -0300" stop="20260805160000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805160000 -0300" stop="20260805200000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260805200000 -0300" stop="20260806000000 -0300" channel="Eurosport.Alternative">
+    <title>Eurosport</title>
+    <desc>La gran red europea de deportes. Cobertura completa de ciclismo, tenis, disciplinas olímpicas y los torneos más relevantes del panorama global.</desc>
+    <icon src="https://i.imgur.com/iCjm4st.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730040000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260730040000 -0300" stop="20260730080000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260730080000 -0300" stop="20260730120000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260730120000 -0300" stop="20260730160000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260730160000 -0300" stop="20260730200000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260730200000 -0300" stop="20260731000000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260731000000 -0300" stop="20260731040000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260731040000 -0300" stop="20260731080000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260731080000 -0300" stop="20260731120000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260731120000 -0300" stop="20260731160000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260731160000 -0300" stop="20260731200000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260731200000 -0300" stop="20260801000000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260801000000 -0300" stop="20260801040000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260801040000 -0300" stop="20260801080000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260801080000 -0300" stop="20260801120000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260801120000 -0300" stop="20260801160000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260801160000 -0300" stop="20260801200000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260802000000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260802000000 -0300" stop="20260802040000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260802040000 -0300" stop="20260802080000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260802080000 -0300" stop="20260802120000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260802120000 -0300" stop="20260802160000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260802160000 -0300" stop="20260802200000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260802200000 -0300" stop="20260803000000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260803000000 -0300" stop="20260803040000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260803040000 -0300" stop="20260803080000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260803080000 -0300" stop="20260803120000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260803120000 -0300" stop="20260803160000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260803160000 -0300" stop="20260803200000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260803200000 -0300" stop="20260804000000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260804000000 -0300" stop="20260804040000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260804040000 -0300" stop="20260804080000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260804080000 -0300" stop="20260804120000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260804120000 -0300" stop="20260804160000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260804160000 -0300" stop="20260804200000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260804200000 -0300" stop="20260805000000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260805000000 -0300" stop="20260805040000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260805040000 -0300" stop="20260805080000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260805080000 -0300" stop="20260805120000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260805120000 -0300" stop="20260805160000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260805160000 -0300" stop="20260805200000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
+  </programme>
+  <programme start="20260805200000 -0300" stop="20260806000000 -0300" channel="Escuela.Plus">
+    <title>Escuela+</title>
+    <desc>Canal educativo audiovisual pensado para apoyar la enseñanza escolar con contenidos dinámicos, pedagógicos e interactivos para el aula y la familia.</desc>
+    <icon src="https://i.imgur.com/PsV2yTB.png"/>
+    <category>Educativo</category>
   </programme>
   <programme start="20260730000000 -0300" stop="20260730040000 -0300" channel="DM.Kids.TV">
     <title>DM Kids TV</title>
@@ -31835,6 +32858,258 @@
     <desc>Una programación variada en idioma inglés con el mejor entretenimiento internacional, películas, series, documentales y noticias.</desc>
     <icon src="https://i.imgur.com/QkIeiso.png"/>
     <category>General</category>
+  </programme>
+  <programme start="20260730000000 -0300" stop="20260730040000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260730040000 -0300" stop="20260730080000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260730080000 -0300" stop="20260730120000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260730120000 -0300" stop="20260730160000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260730160000 -0300" stop="20260730200000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260730200000 -0300" stop="20260731000000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260731000000 -0300" stop="20260731040000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260731040000 -0300" stop="20260731080000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260731080000 -0300" stop="20260731120000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260731120000 -0300" stop="20260731160000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260731160000 -0300" stop="20260731200000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260731200000 -0300" stop="20260801000000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260801000000 -0300" stop="20260801040000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260801040000 -0300" stop="20260801080000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260801080000 -0300" stop="20260801120000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260801120000 -0300" stop="20260801160000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260801160000 -0300" stop="20260801200000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260802000000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260802000000 -0300" stop="20260802040000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260802040000 -0300" stop="20260802080000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260802080000 -0300" stop="20260802120000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260802120000 -0300" stop="20260802160000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260802160000 -0300" stop="20260802200000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260802200000 -0300" stop="20260803000000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260803000000 -0300" stop="20260803040000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260803040000 -0300" stop="20260803080000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260803080000 -0300" stop="20260803120000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260803120000 -0300" stop="20260803160000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260803160000 -0300" stop="20260803200000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260803200000 -0300" stop="20260804000000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260804000000 -0300" stop="20260804040000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260804040000 -0300" stop="20260804080000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260804080000 -0300" stop="20260804120000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260804120000 -0300" stop="20260804160000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260804160000 -0300" stop="20260804200000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260804200000 -0300" stop="20260805000000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260805000000 -0300" stop="20260805040000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260805040000 -0300" stop="20260805080000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260805080000 -0300" stop="20260805120000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260805120000 -0300" stop="20260805160000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260805160000 -0300" stop="20260805200000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260805200000 -0300" stop="20260806000000 -0300" channel="BBC.Brit">
+    <title>BBC Brit</title>
+    <desc>Una oferta premium de entretenimiento factual con la mejor producción británica: motores, aventuras, ciencia, humor y documentales imperdibles.</desc>
+    <icon src="https://i.imgur.com/bnmphtK.png"/>
+    <category>Entretenimiento</category>
   </programme>
   <programme start="20260730000000 -0300" stop="20260730040000 -0300" channel="Somos.AMBA">
     <title>Somos AMBA</title>
