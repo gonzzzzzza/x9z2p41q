@@ -288,6 +288,12 @@
   <channel id="VEEPS.Concert.Pass">
     <display-name>VEEPS Concert Pass</display-name>
   </channel>
+  <channel id="Stingray.Now.4K">
+    <display-name>Stingray Now 4K</display-name>
+  </channel>
+  <channel id="Stingray.Cozy.Cafe">
+    <display-name>Stingray Cozy Café</display-name>
+  </channel>
   <channel id="Radio.Maria">
     <display-name>Radio María</display-name>
   </channel>
@@ -25559,6 +25565,510 @@
     <desc>Your front-row ticket to premium live music and on-demand concerts from anywhere. Stream high-quality performances by award-winning artists and iconic venues around the world directly to your screen.</desc>
     <icon src="https://i.imgur.com/BezZ69X.png"/>
     <category>Música</category>
+  </programme>
+  <programme start="20260812000000 -0300" stop="20260812040000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812040000 -0300" stop="20260812080000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812080000 -0300" stop="20260812120000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812120000 -0300" stop="20260812160000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812160000 -0300" stop="20260812200000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812200000 -0300" stop="20260813000000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813000000 -0300" stop="20260813040000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813040000 -0300" stop="20260813080000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813080000 -0300" stop="20260813120000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813120000 -0300" stop="20260813160000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813160000 -0300" stop="20260813200000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813200000 -0300" stop="20260814000000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814000000 -0300" stop="20260814040000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814040000 -0300" stop="20260814080000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814080000 -0300" stop="20260814120000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814120000 -0300" stop="20260814160000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814160000 -0300" stop="20260814200000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814200000 -0300" stop="20260815000000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815000000 -0300" stop="20260815040000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815040000 -0300" stop="20260815080000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815080000 -0300" stop="20260815120000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815120000 -0300" stop="20260815160000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815160000 -0300" stop="20260815200000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815200000 -0300" stop="20260816000000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816000000 -0300" stop="20260816040000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816040000 -0300" stop="20260816080000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816080000 -0300" stop="20260816120000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816120000 -0300" stop="20260816160000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816160000 -0300" stop="20260816200000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816200000 -0300" stop="20260817000000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817000000 -0300" stop="20260817040000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817040000 -0300" stop="20260817080000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817080000 -0300" stop="20260817120000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817120000 -0300" stop="20260817160000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817160000 -0300" stop="20260817200000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817200000 -0300" stop="20260818000000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818040000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818080000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818080000 -0300" stop="20260818120000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818120000 -0300" stop="20260818160000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818160000 -0300" stop="20260818200000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818200000 -0300" stop="20260819000000 -0300" channel="Stingray.Now.4K">
+    <title>4K Music Videos</title>
+    <desc>Stingray Now 4K is greatest TV channel dedicated to 4K music videos.</desc>
+    <icon src="https://i.imgur.com/fJYT5Xv.png"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812000000 -0300" stop="20260812040000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812040000 -0300" stop="20260812080000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812080000 -0300" stop="20260812120000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812120000 -0300" stop="20260812160000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812160000 -0300" stop="20260812200000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260812200000 -0300" stop="20260813000000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813000000 -0300" stop="20260813040000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813040000 -0300" stop="20260813080000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813080000 -0300" stop="20260813120000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813120000 -0300" stop="20260813160000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813160000 -0300" stop="20260813200000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260813200000 -0300" stop="20260814000000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814000000 -0300" stop="20260814040000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814040000 -0300" stop="20260814080000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814080000 -0300" stop="20260814120000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814120000 -0300" stop="20260814160000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814160000 -0300" stop="20260814200000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260814200000 -0300" stop="20260815000000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815000000 -0300" stop="20260815040000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815040000 -0300" stop="20260815080000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815080000 -0300" stop="20260815120000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815120000 -0300" stop="20260815160000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815160000 -0300" stop="20260815200000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260815200000 -0300" stop="20260816000000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816000000 -0300" stop="20260816040000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816040000 -0300" stop="20260816080000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816080000 -0300" stop="20260816120000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816120000 -0300" stop="20260816160000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816160000 -0300" stop="20260816200000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260816200000 -0300" stop="20260817000000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817000000 -0300" stop="20260817040000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817040000 -0300" stop="20260817080000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817080000 -0300" stop="20260817120000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817120000 -0300" stop="20260817160000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817160000 -0300" stop="20260817200000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260817200000 -0300" stop="20260818000000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818040000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818080000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818080000 -0300" stop="20260818120000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818120000 -0300" stop="20260818160000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818160000 -0300" stop="20260818200000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
+  </programme>
+  <programme start="20260818200000 -0300" stop="20260819000000 -0300" channel="Stingray.Cozy.Cafe">
+    <title>Welcome to Cozy Café</title>
+    <desc>Welcome to Cozy Café-where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop for focus, relaxation, and inspiration.</desc>
+    <icon src="https://i.imgur.com/s5AemLh.jpeg"/>
+    <category>Music</category>
   </programme>
   <programme start="20260812000000 -0300" stop="20260812040000 -0300" channel="Radio.Maria">
     <title>Radio María</title>
