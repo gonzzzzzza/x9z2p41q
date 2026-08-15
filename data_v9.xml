@@ -15,6 +15,9 @@
   <channel id="GH.CAM3">
     <display-name>Cámara 3</display-name>
   </channel>
+  <channel id="La.Casa.de.los.Famosos.MX">
+    <display-name>La Casa de los Famosos México</display-name>
+  </channel>
   <channel id="Simpson">
     <display-name>Los Simpson</display-name>
   </channel>
@@ -2635,6 +2638,258 @@
     <title>Gran Hermano - Cámara 3</title>
     <desc>La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.</desc>
     <icon src="https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260814000000 -0300" stop="20260814040000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260814040000 -0300" stop="20260814080000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260814080000 -0300" stop="20260814120000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260814120000 -0300" stop="20260814160000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260814160000 -0300" stop="20260814200000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260814200000 -0300" stop="20260815000000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260815000000 -0300" stop="20260815040000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260815040000 -0300" stop="20260815080000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260815080000 -0300" stop="20260815120000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260815120000 -0300" stop="20260815160000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260815160000 -0300" stop="20260815200000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260815200000 -0300" stop="20260816000000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260816000000 -0300" stop="20260816040000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260816040000 -0300" stop="20260816080000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260816080000 -0300" stop="20260816120000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260816120000 -0300" stop="20260816160000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260816160000 -0300" stop="20260816200000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260816200000 -0300" stop="20260817000000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260817000000 -0300" stop="20260817040000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260817040000 -0300" stop="20260817080000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260817080000 -0300" stop="20260817120000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260817120000 -0300" stop="20260817160000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260817160000 -0300" stop="20260817200000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260817200000 -0300" stop="20260818000000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818040000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818080000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260818080000 -0300" stop="20260818120000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260818120000 -0300" stop="20260818160000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260818160000 -0300" stop="20260818200000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260818200000 -0300" stop="20260819000000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260819000000 -0300" stop="20260819040000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260819040000 -0300" stop="20260819080000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260819080000 -0300" stop="20260819120000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260819120000 -0300" stop="20260819160000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260819160000 -0300" stop="20260819200000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260819200000 -0300" stop="20260820000000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260820000000 -0300" stop="20260820040000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260820040000 -0300" stop="20260820080000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260820080000 -0300" stop="20260820120000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260820120000 -0300" stop="20260820160000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260820160000 -0300" stop="20260820200000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260820200000 -0300" stop="20260821000000 -0300" channel="La.Casa.de.los.Famosos.MX">
+    <title>La Casa de los Famosos México</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
     <category>Reality</category>
   </programme>
   <programme start="20260814000000 -0300" stop="20260814040000 -0300" channel="Simpson">
