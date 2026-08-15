@@ -159,6 +159,9 @@
   <channel id="AXS.Sports.BO">
     <display-name>AXS+ Sports</display-name>
   </channel>
+  <channel id="Eurovision.Sport">
+    <display-name>Eurovision Sport</display-name>
+  </channel>
   <channel id="Eurosport.Alternative">
     <display-name>Eurosport</display-name>
   </channel>
@@ -14728,6 +14731,258 @@
     <title>AXS+ Sports</title>
     <desc>La señal deportiva del cableoperador AXS Bolivia dedicada de forma única y exclusiva a la transmisión en directo de grandes eventos deportivos y torneos de máxima relevancia.</desc>
     <icon src="https://i.imgur.com/0skavjN.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260814000000 -0300" stop="20260814040000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260814040000 -0300" stop="20260814080000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260814080000 -0300" stop="20260814120000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260814120000 -0300" stop="20260814160000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260814160000 -0300" stop="20260814200000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260814200000 -0300" stop="20260815000000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260815000000 -0300" stop="20260815040000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260815040000 -0300" stop="20260815080000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260815080000 -0300" stop="20260815120000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260815120000 -0300" stop="20260815160000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260815160000 -0300" stop="20260815200000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260815200000 -0300" stop="20260816000000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260816000000 -0300" stop="20260816040000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260816040000 -0300" stop="20260816080000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260816080000 -0300" stop="20260816120000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260816120000 -0300" stop="20260816160000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260816160000 -0300" stop="20260816200000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260816200000 -0300" stop="20260817000000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260817000000 -0300" stop="20260817040000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260817040000 -0300" stop="20260817080000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260817080000 -0300" stop="20260817120000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260817120000 -0300" stop="20260817160000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260817160000 -0300" stop="20260817200000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260817200000 -0300" stop="20260818000000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818040000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818080000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260818080000 -0300" stop="20260818120000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260818120000 -0300" stop="20260818160000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260818160000 -0300" stop="20260818200000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260818200000 -0300" stop="20260819000000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260819000000 -0300" stop="20260819040000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260819040000 -0300" stop="20260819080000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260819080000 -0300" stop="20260819120000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260819120000 -0300" stop="20260819160000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260819160000 -0300" stop="20260819200000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260819200000 -0300" stop="20260820000000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260820000000 -0300" stop="20260820040000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260820040000 -0300" stop="20260820080000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260820080000 -0300" stop="20260820120000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260820120000 -0300" stop="20260820160000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260820160000 -0300" stop="20260820200000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260820200000 -0300" stop="20260821000000 -0300" channel="Eurovision.Sport">
+    <title>Eurovision Sport TV</title>
+    <desc>Tu asiento en primera fila para el deporte mundial. Sigue en directo a los mejores atletas de Europa luchando por la gloria en los campeonatos más importantes.</desc>
+    <icon src="https://i.imgur.com/YWgbB5g.png"/>
     <category>Deportes</category>
   </programme>
   <programme start="20260814000000 -0300" stop="20260814040000 -0300" channel="Eurosport.Alternative">
