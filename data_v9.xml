@@ -18,6 +18,36 @@
   <channel id="La.Casa.de.los.Famosos.MX">
     <display-name>La Casa de los Famosos México</display-name>
   </channel>
+  <channel id="LCDLF.Revive.las.galas">
+    <display-name>La Casa de los Famosos México: Revive las galas</display-name>
+  </channel>
+  <channel id="LCDLF.Cocina">
+    <display-name>La Casa de los Famosos México: Cocina</display-name>
+  </channel>
+  <channel id="LCDLF.Bano">
+    <display-name>La Casa de los Famosos México: Baño</display-name>
+  </channel>
+  <channel id="LCDLF.Toda.la.casa.24.7">
+    <display-name>La Casa de los Famosos México: Toda la casa 24/7</display-name>
+  </channel>
+  <channel id="LCDLF.Sala">
+    <display-name>La Casa de los Famosos México: Sala</display-name>
+  </channel>
+  <channel id="LCDLF.Multicamaras">
+    <display-name>La Casa de los Famosos México: Multicámaras</display-name>
+  </channel>
+  <channel id="LCDLF.Acceso.total.24.7">
+    <display-name>La Casa de los Famosos México: Acceso total 24/7</display-name>
+  </channel>
+  <channel id="LCDLF.Suite.del.Lider">
+    <display-name>La Casa de los Famosos México: Suite del Líder</display-name>
+  </channel>
+  <channel id="LCDLF.Cuarto.Tulum">
+    <display-name>La Casa de los Famosos México: Cuarto Tulum</display-name>
+  </channel>
+  <channel id="LCDLF.Cuarto.Malibu">
+    <display-name>La Casa de los Famosos México: Cuarto Malibú</display-name>
+  </channel>
   <channel id="Simpson">
     <display-name>Los Simpson</display-name>
   </channel>
@@ -2896,6 +2926,2526 @@
     <title>La Casa de los Famosos México</title>
     <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
     <icon src="https://i.imgur.com/cfsWIRS.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Revive.las.galas">
+    <title>La Casa de los Famosos México: Revive las galas</title>
+    <desc>Un grupo de celebridades convive bajo el mismo techo, completamente aisladas del exterior y vigiladas por cámaras las 24 horas del día, enfrentando nominaciones, estrategias y el juicio del público para evitar la expulsión y ganar el gran premio.</desc>
+    <icon src="https://i.imgur.com/cpIpt8D.jpeg"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Cocina">
+    <title>La Casa de los Famosos México: Cocina</title>
+    <desc>El momento de entrar ¡hasta la cocina! Espía a los famosos aquí.</desc>
+    <icon src="https://i.imgur.com/jcJy7FU.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Bano">
+    <title>La Casa de los Famosos México: Baño</title>
+    <desc>¿Te has puesto a pensar qué sería de tu vida con una cámara en el baño? Descúbrelo desde el canal más íntimo de la casa.</desc>
+    <icon src="https://i.imgur.com/Lg7qm7w.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Toda.la.casa.24.7">
+    <title>La Casa de los Famosos México: Toda la casa 24/7</title>
+    <desc>Vive el reality más famoso de México como si fueras un habitante más las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/nO16ifX.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Sala">
+    <title>La Casa de los Famosos México: Sala</title>
+    <desc>En la sala se viven momentos intensos, desde carcajadas, discusiones, sufrimiento hasta despedidas.</desc>
+    <icon src="https://i.imgur.com/dNpfiHH.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Multicamaras">
+    <title>La Casa de los Famosos México: Multicámaras</title>
+    <desc>En este canal podrás seguir a los habitantes por todos los rincones de la casa.</desc>
+    <icon src="https://i.imgur.com/olRD6zA.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Acceso.total.24.7">
+    <title>La Casa de los Famosos México: Acceso total 24/7</title>
+    <desc>Adéntrate en La Casa más Famosa de Mexico 24/7 y vive los romances, conflictos, estrategias y galas diarias.</desc>
+    <icon src="https://i.imgur.com/umPL3Pk.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Suite.del.Lider">
+    <title>La Casa de los Famosos México: Suite del Líder</title>
+    <desc>El rincón más privado de La Casa, donde el líder semanal y su invitado comparten momentos y conversaciones lejos de todas las miradas.</desc>
+    <icon src="https://i.imgur.com/ZntJpeh.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Cuarto.Tulum">
+    <title>La Casa de los Famosos México: Cuarto Tulum</title>
+    <desc>Descubre los secretos que no dejan dormir a los habitantes.</desc>
+    <icon src="https://i.imgur.com/TdBppB1.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821080000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821080000 -0300" stop="20260821120000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821120000 -0300" stop="20260821160000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821160000 -0300" stop="20260821200000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260821200000 -0300" stop="20260822000000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822000000 -0300" stop="20260822040000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822040000 -0300" stop="20260822080000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822080000 -0300" stop="20260822120000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822120000 -0300" stop="20260822160000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822160000 -0300" stop="20260822200000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260822200000 -0300" stop="20260823000000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823000000 -0300" stop="20260823040000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823040000 -0300" stop="20260823080000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823080000 -0300" stop="20260823120000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823120000 -0300" stop="20260823160000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823160000 -0300" stop="20260823200000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260823200000 -0300" stop="20260824000000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824000000 -0300" stop="20260824040000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824080000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824120000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824160000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824200000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260825000000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825040000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825040000 -0300" stop="20260825080000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825080000 -0300" stop="20260825120000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825120000 -0300" stop="20260825160000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825160000 -0300" stop="20260825200000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260826000000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826040000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826040000 -0300" stop="20260826080000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826080000 -0300" stop="20260826120000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826120000 -0300" stop="20260826160000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826160000 -0300" stop="20260826200000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260826200000 -0300" stop="20260827000000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827040000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827040000 -0300" stop="20260827080000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827120000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827160000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827200000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
+    <category>Reality</category>
+  </programme>
+  <programme start="20260827200000 -0300" stop="20260828000000 -0300" channel="LCDLF.Cuarto.Malibu">
+    <title>La Casa de los Famosos México: Cuarto Malibú</title>
+    <desc>Lo que ocurre aquí puede cambiarlo todo.</desc>
+    <icon src="https://i.imgur.com/2yNVV6B.png"/>
     <category>Reality</category>
   </programme>
   <programme start="20260821000000 -0300" stop="20260821040000 -0300" channel="Simpson">
