@@ -15,9 +15,6 @@
   <channel id="GH.CAM3">
     <display-name>Cámara 3</display-name>
   </channel>
-  <channel id="DSHOW">
-    <display-name>DShow</display-name>
-  </channel>
   <channel id="TyC.Sports.FAN">
     <display-name>TyC Sports FAN</display-name>
   </channel>
@@ -1430,7 +1427,7 @@
   </programme>
   <programme start="20260831120000 -0300" stop="20260831140000 -0300" channel="DSHOW">
     <title>All Access</title>
-    <desc>El streaming que tiene acceso a todo lo que pasa dentro de la casa del Gran Hermano.</desc>
+    <desc>El streaming que tiene acceso a todo lo que pasa dentro de la casa de Gran Hermano.</desc>
     <icon src="https://i.imgur.com/37p5bBN.png"/>
     <category>Entretenimiento</category>
   </programme>
@@ -1466,7 +1463,7 @@
   </programme>
   <programme start="20260901120000 -0300" stop="20260901140000 -0300" channel="DSHOW">
     <title>All Access</title>
-    <desc>El streaming que tiene acceso a todo lo que pasa dentro de la casa del Gran Hermano.</desc>
+    <desc>El streaming que tiene acceso a todo lo que pasa dentro de la casa de Gran Hermano.</desc>
     <icon src="https://i.imgur.com/37p5bBN.png"/>
     <category>Entretenimiento</category>
   </programme>
@@ -1502,7 +1499,7 @@
   </programme>
   <programme start="20260902120000 -0300" stop="20260902140000 -0300" channel="DSHOW">
     <title>All Access</title>
-    <desc>El streaming que tiene acceso a todo lo que pasa dentro de la casa del Gran Hermano.</desc>
+    <desc>El streaming que tiene acceso a todo lo que pasa dentro de la casa de Gran Hermano.</desc>
     <icon src="https://i.imgur.com/37p5bBN.png"/>
     <category>Entretenimiento</category>
   </programme>
