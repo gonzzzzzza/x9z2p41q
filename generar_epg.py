@@ -398,23 +398,24 @@ def generar_epg():
 		{"s": "233000", "e": "000000", "t": "Planeta vinos", "g": "Cocina", "d": "Vero Martino y Diego Hernández te invitan a recorrer bodegas, ferias y eventos exclusivos de la vitivinicultura junto sus principales protagonistas.", "i": "https://i.postimg.cc/ncWVBymb/Planeta-Vinos.jpg"}
     ]
 
+    prog_dshow = [
+        {"s": "000000", "e": "120000", "t": "DShow", "g": "Entretenimiento", "d": "Un espacio que incluye shows, entrevistas exclusivas, programas en vivo, acceso a los mejores eventos y mucho más.", "i": "https://i.imgur.com/xvspa9a.png"},
+        {"s": "120000", "e": "140000", "t": "All Access", "g": "Entretenimiento", "d": "El streaming que tiene acceso a todo lo que pasa dentro de la casa del Gran Hermano.", "i": "https://i.imgur.com/37p5bBN.png"},
+        {"s": "140000", "e": "160000", "t": "Super Chat", "g": "Telerrealidad", "d": "Todo lo que pasa en la casa más famosa, con la participación en vivo del público y los mejores invitados.", "i": "https://i.imgur.com/Pt3C8gl.png"},
+        {"s": "160000", "e": "180000", "t": "La triple P", "g": "Entretenimiento", "d": "Tres pelados que saben hacer reír conducen un programa de humor irreverente y sin red.", "i": "https://i.imgur.com/rzyYG4X.jpeg"},
+        {"s": "180000", "e": "191500", "t": "Sácate la careta", "g": "Entretenimiento", "d": "El otro lado del mundo del espectáculo de Uruguay y Argentina.", "i": "https://i.imgur.com/hzdnuws.jpeg"},
+        {"s": "191500", "e": "000000", "t": "DShow", "g": "Entretenimiento", "d": "Un espacio que incluye shows, entrevistas exclusivas, programas en vivo, acceso a los mejores eventos y mucho más.", "i": "https://i.imgur.com/xvspa9a.png"}
+    ]
+
     for d in range(3):
         for p in prog_rafaela:
             inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
-
-            st = inicio_dia.replace(
-                hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:])
-            )
-            et = inicio_dia.replace(
-                hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:])
-            )
-
-            if et <= st:
-                et += datetime.timedelta(days=1)
+            st = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
+            et = inicio_dia.replace(hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:]))
+            if et <= st: et += datetime.timedelta(days=1)
 
             s_str = st.strftime("%Y%m%d%H%M%S -0300")
             e_str = et.strftime("%Y%m%d%H%M%S -0300")
-    
             lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="Rafaela.Noticias">')
             lines.append(f'    <title>{clean_text(p["t"])}</title>')
             lines.append(f'    <desc>{clean_text(p["d"])}</desc>')
@@ -422,8 +423,24 @@ def generar_epg():
             lines.append(f'    <category>{clean_text(p["g"])}</category>')
             lines.append(f'  </programme>')
 
+    for d in range(3):
+        for p in prog_dshow:
+            inicio_dia = inicio_dinamico + datetime.timedelta(days=d)
+            st = inicio_dia.replace(hour=int(p["s"][:2]), minute=int(p["s"][2:4]), second=int(p["s"][4:]))
+            et = inicio_dia.replace(hour=int(p["e"][:2]), minute=int(p["e"][2:4]), second=int(p["e"][4:]))
+            if et <= st: et += datetime.timedelta(days=1)
+
+            s_str = st.strftime("%Y%m%d%H%M%S -0300")
+            e_str = et.strftime("%Y%m%d%H%M%S -0300")
+            lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="DSHOW">')
+            lines.append(f'    <title>{clean_text(p["t"])}</title>')
+            lines.append(f'    <desc>{clean_text(p["d"])}</desc>')
+            lines.append(f'    <icon src="{p["i"]}"/>')
+            lines.append(f'    <category>{clean_text(p["g"])}</category>')
+            lines.append(f'  </programme>')
+
     for c in canales:
-        if "rafaela" in c["id"].lower():
+        if "rafaela" in c["id"].lower() or c["id"].upper() == "DSHOW":
             continue
             
         for d in range(7):
