@@ -15,6 +15,9 @@
   <channel id="GH.CAM3">
     <display-name>Cámara 3</display-name>
   </channel>
+  <channel id="DSHOW">
+    <display-name>DShow</display-name>
+  </channel>
   <channel id="TyC.Sports.FAN">
     <display-name>TyC Sports FAN</display-name>
   </channel>
