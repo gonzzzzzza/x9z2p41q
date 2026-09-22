@@ -1,7 +1,7 @@
 import datetime
 
 canales = [
-	{"id": "A.CONFIRMAR", "n": "A confirmar", "t": "Programación a confirmar", "g": "General", "i": "https://i.imgur.com/qCVQYKV.jpeg", "d": "Contenido a confirmar por el canal."},
+	{"id": "A.CONFIRMAR", "n": "A confirmar", "t": "Programación a confirmar", "g": "General", "i": "https://i.imgur.com/qCVQYKV.jpeg", "d": "La información correspondiente a este programa no ha sido confirmada por el canal."},
     {"id": "GH.MULTI", "n": "Multicámara", "t": "GH - Experiencia Multicámara", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
     {"id": "GH.24HS", "n": "Gran Hermano 24 hs.", "t": "Gran Hermano 24 hs.", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
     {"id": "GH.CAM1", "n": "Cámara 1", "t": "Gran Hermano - Cámara 1", "d": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.", "i": "https://i.postimg.cc/zGNBqNYG/GH-Generacion-Dorada.jpg", "g": "Reality"},
