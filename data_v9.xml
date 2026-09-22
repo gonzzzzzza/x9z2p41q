@@ -279,6 +279,24 @@
   <channel id="FMH.Kizzi">
     <display-name>FMH Kizzi</display-name>
   </channel>
+  <channel id="MI.MUSICA.KPOP">
+    <display-name>Mi Música K-Pop</display-name>
+  </channel>
+  <channel id="MI.MUSICA.HITS">
+    <display-name>Mi Música Hits</display-name>
+  </channel>
+  <channel id="MI.MUSICA.POPULAR">
+    <display-name>Mi Música Popular</display-name>
+  </channel>
+  <channel id="MI.MUSICA.REGGAETON">
+    <display-name>Mi Música Reggaeton</display-name>
+  </channel>
+  <channel id="MI.MUSICA.ROMANTICA">
+    <display-name>Mi Música Romántica</display-name>
+  </channel>
+  <channel id="MI.MUSICA.SALSA">
+    <display-name>Mi Música Salsa</display-name>
+  </channel>
   <channel id="Music.Box.Classic">
     <display-name>Music Box Classic</display-name>
   </channel>
@@ -24718,6 +24736,1518 @@
     <title>FMH Kizzi</title>
     <desc>Ritmo, frescura y los mejores lanzamientos musicales actuales.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921000000 -0300" stop="20260921040000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921040000 -0300" stop="20260921080000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921120000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921120000 -0300" stop="20260921160000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921200000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260922000000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922000000 -0300" stop="20260922040000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922080000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922120000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922120000 -0300" stop="20260922160000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922200000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260923000000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923000000 -0300" stop="20260923040000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923080000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923120000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923120000 -0300" stop="20260923160000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923160000 -0300" stop="20260923200000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260924000000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924040000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924080000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924120000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924120000 -0300" stop="20260924160000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924200000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260925000000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925000000 -0300" stop="20260925040000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925080000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925120000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925160000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925200000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260926000000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926000000 -0300" stop="20260926040000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926080000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926120000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926160000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926200000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260927000000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927000000 -0300" stop="20260927040000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927040000 -0300" stop="20260927080000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927080000 -0300" stop="20260927120000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927120000 -0300" stop="20260927160000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927160000 -0300" stop="20260927200000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927200000 -0300" stop="20260928000000 -0300" channel="MI.MUSICA.KPOP">
+    <title>Best K-Pop Today</title>
+    <desc>El pulso del fenómeno global. Los lanzamientos más recientes, los idols del momento y los hits que están rompiendo récords en la escena coreana.</desc>
+    <icon src="https://i.imgur.com/EAH1dSC.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921000000 -0300" stop="20260921040000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921040000 -0300" stop="20260921080000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921120000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921120000 -0300" stop="20260921160000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921200000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260922000000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922000000 -0300" stop="20260922040000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922080000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922120000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922120000 -0300" stop="20260922160000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922200000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260923000000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923000000 -0300" stop="20260923040000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923080000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923120000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923120000 -0300" stop="20260923160000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923160000 -0300" stop="20260923200000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260924000000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924040000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924080000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924120000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924120000 -0300" stop="20260924160000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924200000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260925000000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925000000 -0300" stop="20260925040000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925080000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925120000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925160000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925200000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260926000000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926000000 -0300" stop="20260926040000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926080000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926120000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926160000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926200000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260927000000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927000000 -0300" stop="20260927040000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927040000 -0300" stop="20260927080000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927080000 -0300" stop="20260927120000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927120000 -0300" stop="20260927160000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927160000 -0300" stop="20260927200000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927200000 -0300" stop="20260928000000 -0300" channel="MI.MUSICA.HITS">
+    <title>Today&apos;s Hits</title>
+    <desc>Lo que el mundo está escuchando en este preciso momento. Un recorrido dinámico por los temas más sonados del chart internacional y los éxitos globales de hoy.</desc>
+    <icon src="https://i.imgur.com/NzSVa8J.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921000000 -0300" stop="20260921040000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921040000 -0300" stop="20260921080000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921120000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921120000 -0300" stop="20260921160000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921200000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260922000000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922000000 -0300" stop="20260922040000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922080000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922120000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922120000 -0300" stop="20260922160000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922200000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260923000000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923000000 -0300" stop="20260923040000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923080000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923120000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923120000 -0300" stop="20260923160000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923160000 -0300" stop="20260923200000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260924000000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924040000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924080000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924120000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924120000 -0300" stop="20260924160000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924200000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260925000000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925000000 -0300" stop="20260925040000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925080000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925120000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925160000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925200000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260926000000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926000000 -0300" stop="20260926040000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926080000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926120000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926160000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926200000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260927000000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927000000 -0300" stop="20260927040000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927040000 -0300" stop="20260927080000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927080000 -0300" stop="20260927120000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927120000 -0300" stop="20260927160000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927160000 -0300" stop="20260927200000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927200000 -0300" stop="20260928000000 -0300" channel="MI.MUSICA.POPULAR">
+    <title>Cantando a grito helado</title>
+    <desc>Para cantar con el alma y a todo volumen. Los grandes éxitos de la música popular, ranchera y despecho que se sienten en la piel y se cantan sin filtro.</desc>
+    <icon src="https://i.imgur.com/pgRzSet.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921000000 -0300" stop="20260921040000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921040000 -0300" stop="20260921080000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921120000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921120000 -0300" stop="20260921160000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921200000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260922000000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922000000 -0300" stop="20260922040000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922080000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922120000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922120000 -0300" stop="20260922160000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922200000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260923000000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923000000 -0300" stop="20260923040000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923080000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923120000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923120000 -0300" stop="20260923160000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923160000 -0300" stop="20260923200000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260924000000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924040000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924080000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924120000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924120000 -0300" stop="20260924160000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924200000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260925000000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925000000 -0300" stop="20260925040000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925080000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925120000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925160000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925200000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260926000000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926000000 -0300" stop="20260926040000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926080000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926120000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926160000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926200000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260927000000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927000000 -0300" stop="20260927040000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927040000 -0300" stop="20260927080000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927080000 -0300" stop="20260927120000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927120000 -0300" stop="20260927160000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927160000 -0300" stop="20260927200000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927200000 -0300" stop="20260928000000 -0300" channel="MI.MUSICA.REGGAETON">
+    <title>Puro Flow</title>
+    <desc>Ritmo, actitud y puro perreo. El espacio definitivo para los exponentes del género urbano, desde los clásicos que encendieron la calle hasta los bangers de la nueva ola.</desc>
+    <icon src="https://i.imgur.com/1D8PRlM.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921000000 -0300" stop="20260921040000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921040000 -0300" stop="20260921080000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921120000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921120000 -0300" stop="20260921160000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921200000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260922000000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922000000 -0300" stop="20260922040000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922080000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922120000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922120000 -0300" stop="20260922160000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922200000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260923000000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923000000 -0300" stop="20260923040000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923080000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923120000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923120000 -0300" stop="20260923160000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923160000 -0300" stop="20260923200000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260924000000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924040000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924080000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924120000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924120000 -0300" stop="20260924160000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924200000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260925000000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925000000 -0300" stop="20260925040000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925080000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925120000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925160000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925200000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260926000000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926000000 -0300" stop="20260926040000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926080000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926120000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926160000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926200000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260927000000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927000000 -0300" stop="20260927040000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927040000 -0300" stop="20260927080000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927080000 -0300" stop="20260927120000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927120000 -0300" stop="20260927160000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927160000 -0300" stop="20260927200000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927200000 -0300" stop="20260928000000 -0300" channel="MI.MUSICA.ROMANTICA">
+    <title>100% Amor</title>
+    <desc>Baladas y melodías para conectar con el corazón. Una selección inolvidable diseñada para acompañar cada etapa del amor, el enamoramiento y la nostalgia.</desc>
+    <icon src="https://i.imgur.com/WqFDktL.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921000000 -0300" stop="20260921040000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921040000 -0300" stop="20260921080000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921120000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921120000 -0300" stop="20260921160000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921200000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260921200000 -0300" stop="20260922000000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922000000 -0300" stop="20260922040000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922080000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922120000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922120000 -0300" stop="20260922160000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922200000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260922200000 -0300" stop="20260923000000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923000000 -0300" stop="20260923040000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923080000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923080000 -0300" stop="20260923120000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923120000 -0300" stop="20260923160000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923160000 -0300" stop="20260923200000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260924000000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924040000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924080000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924120000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924120000 -0300" stop="20260924160000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924200000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260925000000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925000000 -0300" stop="20260925040000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925080000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925120000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925160000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925200000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260926000000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926000000 -0300" stop="20260926040000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926080000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926120000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926160000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926200000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260927000000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927000000 -0300" stop="20260927040000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927040000 -0300" stop="20260927080000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927080000 -0300" stop="20260927120000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927120000 -0300" stop="20260927160000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927160000 -0300" stop="20260927200000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
+    <category>Música</category>
+  </programme>
+  <programme start="20260927200000 -0300" stop="20260928000000 -0300" channel="MI.MUSICA.SALSA">
+    <title>Viva la salsa</title>
+    <desc>Clave, sabor y movimiento. El punto de encuentro para la salsa clásica, sensacional y brava que pone a bailar a cualquiera desde el primer compás.</desc>
+    <icon src="https://i.imgur.com/TFfKVX0.png"/>
     <category>Música</category>
   </programme>
   <programme start="20260921000000 -0300" stop="20260921040000 -0300" channel="Music.Box.Classic">
