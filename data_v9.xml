@@ -1065,6 +1065,9 @@
   <channel id="Radio.ADN.RAF">
     <display-name>Radio ADN FM 97.9</display-name>
   </channel>
+  <channel id="Radio.Castellanos">
+    <display-name>Radio Castellanos FM 96.1</display-name>
+  </channel>
   <channel id="Radio.LT28">
     <display-name>Radio Rafaela LT28</display-name>
   </channel>
@@ -90511,6 +90514,258 @@
     <title>Radio ADN FM 97.9</title>
     <desc>La voz informativa de Rafaela. Noticias al instante, móviles en vivo y el pulso de la ciudad y la región en la FM 97.9.</desc>
     <icon src="https://i.postimg.cc/Bv7bKmMr/ADN-mini.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924040000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924080000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260924080000 -0300" stop="20260924120000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260924120000 -0300" stop="20260924160000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260924160000 -0300" stop="20260924200000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260925000000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260925000000 -0300" stop="20260925040000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260925040000 -0300" stop="20260925080000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260925080000 -0300" stop="20260925120000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260925120000 -0300" stop="20260925160000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260925160000 -0300" stop="20260925200000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260925200000 -0300" stop="20260926000000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260926000000 -0300" stop="20260926040000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260926040000 -0300" stop="20260926080000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260926080000 -0300" stop="20260926120000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260926120000 -0300" stop="20260926160000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260926160000 -0300" stop="20260926200000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260926200000 -0300" stop="20260927000000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260927000000 -0300" stop="20260927040000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260927040000 -0300" stop="20260927080000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260927080000 -0300" stop="20260927120000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260927120000 -0300" stop="20260927160000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260927160000 -0300" stop="20260927200000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260927200000 -0300" stop="20260928000000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928040000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260928040000 -0300" stop="20260928080000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260928080000 -0300" stop="20260928120000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928160000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260928160000 -0300" stop="20260928200000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260928200000 -0300" stop="20260929000000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260929000000 -0300" stop="20260929040000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260929040000 -0300" stop="20260929080000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260929080000 -0300" stop="20260929120000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260929120000 -0300" stop="20260929160000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260929160000 -0300" stop="20260929200000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260929200000 -0300" stop="20260930000000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260930000000 -0300" stop="20260930040000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260930040000 -0300" stop="20260930080000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260930080000 -0300" stop="20260930120000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260930120000 -0300" stop="20260930160000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260930160000 -0300" stop="20260930200000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
+    <category>Radios</category>
+  </programme>
+  <programme start="20260930200000 -0300" stop="20261001000000 -0300" channel="Radio.Castellanos">
+    <title>Radio Castellanos FM 96.1</title>
+    <desc>La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1.</desc>
+    <icon src="https://i.imgur.com/sxI6asS.png"/>
     <category>Radios</category>
   </programme>
   <programme start="20260924000000 -0300" stop="20260924040000 -0300" channel="Radio.LT28">
