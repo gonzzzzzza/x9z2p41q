@@ -214,7 +214,8 @@ canales = [
 	{"id": "Comunidad.FAN", "n": "Comunidad FAN", "t": "Comunidad FAN", "g": "General", "i": "https://i.imgur.com/7h3kGeS.png", "d": "El primer proyecto multipantalla del Litoral. Entrevistas a artistas, entretenimiento, producciones propias y transmisiones especiales."},
 	# Mundo
     {"id": "Latina.Noticias", "n": "Latina Noticias", "t": "Latina Noticias", "g": "Noticias", "i": "https://i.postimg.cc/Prc2xqL2/Latina-Noticias-mini.png", "d": "Noticiero televisivo peruano que cubre política, economía, sociedad y sucesos en vivo, con reportajes, análisis y corresponsales en todo el país, para informar con rapidez diaria."},
-    # Stingray Music
+    {"id": "Promi.Big.Brother", "n": "Promi Big Brother 2026", "t": "Promi Big Brother 2026", "d": "Eine Gruppe von Prominenten lebt unter einem Dach zusammen, völlig isoliert von der Außenwelt und rund um die Uhr von Kameras überwacht. Sie stellen sich Nominierungen, Strategien und dem Urteil des Publikums, um dem Rauswurf zu entgehen und den Hauptpreis zu gewinnen.", "i": "https://i.imgur.com/ZmzV0iS.png", "g": "Reality"},
+	# Stingray Music
 	{"id": "Stingray.2000s", "n": "2000s", "t": "2000s", "g": "Stingray Music", "i": "https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png", "d": "Creando la memoria musical del nuevo milenio."},
 	{"id": "Stingray.Adulto.Alternativo", "n": "Adulto Alternativo", "t": "Adulto Alternativo", "g": "Stingray Music", "i": "https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png", "d": "Rock y Pop contemporáneo con grandes canciones del ayer."},
 	{"id": "Stingray.Alternative", "n": "Alternative", "t": "Alternative", "g": "Stingray Music", "i": "https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png", "d": "Siente la intensidad de lo mejor del rock alternativo actual y acuérdate de los orígenes del grunge (concentrado e inquisitivo)."},
