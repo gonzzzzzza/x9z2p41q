@@ -1,4 +1,6 @@
 import datetime
+import json
+import urllib.request
 
 canales = [
 	{"id": "A.CONFIRMAR", "n": "A confirmar", "t": "Programación a confirmar", "g": "General", "i": "https://i.imgur.com/qCVQYKV.jpeg", "d": "La información de este programa no ha sido anunciada."},
@@ -365,11 +367,31 @@ canales = [
     {"id": "Radio.Castellanos", "n": "Radio Castellanos FM 96.1", "t": "Radio Castellanos FM 96.1", "g": "Radios", "i": "https://i.imgur.com/sxI6asS.png", "d": "La información del emblemático diario local, también en la radio. Periodismo, opinión y la actualidad de Rafaela y la región en la FM 96.1."},
 	{"id": "Radio.LT28", "n": "Radio Rafaela LT28", "t": "Radio Rafaela LT28", "g": "Radios", "i": "https://i.postimg.cc/HxJx4bhF/Radio-Rafaela-Mini.png", "d": "Tradición y actualidad en el aire rafaelino. La histórica LT28 con la cobertura más completa de Rafaela y zona."},
     {"id": "Radio.Vida", "n": "Radio Vida", "t": "Radio Vida FM 97.9", "g": "Radios", "i": "https://i.ytimg.com/vi/dGQ25rVfUH4/maxresdefault.jpg", "d": "Compañía musical con los hits que suenan en todo momento."},
+    # 40 Media Group
+    {"id": "ENT.FAMILY", "n": "ENT Family", "t": "ENT Family", "g": "Entretenimiento", "i": "https://www.40mediagroup.com/images/channels/ent-family.png", "d": "Canal de entretenimiento familiar.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/entfamily/guia.json"},
+    {"id": "ENT.CHANNEL", "n": "ENT Channel", "t": "ENT Channel", "g": "Entretenimiento", "i": "https://www.40mediagroup.com/images/channels/ent-channel.png", "d": "Canal de entretenimiento general.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/entchannel/guia.json"},
+    {"id": "ENT.EXTREME", "n": "ENT Extreme", "t": "ENT Extreme", "g": "Acción", "i": "https://www.40mediagroup.com/images/channels/ent-extreme.png", "d": "Canal de contenido extremo y acción.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/entextreme/guia.json"},
+    {"id": "ENT.COMEDY", "n": "ENT Comedy", "t": "ENT Comedy", "g": "Comedia", "i": "https://www.40mediagroup.com/images/channels/ent-comedy.png", "d": "Canal de comedias y humor.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/entcomedy/guia.json"},
+    {"id": "ENT.MOVIES", "n": "ENT Movies", "t": "ENT Movies", "g": "Películas", "i": "https://www.40mediagroup.com/images/channels/ent-movies.png", "d": "Cine y películas exclusivas.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/entmovies/guia.json"},
+    {"id": "ENT.DRAMA", "n": "ENT Drama", "t": "ENT Drama", "g": "Drama", "i": "https://www.40mediagroup.com/images/channels/ent-drama.png", "d": "Series y películas dramáticas.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/entdrama/guia.json"},
+    {"id": "ENT.CLASSIC", "n": "ENT Classic", "t": "ENT Classic", "g": "Clásicos", "i": "https://www.40mediagroup.com/images/channels/ent-classic.png", "d": "Los grandes clásicos de la televisión y el cine.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/entclassic/guia.json"},
+    {"id": "ENT.LIFE", "n": "ENT Life", "t": "ENT Life", "g": "Estilo de vida", "i": "https://www.40mediagroup.com/images/channels/ent-life.png", "d": "Estilo de vida, tendencias y bienestar.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/entlife/guia.json"},
+    {"id": "TOTALMUSIC", "n": "Totalmusic", "t": "Totalmusic", "g": "Música", "i": "https://www.40mediagroup.com/images/channels/totalmusic.png", "d": "Videos musicales y éxitos actuales.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/totalmusic/guia.json"},
+    {"id": "TOTALMUSIC.00S", "n": "Totalmusic 00s", "t": "Totalmusic 00s", "g": "Música", "i": "https://www.40mediagroup.com/images/channels/totalmusic-00s.png", "d": "Los mejores videos musicales de los años 2000.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/totalmusic-00s/guia.json"},
+    {"id": "TOTALMUSIC.80S", "n": "Totalmusic 80s", "t": "Totalmusic 80s", "g": "Música", "i": "https://www.40mediagroup.com/images/channels/totalmusic-80s.png", "d": "Los mejores videos musicales de los años 80.", "json_url": "https://api.40mediagroup.com/xmltv/programacion/totalmusic-80s/guia.json"},
 ]
 
 def clean_text(text):
     if not text: return ""
-    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;").replace("'", "&apos;")
+    return str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;").replace("'", "&apos;")
+
+def formatear_fecha_api(fecha_str):
+    try:
+        dt = datetime.datetime.fromisoformat(fecha_str.replace("Z", "+00:00"))
+        tz_offset = datetime.timezone(datetime.timedelta(hours=-3))
+        return dt.astimezone(tz_offset).strftime("%Y%m%d%H%M%S -0300")
+    except Exception:
+        return fecha_str
 
 def generar_epg():
     inicio_dinamico = (datetime.datetime.now() - datetime.timedelta(days=1)).replace(
@@ -451,7 +473,7 @@ def generar_epg():
             lines.append(f'  </programme>')
 
     for c in canales:
-        if "rafaela" in c["id"].lower() or c["id"].upper() == "DSHOW":
+        if "rafaela" in c["id"].lower() or c["id"].upper() == "DSHOW" or "json_url" in c:
             continue
             
         for d in range(7):
@@ -466,6 +488,30 @@ def generar_epg():
                 lines.append(f'    <icon src="{c.get("i")}"/>')
                 lines.append(f'    <category>{clean_text(c["g"])}</category>')
                 lines.append(f'  </programme>')
+
+    for c in canales:
+        if "json_url" not in c:
+            continue
+        
+        print(f"Descargando EPG para {c['id']} desde {c['json_url']}...")
+        try:
+            req = urllib.request.Request(c["json_url"], headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req) as response:
+                data = json.loads(response.read().decode('utf-8'))
+                for p in data.get("programmes", []):
+                    s_str = formatear_fecha_api(p.get("start"))
+                    e_str = formatear_fecha_api(p.get("stop"))
+                    lines.append(f'  <programme start="{s_str}" stop="{e_str}" channel="{c["id"]}">')
+                    lines.append(f'    <title>{clean_text(p.get("title"))}</title>')
+                    if p.get("desc"):
+                        lines.append(f'    <desc>{clean_text(p.get("desc"))}</desc>')
+                    if p.get("icon") or c.get("i"):
+                        lines.append(f'    <icon src="{p.get("icon") or c["i"]}"/>')
+                    if p.get("category"):
+                        lines.append(f'    <category>{clean_text(p.get("category"))}</category>')
+                    lines.append(f'  </programme>')
+        except Exception as e:
+            print(f"Error al procesar el canal {c['id']}: {e}")
 
     lines.append('</tv>')
     
