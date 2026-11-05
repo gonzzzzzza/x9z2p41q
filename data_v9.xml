@@ -249,6 +249,27 @@
   <channel id="West.TV.PE">
     <display-name>West TV</display-name>
   </channel>
+  <channel id="VIBRA.JUNIOR">
+    <display-name>Vibra Junior</display-name>
+  </channel>
+  <channel id="VIBRA.NOVELAS">
+    <display-name>Vibra Novelas</display-name>
+  </channel>
+  <channel id="VIBRA.SERIES">
+    <display-name>Vibra Series</display-name>
+  </channel>
+  <channel id="VIBRA.TERROR">
+    <display-name>Vibra Terror</display-name>
+  </channel>
+  <channel id="Mirai">
+    <display-name>Mirai</display-name>
+  </channel>
+  <channel id="EpicToon">
+    <display-name>EpicToon</display-name>
+  </channel>
+  <channel id="Retro.X">
+    <display-name>Retro X</display-name>
+  </channel>
   <channel id="Caras.TV">
     <display-name>Caras TV</display-name>
   </channel>
@@ -22271,6 +22292,1770 @@
     <desc>Un clásico espacio dedicado al cine del Lejano Oeste. Duelos, sheriffs y forajidos.</desc>
     <icon src="https://i.postimg.cc/C5MT6DLp/West.png"/>
     <category>Películas</category>
+  </programme>
+  <programme start="20261104000000 -0300" stop="20261104040000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261104040000 -0300" stop="20261104080000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261104080000 -0300" stop="20261104120000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261104120000 -0300" stop="20261104160000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261104160000 -0300" stop="20261104200000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261105000000 -0300" stop="20261105040000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261105040000 -0300" stop="20261105080000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261105080000 -0300" stop="20261105120000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261105120000 -0300" stop="20261105160000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261105160000 -0300" stop="20261105200000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261105200000 -0300" stop="20261106000000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261106000000 -0300" stop="20261106040000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261106040000 -0300" stop="20261106080000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261106080000 -0300" stop="20261106120000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261106120000 -0300" stop="20261106160000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261106160000 -0300" stop="20261106200000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261106200000 -0300" stop="20261107000000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261107000000 -0300" stop="20261107040000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261107040000 -0300" stop="20261107080000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261107080000 -0300" stop="20261107120000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261107120000 -0300" stop="20261107160000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261107160000 -0300" stop="20261107200000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261107200000 -0300" stop="20261108000000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261108000000 -0300" stop="20261108040000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261108040000 -0300" stop="20261108080000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261108080000 -0300" stop="20261108120000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261108120000 -0300" stop="20261108160000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261108160000 -0300" stop="20261108200000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261108200000 -0300" stop="20261109000000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261109000000 -0300" stop="20261109040000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261109040000 -0300" stop="20261109080000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261109080000 -0300" stop="20261109120000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261109120000 -0300" stop="20261109160000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261109160000 -0300" stop="20261109200000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261109200000 -0300" stop="20261110000000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261110000000 -0300" stop="20261110040000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261110040000 -0300" stop="20261110080000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261110080000 -0300" stop="20261110120000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261110120000 -0300" stop="20261110160000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261110160000 -0300" stop="20261110200000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261110200000 -0300" stop="20261111000000 -0300" channel="VIBRA.JUNIOR">
+    <title>Vibra Junior</title>
+    <desc>Imaginación, diversión y aprendizaje para los más pequeños con series y caricaturas de valores.</desc>
+    <icon src="https://i.imgur.com/xadwmkA.png"/>
+    <category>Infantil</category>
+  </programme>
+  <programme start="20261104000000 -0300" stop="20261104040000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261104040000 -0300" stop="20261104080000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261104080000 -0300" stop="20261104120000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261104120000 -0300" stop="20261104160000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261104160000 -0300" stop="20261104200000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261105000000 -0300" stop="20261105040000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261105040000 -0300" stop="20261105080000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261105080000 -0300" stop="20261105120000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261105120000 -0300" stop="20261105160000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261105160000 -0300" stop="20261105200000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261105200000 -0300" stop="20261106000000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261106000000 -0300" stop="20261106040000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261106040000 -0300" stop="20261106080000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261106080000 -0300" stop="20261106120000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261106120000 -0300" stop="20261106160000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261106160000 -0300" stop="20261106200000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261106200000 -0300" stop="20261107000000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261107000000 -0300" stop="20261107040000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261107040000 -0300" stop="20261107080000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261107080000 -0300" stop="20261107120000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261107120000 -0300" stop="20261107160000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261107160000 -0300" stop="20261107200000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261107200000 -0300" stop="20261108000000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261108000000 -0300" stop="20261108040000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261108040000 -0300" stop="20261108080000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261108080000 -0300" stop="20261108120000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261108120000 -0300" stop="20261108160000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261108160000 -0300" stop="20261108200000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261108200000 -0300" stop="20261109000000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261109000000 -0300" stop="20261109040000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261109040000 -0300" stop="20261109080000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261109080000 -0300" stop="20261109120000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261109120000 -0300" stop="20261109160000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261109160000 -0300" stop="20261109200000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261109200000 -0300" stop="20261110000000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261110000000 -0300" stop="20261110040000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261110040000 -0300" stop="20261110080000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261110080000 -0300" stop="20261110120000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261110120000 -0300" stop="20261110160000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261110160000 -0300" stop="20261110200000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261110200000 -0300" stop="20261111000000 -0300" channel="VIBRA.NOVELAS">
+    <title>Vibra Novelas</title>
+    <desc>Las telenovelas más recordadas y exitosas de la televisión latinoamericana, las 24 horas del día.</desc>
+    <icon src="https://i.imgur.com/TN6ElPo.png"/>
+    <category>Novelas</category>
+  </programme>
+  <programme start="20261104000000 -0300" stop="20261104040000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104040000 -0300" stop="20261104080000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104080000 -0300" stop="20261104120000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104120000 -0300" stop="20261104160000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104160000 -0300" stop="20261104200000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105000000 -0300" stop="20261105040000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105040000 -0300" stop="20261105080000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105080000 -0300" stop="20261105120000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105120000 -0300" stop="20261105160000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105160000 -0300" stop="20261105200000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105200000 -0300" stop="20261106000000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106000000 -0300" stop="20261106040000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106040000 -0300" stop="20261106080000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106080000 -0300" stop="20261106120000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106120000 -0300" stop="20261106160000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106160000 -0300" stop="20261106200000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106200000 -0300" stop="20261107000000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107000000 -0300" stop="20261107040000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107040000 -0300" stop="20261107080000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107080000 -0300" stop="20261107120000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107120000 -0300" stop="20261107160000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107160000 -0300" stop="20261107200000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107200000 -0300" stop="20261108000000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108000000 -0300" stop="20261108040000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108040000 -0300" stop="20261108080000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108080000 -0300" stop="20261108120000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108120000 -0300" stop="20261108160000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108160000 -0300" stop="20261108200000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108200000 -0300" stop="20261109000000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109000000 -0300" stop="20261109040000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109040000 -0300" stop="20261109080000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109080000 -0300" stop="20261109120000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109120000 -0300" stop="20261109160000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109160000 -0300" stop="20261109200000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109200000 -0300" stop="20261110000000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110000000 -0300" stop="20261110040000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110040000 -0300" stop="20261110080000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110080000 -0300" stop="20261110120000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110120000 -0300" stop="20261110160000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110160000 -0300" stop="20261110200000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110200000 -0300" stop="20261111000000 -0300" channel="VIBRA.SERIES">
+    <title>Vibra Series</title>
+    <desc>Las producciones que marcaron a millones: drama, misterio, suspenso y emoción en cada capítulo.</desc>
+    <icon src="https://i.imgur.com/PmczWGf.png"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104000000 -0300" stop="20261104040000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261104040000 -0300" stop="20261104080000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261104080000 -0300" stop="20261104120000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261104120000 -0300" stop="20261104160000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261104160000 -0300" stop="20261104200000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261105000000 -0300" stop="20261105040000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261105040000 -0300" stop="20261105080000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261105080000 -0300" stop="20261105120000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261105120000 -0300" stop="20261105160000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261105160000 -0300" stop="20261105200000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261105200000 -0300" stop="20261106000000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261106000000 -0300" stop="20261106040000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261106040000 -0300" stop="20261106080000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261106080000 -0300" stop="20261106120000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261106120000 -0300" stop="20261106160000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261106160000 -0300" stop="20261106200000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261106200000 -0300" stop="20261107000000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261107000000 -0300" stop="20261107040000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261107040000 -0300" stop="20261107080000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261107080000 -0300" stop="20261107120000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261107120000 -0300" stop="20261107160000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261107160000 -0300" stop="20261107200000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261107200000 -0300" stop="20261108000000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261108000000 -0300" stop="20261108040000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261108040000 -0300" stop="20261108080000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261108080000 -0300" stop="20261108120000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261108120000 -0300" stop="20261108160000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261108160000 -0300" stop="20261108200000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261108200000 -0300" stop="20261109000000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261109000000 -0300" stop="20261109040000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261109040000 -0300" stop="20261109080000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261109080000 -0300" stop="20261109120000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261109120000 -0300" stop="20261109160000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261109160000 -0300" stop="20261109200000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261109200000 -0300" stop="20261110000000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261110000000 -0300" stop="20261110040000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261110040000 -0300" stop="20261110080000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261110080000 -0300" stop="20261110120000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261110120000 -0300" stop="20261110160000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261110160000 -0300" stop="20261110200000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261110200000 -0300" stop="20261111000000 -0300" channel="VIBRA.TERROR">
+    <title>Vibra Terror</title>
+    <desc>Las películas de horror que desafían la mente y ponen a prueba tus nervios.</desc>
+    <icon src="https://i.imgur.com/HX4eP7s.png"/>
+    <category>Cine</category>
+  </programme>
+  <programme start="20261104000000 -0300" stop="20261104040000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104040000 -0300" stop="20261104080000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104080000 -0300" stop="20261104120000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104120000 -0300" stop="20261104160000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104160000 -0300" stop="20261104200000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105000000 -0300" stop="20261105040000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105040000 -0300" stop="20261105080000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105080000 -0300" stop="20261105120000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105120000 -0300" stop="20261105160000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105160000 -0300" stop="20261105200000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261105200000 -0300" stop="20261106000000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106000000 -0300" stop="20261106040000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106040000 -0300" stop="20261106080000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106080000 -0300" stop="20261106120000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106120000 -0300" stop="20261106160000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106160000 -0300" stop="20261106200000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261106200000 -0300" stop="20261107000000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107000000 -0300" stop="20261107040000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107040000 -0300" stop="20261107080000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107080000 -0300" stop="20261107120000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107120000 -0300" stop="20261107160000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107160000 -0300" stop="20261107200000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261107200000 -0300" stop="20261108000000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108000000 -0300" stop="20261108040000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108040000 -0300" stop="20261108080000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108080000 -0300" stop="20261108120000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108120000 -0300" stop="20261108160000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108160000 -0300" stop="20261108200000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261108200000 -0300" stop="20261109000000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109000000 -0300" stop="20261109040000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109040000 -0300" stop="20261109080000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109080000 -0300" stop="20261109120000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109120000 -0300" stop="20261109160000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109160000 -0300" stop="20261109200000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261109200000 -0300" stop="20261110000000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110000000 -0300" stop="20261110040000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110040000 -0300" stop="20261110080000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110080000 -0300" stop="20261110120000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110120000 -0300" stop="20261110160000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110160000 -0300" stop="20261110200000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261110200000 -0300" stop="20261111000000 -0300" channel="Mirai">
+    <title>Mirai</title>
+    <desc>La puerta de entrada al fascinante universo del entretenimiento asiático: K-Dramas y cine asiático.</desc>
+    <icon src="https://i.imgur.com/b9tdHz3.jpeg"/>
+    <category>Series</category>
+  </programme>
+  <programme start="20261104000000 -0300" stop="20261104040000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104040000 -0300" stop="20261104080000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104080000 -0300" stop="20261104120000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104120000 -0300" stop="20261104160000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104160000 -0300" stop="20261104200000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105000000 -0300" stop="20261105040000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105040000 -0300" stop="20261105080000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105080000 -0300" stop="20261105120000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105120000 -0300" stop="20261105160000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105160000 -0300" stop="20261105200000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105200000 -0300" stop="20261106000000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106000000 -0300" stop="20261106040000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106040000 -0300" stop="20261106080000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106080000 -0300" stop="20261106120000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106120000 -0300" stop="20261106160000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106160000 -0300" stop="20261106200000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106200000 -0300" stop="20261107000000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107000000 -0300" stop="20261107040000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107040000 -0300" stop="20261107080000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107080000 -0300" stop="20261107120000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107120000 -0300" stop="20261107160000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107160000 -0300" stop="20261107200000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107200000 -0300" stop="20261108000000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108000000 -0300" stop="20261108040000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108040000 -0300" stop="20261108080000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108080000 -0300" stop="20261108120000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108120000 -0300" stop="20261108160000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108160000 -0300" stop="20261108200000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108200000 -0300" stop="20261109000000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109000000 -0300" stop="20261109040000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109040000 -0300" stop="20261109080000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109080000 -0300" stop="20261109120000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109120000 -0300" stop="20261109160000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109160000 -0300" stop="20261109200000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109200000 -0300" stop="20261110000000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110000000 -0300" stop="20261110040000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110040000 -0300" stop="20261110080000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110080000 -0300" stop="20261110120000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110120000 -0300" stop="20261110160000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110160000 -0300" stop="20261110200000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110200000 -0300" stop="20261111000000 -0300" channel="EpicToon">
+    <title>EpicToon</title>
+    <desc>He-Man, Spider-Man, Robotech y los clásicos de la animación que nunca pasan de moda.</desc>
+    <icon src="https://i.imgur.com/9ZW3okE.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104000000 -0300" stop="20261104040000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104040000 -0300" stop="20261104080000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104080000 -0300" stop="20261104120000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104120000 -0300" stop="20261104160000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104160000 -0300" stop="20261104200000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105000000 -0300" stop="20261105040000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105040000 -0300" stop="20261105080000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105080000 -0300" stop="20261105120000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105120000 -0300" stop="20261105160000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105160000 -0300" stop="20261105200000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261105200000 -0300" stop="20261106000000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106000000 -0300" stop="20261106040000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106040000 -0300" stop="20261106080000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106080000 -0300" stop="20261106120000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106120000 -0300" stop="20261106160000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106160000 -0300" stop="20261106200000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261106200000 -0300" stop="20261107000000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107000000 -0300" stop="20261107040000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107040000 -0300" stop="20261107080000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107080000 -0300" stop="20261107120000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107120000 -0300" stop="20261107160000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107160000 -0300" stop="20261107200000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261107200000 -0300" stop="20261108000000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108000000 -0300" stop="20261108040000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108040000 -0300" stop="20261108080000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108080000 -0300" stop="20261108120000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108120000 -0300" stop="20261108160000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108160000 -0300" stop="20261108200000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261108200000 -0300" stop="20261109000000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109000000 -0300" stop="20261109040000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109040000 -0300" stop="20261109080000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109080000 -0300" stop="20261109120000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109120000 -0300" stop="20261109160000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109160000 -0300" stop="20261109200000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261109200000 -0300" stop="20261110000000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110000000 -0300" stop="20261110040000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110040000 -0300" stop="20261110080000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110080000 -0300" stop="20261110120000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110120000 -0300" stop="20261110160000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110160000 -0300" stop="20261110200000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
+  </programme>
+  <programme start="20261110200000 -0300" stop="20261111000000 -0300" channel="Retro.X">
+    <title>Retro X</title>
+    <desc>Los Picapiedras, He-Man, Candy Candy, Mazinger Z. Los clásicos que hicieron historia.</desc>
+    <icon src="https://i.imgur.com/REimMNr.png"/>
+    <category>Animación</category>
   </programme>
   <programme start="20261104000000 -0300" stop="20261104040000 -0300" channel="Caras.TV">
     <title>Caras TV</title>
@@ -92580,77 +94365,7 @@
     <icon src="https://i.ytimg.com/vi/dGQ25rVfUH4/maxresdefault.jpg"/>
     <category>Radios</category>
   </programme>
-  <programme start="20261105013420 -0300" stop="20261105030845 -0300" channel="ENT.FAMILY">
-    <title>Bolt: Un perro fuera de serie</title>
-    <desc>¡Que comience la acción! Prepárate para la aventura más absolutamente fabulosa de todos los tiempos cuando Bolt, el mejor héroe de todo el planeta, y yo, Rhino, su fiel compañero y leal hámster acompañante, ¡emprendemos una misión súper secreta! Como uno de los integrantes de...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/52549fed2d52f047ed6c95998d121400?w=400"/>
-    <category>Animación</category>
-  </programme>
-  <programme start="20261105030845 -0300" stop="20261105044719 -0300" channel="ENT.FAMILY">
-    <title>Navidad, loca Navidad</title>
-    <desc>La vida de lujos a la que los malacostumbró se esfuma por Navidad, y ahora un DJ de radio y sus cuatro hijos deberán arroparse hasta donde llegue la cobija y cooperar.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/03663cce3a728805e30182effccff08b?w=400"/>
-    <category>Drama</category>
-  </programme>
-  <programme start="20261105044719 -0300" stop="20261105061944 -0300" channel="ENT.FAMILY">
-    <title>Los pingüinos de papá</title>
-    <desc>Mr. Popper (Jim Carrey) es un poderoso empresario que se queda un tanto descolocado cuando recibe como herencia nada menos que... ¡6 pingüinos! Obviamente, su cuidado no es una tarea sencilla, circunstancia que provoca ciertos problemas tanto en el trabajo como en el hogar de...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/84d7845015d82cc7ab1a9015e84df2f4?w=400"/>
-    <category>Comedia</category>
-  </programme>
-  <programme start="20261105061944 -0300" stop="20261105072551 -0300" channel="ENT.FAMILY">
-    <title>Lilo y Stitch 2: Stitch en cortocircuito</title>
-    <desc>Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técni...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ff08d5e5ac678892aabfc9f35d6b5a9f?w=400"/>
-    <category>Animación</category>
-  </programme>
-  <programme start="20261105072551 -0300" stop="20261105085941 -0300" channel="ENT.FAMILY">
-    <title>Las Brujas</title>
-    <desc>Cuenta la conmovedora historia de un pequeño huérfano que, a finales de 1967, se va a vivir con su querida abuela a Demopolis, un pueblo de Alabama. El niño y su abuela tienen extraños encuentros con algunas brujas aparentemente glamurosas pero absolutamente diabólicas, así qu...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3794fee620c244e0ee8d0162b13ce205?w=400"/>
-    <category>Comedia</category>
-  </programme>
-  <programme start="20261105085941 -0300" stop="20261105092857 -0300" channel="ENT.FAMILY">
-    <title>Henry Monstruito</title>
-    <desc>The Hugglemonsters take Momma out for a nice dinner.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6c9f3601ab5f6b96987a59d15bf18530?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105092857 -0300" stop="20261105095851 -0300" channel="ENT.FAMILY">
-    <title>Los Imaginadores</title>
-    <desc>New customer Peggy has a big problem, a world-sized telephone book that is too heavy to move! The Imagination Movers have to put their skills to the test to come up with an easy way to move the book around.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/channels/ent-family/branding/fallback-a03206093374.png"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105095851 -0300" stop="20261105102815 -0300" channel="ENT.FAMILY">
-    <title>Es Pony</title>
-    <desc>Annie and Pony&apos;s new fruit and vegetable delivery service is threatened by a big corporation. Annie needs to find the perfect Mother&apos;s Day gift. Pony is convinced that Annie&apos;s magic trick is just the thing.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bb0bf75ecbd8d2e711ab2dc6726b396d?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105102815 -0300" stop="20261105105809 -0300" channel="ENT.FAMILY">
-    <title>El Chapulín Colorado</title>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6467978e16517a1ea3423120eb0aa955?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105105809 -0300" stop="20261105112827 -0300" channel="ENT.FAMILY">
-    <title>ALF</title>
-    <desc>ALF discovers the alluring world of horse racing thanks to Kate&apos;s mom who bets on them. When the concept of a bookie is explained to ALF, he gets the bright idea of getting the Tanners some money through betting.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0526c00958de609fced6b639528b80e9?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105112827 -0300" stop="20261105115956 -0300" channel="ENT.FAMILY">
-    <title>Dinosaurios</title>
-    <desc>A Robbie le presentan los aullidos y funky blues de la &apos;música del pantano&apos; y trata de cerrar la brecha entre especies consiguiendo que una compañía discográfica de dinosaurios publique un álbum de música de pantano de mamíferos.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c5bf8adfb46ba99d79128c8082790ec5?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105115956 -0300" stop="20261105122953 -0300" channel="ENT.FAMILY">
-    <title>El Zorro</title>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cec6bd61b485c0720c938eb14448d0af?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105122953 -0300" stop="20261105125941 -0300" channel="ENT.FAMILY">
+  <programme start="20261105122411 -0300" stop="20261105125941 -0300" channel="ENT.FAMILY">
     <title>El Chavo</title>
     <desc>Don Ramón cuelga sus corbatas en el tendedero, pero los niños las sacan todo el tiempo para jugar. Mientras tanto, Quico gana un perrito del Profesor Jirafales y él es bautizado de &quot;Ramoncito&quot;.</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fd9ec821b813a37a6e93956ec1cbe902?w=400"/>
@@ -93378,36 +95093,6 @@
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2a3014c13af767a53c9910d3975d99bd?w=400"/>
     <category>Aventura</category>
   </programme>
-  <programme start="20261105021410 -0300" stop="20261105040128 -0300" channel="ENT.CHANNEL">
-    <title>El Conjuro 3: El diablo me obligó a hacerlo</title>
-    <desc>Los investigadores de fenómenos paranormales Ed y Lorraine Warren se enfrentan a un nuevo caso: el de un hombre acusado de un terrible asesinato, que asegura haber sido poseído por un demonio.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dfee297b5c6857fd000087501b01b06c?w=400"/>
-    <category>Terror</category>
-  </programme>
-  <programme start="20261105040128 -0300" stop="20261105055937 -0300" channel="ENT.CHANNEL">
-    <title>Sobre-Natural</title>
-    <desc>Una extraña tormenta libera a una especie de criaturas sedientas de sangre en un pequeño pueblo, donde una pequeña banda de ciudadanos se esconde en un supermercado y lucha por sus vidas.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9beb8fb769cb257338359827ac5f01b0?w=400"/>
-    <category>Terror</category>
-  </programme>
-  <programme start="20261105055937 -0300" stop="20261105075833 -0300" channel="ENT.CHANNEL">
-    <title>La Vuelta al Mundo en 80 Días</title>
-    <desc>Para ganar una apuesta, un excéntrico inventor británico, junto con su valet chino y un aspirante a artista francés, se embarcan en un viaje lleno de aventuras y peligros alrededor del mundo en exactamente ochenta días.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/874d0e2887ea79004d65ba1b13fc00cf?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105075833 -0300" stop="20261105094616 -0300" channel="ENT.CHANNEL">
-    <title>Más rápido, más furioso</title>
-    <desc>El expolicía Brian O&apos;Conner es llamado a atrapar a un peligroso criminal y recluta la ayuda de un examigo de la infancia y corredor callejero que tiene la oportunidad de redimirse.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/acaf0946d63c8f653ac2cf23a10b0901?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105094616 -0300" stop="20261105114018 -0300" channel="ENT.CHANNEL">
-    <title>Ghostbusters: Apocalipsis fantasma</title>
-    <desc>La familia Spengler regresa al lugar donde empezó todo, la icónica estación de bomberos de la ciudad de Nueva York, para formar equipo con los Cazafantasmas originales, quienes han desarrollado un laboratorio de investigación ultrasecreto para llevar la caza de fantasmas al si...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0040fab5ec90af5d63106092e142e76c?w=400"/>
-    <category>Fantasía</category>
-  </programme>
   <programme start="20261105114018 -0300" stop="20261105133018 -0300" channel="ENT.CHANNEL">
     <title>X-Men: Dark Phoenix</title>
     <desc>Jean Grey comienza a desarrollar increíbles poderes que la corrompen y la convierten en un Fénix Oscuro, haciendo que los X-Men decidan si su vida vale más que toda la humanidad.</desc>
@@ -94014,42 +95699,6 @@
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5e67c326bae1fe95ac70f203ef37705c?w=400"/>
     <category>Serie</category>
   </programme>
-  <programme start="20261105005954 -0300" stop="20261105024821 -0300" channel="ENT.EXTREME">
-    <title>Asesino: Misión venganza</title>
-    <desc>Tras la muerte de su prometida en un ataque terrorista, Mitch Rapp es reclutado por los Black Ops y entrena bajo la dirección de Stan Hurley, un agente de la CIA. Rapp y Hurley tendrán que llevar a cabo una misión para detener una operación que podría desatar el caos a nivel i...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3dd0c74576d7ebfb23a98ed5b0344ef3?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105024821 -0300" stop="20261105042737 -0300" channel="ENT.EXTREME">
-    <title>Intrusos</title>
-    <desc>Dos niños que viven en países diferentes son visitados cada noche por un ser sin rostro que quiere apoderarse de ellos.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/537369d5130862e27694b349efd20270?w=400"/>
-    <category>Suspense</category>
-  </programme>
-  <programme start="20261105042737 -0300" stop="20261105055932 -0300" channel="ENT.EXTREME">
-    <title>El día del juicio final</title>
-    <desc>Thriller psicológico que gira en torno al interrogatorio, por parte de un agente del FBI, a un sospechoso de terrorismo para que confiese la ubicación de tres bombas nucleares preparadas para detonar en los E.E.U.U.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bd6c0527d08df82171108a0a350ea77a?w=400"/>
-    <category>Drama</category>
-  </programme>
-  <programme start="20261105055932 -0300" stop="20261105075820 -0300" channel="ENT.EXTREME">
-    <title>Capitán América: El Primer Vengador</title>
-    <desc>Steve Rogers, un soldado militar rechazado, se transforma en el Capitán América después de tomar una dosis de un «suero de Súper-Soldado». Pero ser el Capitán América tiene un precio cuando intenta acabar con un belicista y una organización terrorista.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3600d5e8d8db7214659c880331d149e1?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105075820 -0300" stop="20261105100203 -0300" channel="ENT.EXTREME">
-    <title>Misión: Imposible 2</title>
-    <desc>El agente del FMI Ethan Hunt es enviado a Sydney para encontrar y destruir una enfermedad genéticamente modificada llamada «Quimera».</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f0b63e8d40e945bf1f44e66c590399ff?w=400"/>
-    <category>Aventura</category>
-  </programme>
-  <programme start="20261105100203 -0300" stop="20261105114642 -0300" channel="ENT.EXTREME">
-    <title>Tras líneas enemigas</title>
-    <desc>Un piloto se ve atrapado detrás de las líneas enemigas después de ser derribado en territorio hostil. Con la ayuda de un equipo de rescate, lucha por sobrevivir mientras es perseguido por fuerzas enemigas decididas a capturarlo o eliminarlo.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f6be70e2ca0fd9972e3226b663f410e7?w=400"/>
-    <category>Acción</category>
-  </programme>
   <programme start="20261105114642 -0300" stop="20261105140313 -0300" channel="ENT.EXTREME">
     <title>La Última Pelea</title>
     <desc>Un veterano de guerra regresa a casa para ser entrenado por su padre, un boxeador retirado, para un torneo de artes marciales mixtas, lo que le lleva a redescubrir el vínculo con su padre mientras entra en conflicto con su hermano mayor.</desc>
@@ -94518,72 +96167,7 @@
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/170889da6b398ee93e4f8e24dd5fab0f?w=400"/>
     <category>Aventura</category>
   </programme>
-  <programme start="20261105014903 -0300" stop="20261105035352 -0300" channel="ENT.COMEDY">
-    <title>Deadpool &amp; Wolverine</title>
-    <desc>Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f03ba5fa9ec815e1fc3129f9f4ff9bb4?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105035352 -0300" stop="20261105055945 -0300" channel="ENT.COMEDY">
-    <title>El Escuadrón Suicida</title>
-    <desc>Los supervillanos Harley Quinn, Bloodsport, Peacemaker y una colección de convictos desquiciados de la prisión de Belle Reve se unen a la super-secreta y super-oscura Fuerza Especial X mientras son arrojados a la remota isla de Corto Maltese, infestada de enemigos.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cc256bc3f358bab351656a7beab4e8df?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105055945 -0300" stop="20261105073440 -0300" channel="ENT.COMEDY">
-    <title>Los locos Addams II</title>
-    <desc>La familia Addams intenta rescatar a su querido tío Lucas de su nuevo amor, una viuda negra llamada Debbie.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6df68a835213ef5f5247cb45fc7a6529?w=400"/>
-    <category>Comedia</category>
-  </programme>
-  <programme start="20261105073440 -0300" stop="20261105085944 -0300" channel="ENT.COMEDY">
-    <title>Loca Academia de Pilotos 2</title>
-    <desc>Topper Harley es hallado trabajando de chapuzas en un monasterio budista. La CIA le necesita para encabezar una misión de rescate en Irak: rescatar a la misión de rescate que tenía que rescatar a unos cautivos de la operación tormenta del desierto. Tug Benson, el presidente de...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/38e72e5adb065a10facd6ec2b3aabdeb?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105085944 -0300" stop="20261105092855 -0300" channel="ENT.COMEDY">
-    <title>Dinosaurios</title>
-    <desc>El lider Elder muere después de dar un nombre a Peque. B.P Richfield se postula para ser el nuevo lider Elder. Él elige a Earl como su oponente para derrotarle; Earl está de acuerdo en ser su oponente y perder, hasta que su conciencia lo convence de que lo mejor para todos es...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/107348b09eba5f0c97eb640ff3c08291?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105092855 -0300" stop="20261105095825 -0300" channel="ENT.COMEDY">
-    <title>La Niñera</title>
-    <desc>Es el primer aniversario de Fran en la casa Sheffield, pero Maxwell parece ser que lo olvidó, y que ha puesto a Fran en un humor de perros. Mientras tanto, Grace y sus compañeras de Girl Scouts han asignado a cada uno de los miembros del asilo de ancianos, pero los abuelos que...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7dcad1126ec3173591649f8281823b3e?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105095825 -0300" stop="20261105102955 -0300" channel="ENT.COMEDY">
-    <title>El Chapulín Colorado</title>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ac7ced0049c7149a34be5bd7f05318cd?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105102955 -0300" stop="20261105105848 -0300" channel="ENT.COMEDY">
-    <title>ALF</title>
-    <desc>Alien life form Gordon Shumway crash lands into the garage of the Tanner family. The Tanners call him &quot;ALF&quot; decide to keep his presence a secret so that the U.S. Government will not take away the space being and subject him to exp...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3dffcfb96edff572819c9ae881dbad6e?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105105848 -0300" stop="20261105112947 -0300" channel="ENT.COMEDY">
-    <title>Malcolm el de en Medio</title>
-    <desc>La escuela de Malcolm ha preparado un día de campo, todos los alumnos de la clase de avanzados han preparado proyectos para la feria de ciencias y Malcolm tambien está incluido, solo que le molesta tener que hacerlo... Malcolm tratará de sabotear el dia de campo para no tener...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ecbd5adaf2f57e95819a69c146da516?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105112947 -0300" stop="20261105115957 -0300" channel="ENT.COMEDY">
-    <title>Friends</title>
-    <desc>Rachel espera a Ross en el aeropuerto, sin percatarse de que él está regresando de China con Julie, su nueva novia. Phoebe le hace a Monica un corte de pelo horrible.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b65579ec50fa16b8dfbe37091e53f58c?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105115957 -0300" stop="20261105122856 -0300" channel="ENT.COMEDY">
-    <title>El Chavo</title>
-    <desc>Doña Clotilde le pide al Chavo que deje un pastel en la casa de Don Ramón. Al mismo tiempo, Doña Florinda le pide a Quico que compre un pastel para el Profesor Jirafales. Pero un recado hace que el Señor Barriga crea que Doña Florinda es su &quot;admiradora secreta&quot;.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2e2a316799bbde536e8f4f37a9a75762?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105122856 -0300" stop="20261105125936 -0300" channel="ENT.COMEDY">
+  <programme start="20261105122234 -0300" stop="20261105125936 -0300" channel="ENT.COMEDY">
     <title>Los Simpson</title>
     <desc>Tras sufrir un ataque cardíaco, el abuelo Simpson le confiesa a Homero que tiene un hermano desconocido. Homero investiga y encuentra a su hermanastro perdido, Herb Powell, que resulta ser un millonario, presidente de una compañía automovilística.</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/000e5096d4f5ffb6b25bd87fea3cdc9d?w=400"/>
@@ -95345,30 +96929,6 @@
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/57a8a2e144c1c500f495a1051a2ab698?w=400"/>
     <category>Serie</category>
   </programme>
-  <programme start="20261105012912 -0300" stop="20261105040754 -0300" channel="ENT.MOVIES">
-    <title>Ojos bien cerrados</title>
-    <desc>William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo e...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e6184cf7cd77d91db440177b10a8a05e?w=400"/>
-    <category>Drama</category>
-  </programme>
-  <programme start="20261105040754 -0300" stop="20261105055918 -0300" channel="ENT.MOVIES">
-    <title>300</title>
-    <desc>En el año 480 antes de Cristo, existe un estado de guerra entre Persia, dirigida por el rey Jerjes, y Grecia. En la batalla de la Termópilas, Leonidas, rey de la ciudad griega de Esparta, encabeza a sus 300 bravos soldados en contra del numeroso ejército persa. A pesar de que...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e88c19e6ac38f3ea6cafa1494ea2111a?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105055918 -0300" stop="20261105083008 -0300" channel="ENT.MOVIES">
-    <title>Misión Rescate</title>
-    <desc>Durante una misión a Marte de la nave tripulada Ares III, una fuerte tormenta se desata dando por desaparecido y muerto al astronauta Mark Watney (Matt Damon), sus compañeros toman la decisión de irse pero él ha sobrevivido. Está solo y sin apenas recursos en el planeta. Con m...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4f11fa0504678cfdb3be46d1b6054fe4?w=400"/>
-    <category>Ciencia ficción</category>
-  </programme>
-  <programme start="20261105083008 -0300" stop="20261105112224 -0300" channel="ENT.MOVIES">
-    <title>El Código Da Vinci</title>
-    <desc>El catedrático y afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el asesinato de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas. Con la ayuda de la criptógrafa de la policía Sophie Neveu y poniendo en...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c062547da06868220e97a36ad521071f?w=400"/>
-    <category>Suspense</category>
-  </programme>
   <programme start="20261105112224 -0300" stop="20261105124216 -0300" channel="ENT.MOVIES">
     <title>Chicken Little</title>
     <desc>Cuando el cielo se está cayendo y la cordura ha volado del nido, Chicken Little debe urdir un plan para salvar al planeta de la invasión alienígena y demostrar que el héroe más grande del mundo es un pollito.</desc>
@@ -95854,42 +97414,6 @@
     <desc>Una nave espacial llega a Arizona, 1873, para apoderarse de la Tierra, empezando por la región del Salvaje Oeste. Una pandilla de vaqueros y nativos es todo lo que se interpone en su camino.</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fd95922e7bf1218ae9a448cb8aa1a811?w=400"/>
     <category>Ciencia ficción</category>
-  </programme>
-  <programme start="20261105022046 -0300" stop="20261105035951 -0300" channel="ENT.DRAMA">
-    <title>Banshee</title>
-    <desc>Ana makes arrangements to kidnap Hood and leave him for Rabbit to find. A drugstore hold-up turns into a hostage situation at the local high school. Job frees Lucas in time for him to save the students in the school, including Deva.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/647b03b804d26685313a4de45c6c80fc?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105035951 -0300" stop="20261105045939 -0300" channel="ENT.DRAMA">
-    <title>El visitante</title>
-    <desc>Holly expone su teoría sobre la conexión entre dos misteriosos asesinatos de niños y el caso de Frankie Peterson. Ralph se muestra escéptico, pero Yunis sugiere investigar a Claude.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4b74229745fdb3b85a8801bd2db1da67?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105045939 -0300" stop="20261105055923 -0300" channel="ENT.DRAMA">
-    <title>No te metas con los gatos: Un asesino en internet</title>
-    <desc>Tras la aparición de un video siniestro, un grupo de defensores de animales se organiza en las redes para buscar justicia. No saben lo que les espera.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b564d7918e169bac4605a69fb0a7ee15?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105055923 -0300" stop="20261105073816 -0300" channel="ENT.DRAMA">
-    <title>¡Cuidado: Bebé suelto!</title>
-    <desc>Baby Bink no podía pedir más; tiene padres adoradores (aunque algo enfermos), vive en una gran mansión, y está a punto de aparecer en las páginas sociales del periódico. Desafortunadamente, no todos en el mundo son tan agradables como los padres de Bink; especialmente los tres...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a268ad51ad16ddf6296fbc07259dc6f?w=400"/>
-    <category>Comedia</category>
-  </programme>
-  <programme start="20261105073816 -0300" stop="20261105093221 -0300" channel="ENT.DRAMA">
-    <title>Jack Reacher: Bajo la Mira</title>
-    <desc>Cuando un pistolero toma cinco vidas con seis disparos, todas las pruebas apuntan al sospechoso bajo custodia. En el interrogatorio, el sospechoso ofrece una sola nota: &quot;¡Obtén a Jack Reacher!&quot; Entonces comienza una persecución extraordinaria por la verdad, enfrentando a Jack...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/eb2c85b3bfafa632a0046b7a38a23fda?w=400"/>
-    <category>Crimen</category>
-  </programme>
-  <programme start="20261105093221 -0300" stop="20261105113140 -0300" channel="ENT.DRAMA">
-    <title>Dulce noviembre</title>
-    <desc>Nelson es un hombre dedicado a su carrera publicitaria en San Francisco. Un día, tomando un examen de conducir en el DMV, encuentra a Sara. Es muy diferente de las otras mujeres en su vida. Nelson hace que ella deje pasar la toma de la prueba y más tarde ese día le detecta. Un...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b1260f48ee48eff4b3c9ec658afef348?w=400"/>
-    <category>Drama</category>
   </programme>
   <programme start="20261105113140 -0300" stop="20261105130228 -0300" channel="ENT.DRAMA">
     <title>Aladdin</title>
@@ -96465,64 +97989,6 @@
     <desc>El crimen perfecto, sin víctimas, sin violencia e indetectable, se tuerce fatalmente en Blindado, un thriller lleno de acción donde todo es posible. Un grupo de guardias de seguridad que escoltan un camión blindado ejecuta un meticuloso plan para robar a la compañía de segurid...</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9c572c3d9d658657fc2080468fb8a751?w=400"/>
     <category>Acción</category>
-  </programme>
-  <programme start="20261105015142 -0300" stop="20261105033958 -0300" channel="ENT.CLASSIC">
-    <title>Terminator: El exterminador</title>
-    <desc>Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será elim...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9e58657f715f8daf6ad85a18448c79b8?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105033958 -0300" stop="20261105055957 -0300" channel="ENT.CLASSIC">
-    <title>El Mediador</title>
-    <desc>Víctima de una compleja conspiración, Danny Roman, un experto negociador de la policía especializado en secuestros, se ve obligado a tomar rehenes con el fin de probar su inocencia. Además, con la ayuda de un prestigioso colega, intentará descubrir quién está detrás de la tram...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3b8723b3836b1c7752153b8a45fd639f?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261105055957 -0300" stop="20261105072715 -0300" channel="ENT.CLASSIC">
-    <title>Shrek</title>
-    <desc>Un malvado lord exilia a las criaturas de cuentos de hadas al pantano de un ogro gruñón, que debe ir en busca y rescatar a una princesa para el lord con el fin de recuperar su tierra.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/584d4898f50133e85ef2b44cc5795b9f?w=400"/>
-    <category>Animación</category>
-  </programme>
-  <programme start="20261105072715 -0300" stop="20261105085958 -0300" channel="ENT.CLASSIC">
-    <title>Rebeldes</title>
-    <desc>Una rivalidad entre pandillas provoca una tragedia en la década de los sesenta en Oklahoma entre los Soc y los Greasers. Un joven sensible enloquece cuando su mejor amigo mata a un miembro de una pandilla rival.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7a21599e268a47eb572cabc803582f92?w=400"/>
-    <category>Crimen</category>
-  </programme>
-  <programme start="20261105085958 -0300" stop="20261105092959 -0300" channel="ENT.CLASSIC">
-    <title>El Chavo</title>
-    <desc>Doña Clotilde le pide al Chavo que deje un pastel en la casa de Don Ramón. Al mismo tiempo, Doña Florinda le pide a Quico que compre un pastel para el Profesor Jirafales. Pero un recado hace que el Señor Barriga crea que Doña Florinda es su &quot;admiradora secreta&quot;.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2e2a316799bbde536e8f4f37a9a75762?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105092959 -0300" stop="20261105095846 -0300" channel="ENT.CLASSIC">
-    <title>El Chapulín Colorado</title>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ac7ced0049c7149a34be5bd7f05318cd?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105095846 -0300" stop="20261105102810 -0300" channel="ENT.CLASSIC">
-    <title>Dinosaurios</title>
-    <desc>El lider Elder muere después de dar un nombre a Peque. B.P Richfield se postula para ser el nuevo lider Elder. Él elige a Earl como su oponente para derrotarle; Earl está de acuerdo en ser su oponente y perder, hasta que su conciencia lo convence de que lo mejor para todos es...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/107348b09eba5f0c97eb640ff3c08291?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105102810 -0300" stop="20261105105843 -0300" channel="ENT.CLASSIC">
-    <title>ALF</title>
-    <desc>Alien life form Gordon Shumway crash lands into the garage of the Tanner family. The Tanners call him &quot;ALF&quot; decide to keep his presence a secret so that the U.S. Government will not take away the space being and subject him to exp...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3dffcfb96edff572819c9ae881dbad6e?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105105843 -0300" stop="20261105112920 -0300" channel="ENT.CLASSIC">
-    <title>El Zorro</title>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/20438342de455ffce3adb0f357e5e6e6?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105112920 -0300" stop="20261105115852 -0300" channel="ENT.CLASSIC">
-    <title>La Niñera</title>
-    <desc>Es el primer aniversario de Fran en la casa Sheffield, pero Maxwell parece ser que lo olvidó, y que ha puesto a Fran en un humor de perros. Mientras tanto, Grace y sus compañeras de Girl Scouts han asignado a cada uno de los miembros del asilo de ancianos, pero los abuelos que...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7dcad1126ec3173591649f8281823b3e?w=400"/>
-    <category>Serie</category>
   </programme>
   <programme start="20261105115852 -0300" stop="20261105141221 -0300" channel="ENT.CLASSIC">
     <title>Una Mente Brillante</title>
@@ -97169,48 +98635,6 @@
     <desc>Telly Paretta se encuentra atormentada por el recuerdo de su hijo de ocho años, Sam, fallecido hace 14 meses en un accidente aéreo. Mientras intenta superar la pena y el consiguiente alejamiento de su marido Jim, su psiquiatra, el Dr. Munce, le informa de que está sufriendo al...</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dfcdbff56ef0a0e831d8c75529b9e6d9?w=400"/>
     <category>Suspense</category>
-  </programme>
-  <programme start="20261105014746 -0300" stop="20261105040528 -0300" channel="ENT.LIFE">
-    <title>Los Ángeles al desnudo</title>
-    <desc>Años 50. Tres policías de Los Ángeles se ven envueltos en una intriga criminal que destapa los trapos sucios del Departamento. Para recuperar el prestigio perdido, tres agentes muy diferentes entre sí, el impetuoso Bud White, el formal Ed Exely y el ambicioso Jack Vincennes se...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/17d1c3a175bb6d208fa24124ef4aca0a?w=400"/>
-    <category>Crimen</category>
-  </programme>
-  <programme start="20261105040528 -0300" stop="20261105055949 -0300" channel="ENT.LIFE">
-    <title>Un día de furia</title>
-    <desc>En Los Ángeles, durante una jornada especialmente agobiante a causa del calor y del colapso del tráfico, de repente, un ciudadano normal se rebela de manera violenta y destructiva contra todo lo que lo rodea. Bill Foster (Michael Douglas) no es más que un hombre corriente que...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/be98d47441d5a04e54f390207eace8a7?w=400"/>
-    <category>Crimen</category>
-  </programme>
-  <programme start="20261105055949 -0300" stop="20261105080558 -0300" channel="ENT.LIFE">
-    <title>Papás por Siempre</title>
-    <desc>El cariñoso pero irresponsable Daniel Hillard, separado de su cónyuge exasperada, es aplastado por una orden judicial que permite visitas para ver a sus hijos sólo ciertos dias de la semana. Cuando Daniel aprende las necesidades de una ama de casa, consigue trabajo - disfrazad...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/76c9c84693d79d0a89a391999d0589ff?w=400"/>
-    <category>Comedia</category>
-  </programme>
-  <programme start="20261105080558 -0300" stop="20261105095841 -0300" channel="ENT.LIFE">
-    <title>Luna de miel en familia</title>
-    <desc>Un hombre y una mujer va un resort con sus respectivas familias y no pueden ocultar su sorpresa al verse el uno al otro. Ya se conocían, había tenido una cita a ciegas hace algún tiempo, una cita cuyo resultado no había sido para nada satisfactorio. No obstante, contra todo pr...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/53145d7f7f6a4c76e0171a4160985f43?w=400"/>
-    <category>Comedia</category>
-  </programme>
-  <programme start="20261105095841 -0300" stop="20261105104329 -0300" channel="ENT.LIFE">
-    <title>Dr. House</title>
-    <desc>Una adolescente de 15 años, trabaja como supermodelo y sufre una cataplexia mientras desfila. En el hospital descubrirán que es heroinómana y padece abusos sexuales. Y algo más...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fb02dac5e841791bee0deaa382f671c2?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105104329 -0300" stop="20261105112824 -0300" channel="ENT.LIFE">
-    <title>Anatomía según Grey</title>
-    <desc>Richard interroga a los residentes sobre lo que pasó con Denny. Meredith y Derek se despiden de Doc. El hospital es sede de un baile de graduación.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/49691d5d85de0bcca38df796de582f1c?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261105112824 -0300" stop="20261105115958 -0300" channel="ENT.LIFE">
-    <title>Tacaños extremos</title>
-    <desc>With their wedding only days away, frugal couple Anne Marie and Peter save a fortune by dumpster diving for decorations. NYC Bartender Anthony looks for an apartment and refuses to spend anywhere near the rent of pricey New York apar</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/991ef79df17906ff2ddfbf8529093d6a?w=400"/>
-    <category>Serie</category>
   </programme>
   <programme start="20261105115958 -0300" stop="20261105135834 -0300" channel="ENT.LIFE">
     <title>Ángeles inesperados</title>
