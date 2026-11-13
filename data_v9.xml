@@ -95130,12 +95130,6 @@
     <icon src="https://i.ytimg.com/vi/dGQ25rVfUH4/maxresdefault.jpg"/>
     <category>Radios</category>
   </programme>
-  <programme start="20261113000257 -0300" stop="20261113020940 -0300" channel="ENT.FAMILY">
-    <title>El Quinto Elemento</title>
-    <desc>Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/763ea1897c8acd01ff51990b5a423102?w=400"/>
-    <category>Ciencia ficción</category>
-  </programme>
   <programme start="20261113020940 -0300" stop="20261113033333 -0300" channel="ENT.FAMILY">
     <title>Reyes de las olas</title>
     <desc>Seguido por un equipo que documenta su vida, Cody Maverick, un pingüino surfista, deja a su familia por participar en un campeonato de surf.</desc>
@@ -95913,29 +95907,6 @@
     <desc>Mabel, una amante de los animales, utiliza una nueva e inteligente tecnología diseñada para &quot;transmitir&quot; la conciencia humana a animales robóticos realistas en un intento de comunicarse con los castores, descubriendo misterios dentro del mundo animal más allá de lo que pudiera...</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fa25043ae22db83eaacca50cb4e9b9e7?w=400"/>
     <category>Animación</category>
-  </programme>
-  <programme start="20261112235811 -0300" stop="20261113000931 -0300" channel="ENT.CHANNEL">
-    <title>Smiling Friends</title>
-    <desc>¿Quién es el magnate de la comida rápida Simon S. Salty? ¿Por qué ha sido brutalmente asesinado en su restaurante? ¿Quién habrá sido el asesino?</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9556b7bf33cd17e3036496e6c12beebd?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261113000931 -0300" stop="20261113002843 -0300" channel="ENT.CHANNEL">
-    <title>Smiling Friends</title>
-    <desc>Pim y Charlie se adentran en el misterioso Bosque Encantado para ayudar a una princesa y se topan con todo tipo de personajes locos.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/57a8a2e144c1c500f495a1051a2ab698?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261113002843 -0300" stop="20261113010101 -0300" channel="ENT.CHANNEL">
-    <title>El asombroso circo digital</title>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d9d1082c93f8226a8a633a3e9ccb14a3?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261113010101 -0300" stop="20261113014912 -0300" channel="ENT.CHANNEL">
-    <title>Breaking Bad</title>
-    <desc>Walter intenta iniciar un trato con Declan, y Hank —quien tuvo que dejar ir a Mike— ahora tiene en la mira al abogado que ha estado pagando a los hombres de Mike.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e1dcbb0625efca1fed6918efe24f74c8?w=400"/>
-    <category>Serie</category>
   </programme>
   <programme start="20261113014912 -0300" stop="20261113031516 -0300" channel="ENT.CHANNEL">
     <title>Fuera de Control</title>
@@ -97071,13 +97042,7 @@
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/720213343fdd407c3d91f9d8b8b1b75d?w=400"/>
     <category>Acción</category>
   </programme>
-  <programme start="20261112235957 -0300" stop="20261113013700 -0300" channel="ENT.COMEDY">
-    <title>Equipo Demolición</title>
-    <desc>Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a5267dbe9f119193de9883aa1805523?w=400"/>
-    <category>Acción</category>
-  </programme>
-  <programme start="20261113013700 -0300" stop="20261113031952 -0300" channel="ENT.COMEDY">
+  <programme start="20261113014157 -0300" stop="20261113031952 -0300" channel="ENT.COMEDY">
     <title>Wet Hot American Summer</title>
     <desc>Set on the last day of camp, in the hot summer of 1981, a group of counselors try to complete their unfinished business before the day ends.</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f7e4e6a6c0b4de5b78251810637c498c?w=400"/>
@@ -97886,13 +97851,7 @@
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/53755142e7b0613e1c021fc62874cb11?w=400"/>
     <category>Serie</category>
   </programme>
-  <programme start="20261112235857 -0300" stop="20261113015714 -0300" channel="ENT.MOVIES">
-    <title>Prometeo</title>
-    <desc>Un equipo de exploradores descubre una pista a los orígenes de humanidad en la Tierra, conduciéndolos en un viaje a las esquinas más oscuras del universo. Allí, deben luchar una batalla aterradora para salvar el futuro de la raza humana.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b12b9f23100974d1dec63717111edc4e?w=400"/>
-    <category>Ciencia ficción</category>
-  </programme>
-  <programme start="20261113015714 -0300" stop="20261113035005 -0300" channel="ENT.MOVIES">
+  <programme start="20261113020042 -0300" stop="20261113035005 -0300" channel="ENT.MOVIES">
     <title>Miseria</title>
     <desc>El novelista Paul Sheldon choca su auto en una carretera nevada de Colorado. Annie Wilkes, el &quot;fanático número uno&quot; de la heroína Misery Chastaine, lo encuentra. Annie también es algo inestable, y Paul se encuentra lisiado, drogado y a su merced.</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/349bffa4d82792ef209f6b5c0b1c708c?w=400"/>
@@ -98389,18 +98348,6 @@
     <desc>Reuben Feffer es un hombre meticuloso cuya vida cambia drásticamente cuando se encuentra con su antiguo amor, Polly Prince. Entre sus diferencias y excentricidades, Reuben se embarca en un viaje caótico hacia el amor y la autoaceptación, donde aprenderá que a veces lo inespera...</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7710136b6910453d00313505a19ef341?w=400"/>
     <category>Comedia</category>
-  </programme>
-  <programme start="20261113000359 -0300" stop="20261113005957 -0300" channel="ENT.DRAMA">
-    <title>The Last of Us</title>
-    <desc>Una Anna embarazada deposita su confianza en una amiga de toda la vida. Más tarde, Joel y Ellie se acercan al final de su viaje.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8d65dc07ad6b8e7e14c7553f1a9dcc72?w=400"/>
-    <category>Serie</category>
-  </programme>
-  <programme start="20261113005957 -0300" stop="20261113015825 -0300" channel="ENT.DRAMA">
-    <title>MINDHUNTER</title>
-    <desc>Por primera vez, las investigaciones de Holden y Tench conducen a un arresto, lo que convence a Tench de incorporar a la Dra. Wendy Carr al equipo.</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/02de2d7911d934b61a55e7151b844ffc?w=400"/>
-    <category>Serie</category>
   </programme>
   <programme start="20261113015825 -0300" stop="20261113025816 -0300" channel="ENT.DRAMA">
     <title>Big Little Lies</title>
@@ -99025,12 +98972,6 @@
     <desc>Andrew Beckett, un joven y prometedor abogado de Philadelphia, es despedido del prestigioso bufete en el que trabaja cuando sus jefes se enteran de que ha contraído el sida. Decide entonces demandar a la empresa por despido improcedente, pero en un principio ningún abogado ace...</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/702c73ad622f52d117a33c43c29cc9e9?w=400"/>
     <category>Drama</category>
-  </programme>
-  <programme start="20261113000303 -0300" stop="20261113014633 -0300" channel="ENT.CLASSIC">
-    <title>Ojos de serpiente</title>
-    <desc>Ricky Santoro es un turbio agente de policía de Atlantic City que, en la noche en que se disputa el combate de boxeo por el campeonato del mundo de los pesos pesados, debe evitar el asesinato del Secretario de Defensa de los Estados Unidos. Tiene la misión de ayudar a su amigo...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/47c2d619ed0f1d892b06076265ff2868?w=400"/>
-    <category>Crimen</category>
   </programme>
   <programme start="20261113014633 -0300" stop="20261113034533 -0300" channel="ENT.CLASSIC">
     <title>Kalifornia</title>
@@ -99725,13 +99666,7 @@
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ca2862fd6b91b03448e848ba8abb08d0?w=400"/>
     <category>Fantasía</category>
   </programme>
-  <programme start="20261112235828 -0300" stop="20261113015457 -0300" channel="ENT.LIFE">
-    <title>Ni en sueños</title>
-    <desc>Cuando Fred Flarsky (Seth Rogen) se reencuentra inesperadamente con el primer amor de su vida, que ahora es una de las mujeres más influyentes del mundo, Charlotte Field (Charlize Theron), logra llamar su atención gracias a su peculiar sentido del humor y a su visión idealista...</desc>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b13ce1ca78ba952ce254cd13ffa808ca?w=400"/>
-    <category>Comedia</category>
-  </programme>
-  <programme start="20261113015457 -0300" stop="20261113035501 -0300" channel="ENT.LIFE">
+  <programme start="20261113020022 -0300" stop="20261113035501 -0300" channel="ENT.LIFE">
     <title>Un día de furia</title>
     <desc>En Los Ángeles, durante una jornada especialmente agobiante a causa del calor y del colapso del tráfico, de repente, un ciudadano normal se rebela de manera violenta y destructiva contra todo lo que lo rodea. Bill Foster (Michael Douglas) no es más que un hombre corriente que...</desc>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/be98d47441d5a04e54f390207eace8a7?w=400"/>
