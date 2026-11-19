@@ -22,22 +22,69 @@ jobs:
         run: python generar_epg.py
 
       - name: Update EPG on AlwaysData
+        id: update_epg
         run: |
-          set -e
           urls=(
             "https://gonza.alwaysdata.net/epg-movistar/index.php?action=generar_epg"
             "https://gonza.alwaysdata.net/epg-mvshub/index.php?action=generar_epg"
             "https://gonza.alwaysdata.net/epg-vivo/index.php?action=generar_epg"
-            "https://gonza.alwaysdata.net/epg-tv360/index.php?action=generar_epg"
+            "https://gonza.alwaysdata.net/epg-360tv/index.php?action=generar_epg"
           )
 
+          failed_list=""
+
           for url in "${urls[@]}"; do
+            echo "----------------------------------------"
             echo "Disparando: $url"
-            resp=$(curl -fsSL --max-time 180 \
+            body_file=$(mktemp)
+
+            http_code=$(curl -sS -L \
+              --max-time 240 \
+              --retry 2 \
+              --retry-delay 10 \
+              -w "%{http_code}" \
+              -o "$body_file" \
               -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36" \
-              "$url")
-            echo "Respuesta: $resp"
+              "$url") || curl_exit=$?
+
+            curl_exit=${curl_exit:-0}
+            echo "HTTP Status: $http_code | curl exit: $curl_exit"
+            head -c 300 "$body_file"; echo ""
+            rm -f "$body_file"
+
+            if [ "$curl_exit" -ne 0 ] || [ "$http_code" -lt 200 ] || [ "$http_code" -ge 300 ]; then
+              echo "::error::Falló $url (HTTP $http_code, curl exit $curl_exit)"
+              failed_list="${failed_list}- ${url} (HTTP ${http_code}, exit ${curl_exit})\n"
+            fi
           done
+
+          {
+            echo "failed_list<<EOF"
+            printf "%b" "$failed_list"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+          if [ -n "$failed_list" ]; then
+            echo "has_errors=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_errors=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send Email on EPG Failure
+        if: steps.update_epg.outputs.has_errors == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Error actualizando EPG en AlwaysData"
+          to: ${{ secrets.MAIL_TO }}
+          from: "GitHub Actions <${{ secrets.SMTP_USERNAME }}>"
+          body: |
+            Fallaron las siguientes EPGs durante la ejecución del workflow:
+
+            ${{ steps.update_epg.outputs.failed_list }}
 
       - name: Push Changes
         run: |
@@ -50,3 +97,9 @@ jobs:
             git commit -m "upd $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
+
+      - name: Fail Job if Any EPG Failed
+        if: steps.update_epg.outputs.has_errors == 'true'
+        run: |
+          echo "Al menos una EPG falló. Revisar el detalle arriba o el correo."
+          exit 1
