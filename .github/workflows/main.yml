@@ -21,7 +21,7 @@ jobs:
       - name: Run Script
         run: python generar_epg.py
 
-      - name: Actualizar EPGs en alwaysdata
+      - name: Update EPG on AlwaysData
         run: |
           set -e
           urls=(
