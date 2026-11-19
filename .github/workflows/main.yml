@@ -2,7 +2,7 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '17 7 * * *'
 
 jobs:
   run:
@@ -72,6 +72,7 @@ jobs:
 
       - name: Send Email on EPG Failure
         if: steps.update_epg.outputs.has_errors == 'true'
+        continue-on-error: true
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
@@ -101,5 +102,5 @@ jobs:
       - name: Fail Job if Any EPG Failed
         if: steps.update_epg.outputs.has_errors == 'true'
         run: |
-          echo "Al menos una EPG falló. Revisar el detalle arriba o el correo."
+          echo "Al menos una EPG falló. Revisar el detalle arriba."
           exit 1
