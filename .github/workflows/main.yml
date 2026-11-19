@@ -21,6 +21,24 @@ jobs:
       - name: Run Script
         run: python generar_epg.py
 
+      - name: Actualizar EPGs en alwaysdata
+        run: |
+          set -e
+          urls=(
+            "https://gonza.alwaysdata.net/epg-movistar/index.php?action=generar_epg"
+            "https://gonza.alwaysdata.net/epg-mvshub/index.php?action=generar_epg"
+            "https://gonza.alwaysdata.net/epg-vivo/index.php?action=generar_epg"
+            "https://gonza.alwaysdata.net/epg-tv360/index.php?action=generar_epg"
+          )
+
+          for url in "${urls[@]}"; do
+            echo "Disparando: $url"
+            resp=$(curl -fsSL --max-time 180 \
+              -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36" \
+              "$url")
+            echo "Respuesta: $resp"
+          done
+
       - name: Push Changes
         run: |
           git config --local user.email "action@github.com"
