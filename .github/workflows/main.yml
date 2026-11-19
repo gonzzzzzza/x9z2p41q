@@ -44,7 +44,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "Bot"
           git add data_v9.xml
-          # Verifica si hay cambios reales antes de hacer commit
           if git diff --staged --quiet; then
             echo "No hay cambios para subir"
           else
